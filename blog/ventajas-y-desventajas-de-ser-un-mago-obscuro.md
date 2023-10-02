@@ -1,0 +1,55 @@
+---
+title: Ventajas y Desventajas de ser un mago obscuro
+date: 2023-04-21T07:03:37.422Z
+featuredimage: data:image/jpeg;base64,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
+categoria: Gaming
+tags:
+  - "#Gaming"
+  - "#HarryPotter"
+  - "#Hogwarts"
+short-description: >-
+  Ventajas:
+
+
+  Poderosos hechizos oscuros: Si decides ser un mago obscuro en Hogwarts Legacy, tendrás acceso a poderosos hechizos oscuros que te permitirán infligir daño masivo a tus enemigos. Estos hechizos pueden ser muy efectivos en batallas contra otros magos.
+
+
+  Mayor libertad: Como mago obscuro, no estarás limitado por las restricciones éticas que se imponen a los magos buenos. Esto significa que podrás usar la magia para lograr tus objetivos, sin importar los medios.
+mk1: >-
+  Ventajas:
+
+
+  Poderosos hechizos oscuros: Si decides ser un mago obscuro en Hogwarts Legacy, tendrás acceso a poderosos hechizos oscuros que te permitirán infligir daño masivo a tus enemigos. Estos hechizos pueden ser muy efectivos en batallas contra otros magos.
+
+
+  Mayor libertad: Como mago obscuro, no estarás limitado por las restricciones éticas que se imponen a los magos buenos. Esto significa que podrás usar la magia para lograr tus objetivos, sin importar los medios.
+mk2: >-
+  Conexiones en el mundo oscuro: Los magos obscuros tienen conexiones en el
+  mundo oscuro que pueden ser muy útiles. Estas conexiones pueden darte acceso a
+  información valiosa o ayudarte a obtener recursos que de otra manera serían
+  difíciles de conseguir.
+
+
+  Habilidad para manipular a otros: Los magos obscuros son conocidos por su habilidad para manipular a otros a su favor. Esta habilidad puede ser muy útil en situaciones sociales y políticas.
+mk3: >-
+  Desventajas:
+
+
+  Estigma social: Ser un mago obscuro en Hogwarts Legacy probablemente te convertirá en un paria social en el mundo mágico. Los magos buenos te verán como una amenaza y no querrán tener nada que ver contigo.
+
+
+  Mayor riesgo de ser atrapado: Como mago obscuro, estarás constantemente en riesgo de ser atrapado por las autoridades mágicas. Si te atrapan, podrías enfrentar graves consecuencias, incluyendo el encarcelamiento en Azkaban.
+mk4: >-
+  Dificultad para relacionarse: Ser un mago obscuro también puede hacer que te
+  sea difícil relacionarte con otros. Tus amigos y seres queridos podrían
+  alejarse de ti, y es posible que te cueste confiar en otros magos.
+
+
+  Tendencia a la corrupción: Por último, existe la posibilidad de que la magia oscura te corrompa y te haga perder el control. Si esto sucede, podrías terminar causando un gran daño a ti mismo y a los que te rodean.
+mk5: En resumen, ser un mago obscuro en Hogwarts Legacy puede tener sus
+  ventajas, como poderosos hechizos y conexiones en el mundo oscuro, pero
+  también tiene importantes desventajas, como el estigma social, el mayor riesgo
+  de ser atrapado y la tendencia a la corrupción. La decisión de elegir el
+  camino del mago oscuro dependerá de tus preferencias personales y tu estilo de
+  juego.
+---

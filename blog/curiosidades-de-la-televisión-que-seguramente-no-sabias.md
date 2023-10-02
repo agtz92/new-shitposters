@@ -1,0 +1,76 @@
+---
+title: Curiosidades de la televisión que seguramente no sabias
+date: 2023-05-03T05:10:53.791Z
+featuredimage: data:image/jpeg;base64,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
+categoria: Television
+tags:
+  - "#Television"
+  - "#Cine"
+  - "#Curiosidades"
+short-description: >-
+  
+
+  El programa de televisión más longevo del mundo es "Meet the Press", que comenzó en 1947 y sigue emitiéndose en la actualidad.
+
+
+  El episodio final de "M*A*S*H" en 1983 fue visto por 105,9 millones de personas, lo que lo convierte en el episodio más visto de la historia de la televisión estadounidense.
+mk1: >-
+  1﻿.
+
+
+  El programa de televisión más longevo del mundo es "Meet the Press", que comenzó en 1947 y sigue emitiéndose en la actualidad.
+
+
+  2﻿.
+
+
+  El episodio final de "M*A*S*H" en 1983 fue visto por 105,9 millones de personas, lo que lo convierte en el episodio más visto de la historia de la televisión estadounidense.
+mk2: >-
+  3﻿.
+
+
+  El episodio más caro de la televisión fue el episodio piloto de "Lost", que costó alrededor de 14 millones de dólares.
+
+
+  4﻿.
+
+
+  El término "cambio de canal" se origina de los días en que los televisores solo tenían un dial para cambiar los canales. Al girar el dial, se producía un "cambio de canal" a una frecuencia diferente.
+mk3: >-
+  5﻿.
+
+
+
+
+  El primer programa de televisión en color fue transmitido en 1953 en México, y el primer programa en color en los Estados Unidos fue transmitido en 1954.
+
+
+  6﻿.
+
+
+  En promedio, las personas en los Estados Unidos pasan más de cinco horas al día viendo televisión.
+mk4: >-
+  
+
+  7﻿.
+
+
+  La popular serie de televisión "Breaking Bad" comenzó como una idea para una comedia. Los creadores, sin embargo, decidieron que el tema era demasiado oscuro para una comedia y la reescribieron como un drama.
+
+
+  8﻿.
+
+
+  El personaje de televisión más visto en la historia es el títere de televisión estadounidense llamado Howdy Doody.
+mk5: >-
+  9﻿.
+
+
+  En los Estados Unidos, el canal de televisión más visto es la cadena CBS.
+
+
+  1﻿0.
+
+
+  La famosa frase "¡Voy a Disney World!" que se pronuncia después del Super Bowl de la NFL cada año, comenzó como una improvisación del quarterback de los New York Giants, Phil Simms, después de ganar el Super Bowl en 1987.
+---
