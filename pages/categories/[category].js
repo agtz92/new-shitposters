@@ -1,8 +1,8 @@
+import React, { useState } from "react"
 import fs from "fs"
 import path from "path"
-import React from "react"
 import matter from "gray-matter"
-import { Box, Grid } from "@mui/material"
+import { Box, Grid, Pagination, Stack } from "@mui/material"
 import Link from "next/link"
 import Head from "next/head"
 import LargeCard from "@/components/LargeCard"
@@ -13,6 +13,13 @@ export default function CategoryPage({ matchingFiles, category, isMobile }) {
   const sortedBlogs = matchingFiles?.sort(
     (a, b) => new Date(b.date) - new Date(a.date)
   )
+  //pagination
+  const itemsPerPage = 6
+  const [currentPage, setCurrentPage] = useState(1)
+  const startIndex = (currentPage - 1) * itemsPerPage
+  const endIndex = startIndex + itemsPerPage
+  const blogsToDisplay = sortedBlogs?.slice(startIndex, endIndex)
+
   return (
     <Box
       sx={{ marginLeft: !isMobile ? 20 : 5, marginRight: !isMobile ? 20 : 5 }}
@@ -42,12 +49,12 @@ export default function CategoryPage({ matchingFiles, category, isMobile }) {
             letterSpacing: "2px",
           }}
         >
-            {category.toUpperCase()}
+          {category.toUpperCase()}
         </h3>
       </Box>
 
       <Grid container spacing={2}>
-        {sortedBlogs?.map((file, index) => (
+        {blogsToDisplay?.map((file, index) => (
           <Grid key={index} item xs={12} md={4}>
             <Link href={`/${file.slug}`}>
               <LargeCard post={file} />
@@ -55,6 +62,22 @@ export default function CategoryPage({ matchingFiles, category, isMobile }) {
           </Grid>
         ))}
       </Grid>
+      {/*Pagination*/}
+      <Stack
+        spacing={2}
+        display={"flex"}
+        flexDirection={"row"}
+        alignContent={"space-evenly"}
+        justifyContent={"space-evenly"}
+        sx={{ marginTop: 5 }}
+      >
+        <Pagination
+          count={Math.ceil(sortedBlogs.length / itemsPerPage)}
+          size="large"
+          page={currentPage}
+          onChange={(event, page) => setCurrentPage(page)}
+        />
+      </Stack>
     </Box>
   )
 }
