@@ -1,4 +1,4 @@
-import React, { useState } from "react"
+import React, { useState, useEffect } from "react"
 import fs from "fs"
 import path from "path"
 import matter from "gray-matter"
@@ -19,6 +19,10 @@ export default function CategoryPage({ matchingFiles, category, isMobile }) {
   const startIndex = (currentPage - 1) * itemsPerPage
   const endIndex = startIndex + itemsPerPage
   const blogsToDisplay = sortedBlogs?.slice(startIndex, endIndex)
+  //reset current page if category changes
+  useEffect(() => {
+    setCurrentPage(1)
+  }, [category])
 
   return (
     <Box
