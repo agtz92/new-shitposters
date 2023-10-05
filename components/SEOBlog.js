@@ -24,7 +24,6 @@ const SEOBlog = ({ post }) => {
       return ""
     }
   }
-  console.log("description: ", generateExcerpt(post.shortDescription, 250))
   function addProductJsonLd() {
     return {
       __html: `{
