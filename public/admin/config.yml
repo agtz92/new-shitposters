@@ -1,0 +1,34 @@
+backend:
+  name: github
+  repo: agtz92/new_shitposters
+  branch: master
+
+media_folder: public/assets
+public_folder: /assets
+
+collections:
+  - name: blog
+    label: Blog
+    folder: blog
+    create: true
+    fields:
+      - { name: title, label: Titulo, hint: Título llamativo y corto, required: true}
+      - { name: date, label: Date, widget: datetime }
+      - { label: "Imagen Principal", hint: Usar una imagen en alta resolucion y artistica, name: "featuredimage", widget: image, required: true}
+      - { collection: categoria, valueField: categoria, searchFields: ["categoria"], displayFields: ["categoria"], widget: relation, name: categoria, label: Categoria, required: true, multiple: false, hint: Poner cateogoria a la que pertenece el tema. OBLIGATORIO}
+      - { label: "Tags", name: "tags", widget: "list", hint: Separar con comas cada tag relacionado al post (ej. harrypotter, potterheads) poner al menos 3 tags por post, ideal 5, required: true}
+      - { name: short-description, label: Descripcion Corta, widget: markdown, hint: Introducción al post, entre 3 y 5 líneas, required: true}
+      - { name: mk1, label: facts 1-2, widget: markdown }
+      - { name: mk2, label: facts 3-4, widget: markdown }
+      - { name: mk3, label: facts 5-6, widget: markdown }
+      - { name: mk4, label: facts 7-8, widget: markdown }
+      - { name: mk5, label: facts 9-10, widget: markdown }
+ 
+  - name: categoria
+    label: Categorias
+    folder: categories
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {widget: string, name: categoria, label: Categoria, required: true, hint: Categoría general ej. Entretenimiento, Musica, Arte, etc }
+      - {label: "Imagen de la Categoria", name: "categoryimage", widget: image}
