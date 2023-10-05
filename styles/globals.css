@@ -46,7 +46,7 @@ a link {
   color: #fff !important;
 }
 .MuiPaginationItem-root {
-  color: #fff;
+  color: #fff !important;
 }
 .MuiPaginationItem-root.Mui-selected {
   background-color: #d80032 !important;
