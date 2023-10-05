@@ -42,8 +42,8 @@ a link {
 }
 
 .MuiCard-root {
-  background-color: #040405;
-  color: #fff;
+  background-color: #040405 !important;
+  color: #fff !important;
 }
 .MuiPaginationItem-root {
   color: #fff;
