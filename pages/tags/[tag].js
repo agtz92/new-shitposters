@@ -48,33 +48,36 @@ function TagPage({ matchingFiles, tag, isMobile }) {
 }
 
 export async function getStaticPaths() {
-  const files = fs.readdirSync("./blog")
-  const tags = new Set()
+  const files = fs.readdirSync("./blog");
+  const tags = new Set();
 
   for (const file of files) {
     const fileContent = matter(
       fs.readFileSync(path.join("./blog", file), "utf8")
-    )
-    const frontmatter = fileContent.data
+    );
+    const frontmatter = fileContent.data;
 
     if (frontmatter.tags && frontmatter.tags.length > 0) {
       frontmatter.tags.forEach((tag) => {
-        // Use the modified function to get the tag slug
-        const tagSlug = removeSpecialCharactersAndLowerCase(tag)
-        tags.add(tagSlug)
-      })
+        // Check if the tag is not empty or null before adding it to the set
+        if (tag) {
+          const tagSlug = removeSpecialCharactersAndLowerCase(tag);
+          tags.add(tagSlug);
+        }
+      });
     }
   }
 
   const paths = Array.from(tags).map((tagSlug) => ({
     params: { tag: tagSlug }, // Use the tagSlug as a string
-  }))
+  }));
 
   return {
     paths,
     fallback: "blocking",
-  }
+  };
 }
+
 
 export async function getStaticProps({ params: { tag } }) {
   // Use the modified function to get the tag slug
