@@ -13,11 +13,11 @@ const SEOBlog = ({ post }) => {
         const lastSpaceIndex = trimmedText.lastIndexOf(" ")
         if (lastSpaceIndex !== -1) {
           return (
-            trimmedText.substring(0, lastSpaceIndex).replace(/[^\w\s.]/g, '') +
+            trimmedText.substring(0, lastSpaceIndex).replace(/[^\w\s.]/g, "") +
             "..."
           )
         } else {
-          return trimmedText.replace(/[^\w\s.]/g, '') + "..."
+          return trimmedText.replace(/[^\w\s.]/g, "") + "..."
         }
       }
     } else {
@@ -54,11 +54,12 @@ const SEOBlog = ({ post }) => {
   `,
     }
   }
+  const title = post.title + " | " + sitename
   return (
     <Head>
       <meta charSet="utf-8" />
       <title>
-        {post.title} | {sitename}
+        {title}
       </title>
       <meta
         name="description"

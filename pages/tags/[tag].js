@@ -30,9 +30,7 @@ function TagPage({ matchingFiles, tag, isMobile }) {
     setCurrentPage(1)
   }, [tag])
 
-  // Get the slug without removing special characters
-  const tagSlug = removeSpecialCharactersAndLowerCase(tag)
-  console.log(sortedBlogs)
+  const title = sitename + " | #" + tag
 
   return (
     <Box
@@ -40,7 +38,7 @@ function TagPage({ matchingFiles, tag, isMobile }) {
     >
       <Head>
         <title>
-          {sitename} | #{tag}
+          {title}
         </title>
       </Head>
       <h1 style={{ textAlign: "center", fontWeight: 600 }}>
