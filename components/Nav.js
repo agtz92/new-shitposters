@@ -13,34 +13,34 @@ const Nav = ({ isMobile, siteData }) => {
 
   return (
     <>
-      {!isMobile && (
-        <Box
-          display={"flex"}
-          flexDirection={"column"}
-          justifyContent={"center"}
-          alignItems={"center"}
-          sx={{
-            borderBottom: "1px solid #d80032",
-            marginLeft: 20,
-            marginRight: 20,
+      <Box
+        display={"flex"}
+        flexDirection={"column"}
+        justifyContent={"center"}
+        alignItems={"center"}
+        sx={{
+          borderBottom: "1px solid #d80032",
+          marginLeft: 20,
+          marginRight: 20,
+        }}
+        className="pc-only"
+      >
+        <h1 style={{ fontSize: "4em", fontWeight: 600, margin: 0 }}>
+          {sitename}
+        </h1>
+        <h3
+          style={{
+            fontSize: "1.5em",
+            fontWeight: 300,
+            textAlign: "center",
+            margin: 0,
+            letterSpacing: "2px",
           }}
         >
-          <h1 style={{ fontSize: "4em", fontWeight: 600, margin: 0 }}>
-            {sitename}
-          </h1>
-          <h3
-            style={{
-              fontSize: "1.5em",
-              fontWeight: 300,
-              textAlign: "center",
-              margin: 0,
-              letterSpacing: "2px",
-            }}
-          >
-            {motto}
-          </h3>
-        </Box>
-      )}
+          {motto}
+        </h3>
+      </Box>
+
       <nav className={`nav ${isOpen ? "open" : ""}`}>
         {isMobile && (
           <div className="logo">

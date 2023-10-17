@@ -220,6 +220,10 @@ h3 {
   padding: 10px;
 }
 
+.pc-only{
+  display: flex;
+}
+
 @media (max-width: 768px) {
   .menu {
     display: none;
@@ -231,6 +235,9 @@ h3 {
     left: 0;
     right: 0;
     z-index: 100;
+  }
+  .pc-only{
+    display: none !important;
   }
 
   .menu.open {
