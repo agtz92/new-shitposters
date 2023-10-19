@@ -34,7 +34,7 @@ function TagPage({ matchingFiles, tag, isMobile }) {
 
   return (
     <Box
-      sx={{ marginLeft: !isMobile ? 20 : 5, marginRight: !isMobile ? 20 : 5 }}
+      className='margins5'
     >
       <Head>
         <title>
