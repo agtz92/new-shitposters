@@ -42,11 +42,9 @@ const Nav = ({ isMobile, siteData }) => {
       </Box>
 
       <nav className={`nav ${isOpen ? "open" : ""}`}>
-        {isMobile && (
-          <div className="logo">
-            <Link href="/">{sitename}</Link>
-          </div>
-        )}
+        <div className="logo">
+          <Link href="/">{sitename}</Link>
+        </div>
         <div className="menu-toggle" onClick={toggleMenu}>
           <div className="bar"></div>
           <div className="bar"></div>

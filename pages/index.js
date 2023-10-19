@@ -18,7 +18,7 @@ export default function Home({ blogs, isMobile }) {
   //const deals = sortedBlogs.filter((blog) => blog.deals === "Yes")
   return (
     <Box
-      sx={{ marginLeft: !isMobile ? 20 : 5, marginRight: !isMobile ? 20 : 5 }}
+      className='margins5'
     >
       <Head>
         <title>{sitename}</title>
@@ -31,9 +31,8 @@ export default function Home({ blogs, isMobile }) {
         sx={{
           borderBottom: "1px solid #d80032",
           marginBottom: 5,
-          marginLeft: !isMobile ? 20 : 0,
-          marginRight: !isMobile ? 20 : 0,
         }}
+        className='margins'
       >
         <h3
           style={{
@@ -94,9 +93,8 @@ export default function Home({ blogs, isMobile }) {
         sx={{
           borderBottom: "1px solid #d80032",
           marginTop: 5,
-          marginLeft: !isMobile ? 20 : 0,
-          marginRight: !isMobile ? 20 : 0,
         }}
+        className='margins'
       >
         <h3
           style={{

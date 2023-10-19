@@ -12,7 +12,6 @@ const CoverCard = ({ post, height, h1 }) => {
     <Card
       sx={{
         position: "relative",
-        height: height,
         "&:hover": {
           "& img": {
             transform: "scale(1.2)",
@@ -20,6 +19,7 @@ const CoverCard = ({ post, height, h1 }) => {
           },
         },
       }}
+      className="cover"
     >
       {/* Black overlay */}
       <Box
