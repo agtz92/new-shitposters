@@ -34,7 +34,7 @@ export default function Blog({ frontmatter, markdown, isMobile }) {
       <Box
         display={"flex"}
         flexDirection={"column"}
-        className='margins405'
+        className='margins5'
       >
         <h1 style={{ fontSize: "3em", margin: 0 }}>{frontmatter.title}</h1>
         <Box
