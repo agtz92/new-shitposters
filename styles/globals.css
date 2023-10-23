@@ -235,6 +235,10 @@ h3 {
 .cover{
   height: 620px !important;
 }
+.cover-secondary{
+  height: 300px !important;
+}
+
 
 /*PC*/
 @media (min-width: 768px) {

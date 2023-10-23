@@ -7,7 +7,7 @@ import {
   Chip,
 } from "@mui/material"
 
-const CoverCard = ({ post, height, h1 }) => {
+const CoverCard = ({ post, h1, secondary }) => {
   return (
     <Card
       sx={{
@@ -19,7 +19,7 @@ const CoverCard = ({ post, height, h1 }) => {
           },
         },
       }}
-      className="cover"
+      className={!secondary ? "cover" : "cover-secondary"}
     >
       {/* Black overlay */}
       <Box
