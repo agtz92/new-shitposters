@@ -39,6 +39,7 @@ const CoverCard = ({ post, h1, secondary }) => {
         component="img"
         alt="Image"
         image={post.featuredimage}
+        placeholder="blur"
         sx={{
           objectFit: "cover",
           width: "100%",
