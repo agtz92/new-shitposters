@@ -6,6 +6,7 @@ import {
   CardMedia,
   Chip,
 } from "@mui/material"
+import Image from "next/image"
 
 const CoverCard = ({ post, h1, secondary }) => {
   return (
@@ -35,15 +36,16 @@ const CoverCard = ({ post, h1, secondary }) => {
       ></Box>
 
       {/* Image */}
-      <CardMedia
+      <Image
         component="img"
         alt="Image"
-        image={post.featuredimage}
+        src={post.featuredimage}
         placeholder="blur"
+        objectFit= "cover"
+        width= "800"
+        height= "500"
+        blurDataURL="../public/assets/blur.jpg"
         sx={{
-          objectFit: "cover",
-          width: "100%",
-          height: "100%",
           transition: "transform 0.2s ease",
           zIndex: -1,
         }}
