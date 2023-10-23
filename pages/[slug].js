@@ -65,7 +65,7 @@ export default function Blog({ frontmatter, markdown, isMobile }) {
           </div>
         </Box>
 
-        <Grid container spacing={2} sx={{ marginTop: !isMobile ? 1 : 2 }}>
+        <Grid container spacing={2} sx={{ marginTop: 2 }}>
           {frontmatter.tags?.map((tag) => (
             <Grid key={tag} item xs={3} sm={3} md={1.5}>
               <Chip
@@ -74,7 +74,7 @@ export default function Blog({ frontmatter, markdown, isMobile }) {
                 label={tag}
                 sx={{
                   marginRight: 1,
-                  marginBottom: !isMobile ? 0 : 2,
+                  marginBottom: 2,
                   width: "100%",
                 }}
                 clickable
