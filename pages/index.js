@@ -22,7 +22,7 @@ export default function Home({ blogs, isMobile }) {
   //const deals = sortedBlogs.filter((blog) => blog.deals === "Yes")
   return (
     <Box
-      className='margins5'
+      className='margins'
     >
       <Head>
         <title>{sitename}</title>
