@@ -41,12 +41,13 @@ mk5: >-
   Aunque el Renacimiento suele considerarse una época de pensamiento ilustrado, no siempre fue así en lo que respecta a la medicina. Muchas prácticas médicas de la época estaban estrechamente relacionadas con la brujería, y esto se reflejaba en la forma en que los médicos eran representados a menudo en el arte y la literatura. En muchos casos, se les mostraba como ancianas demacradas, elaborando pociones en calderos. Este estereotipo no era del todo infundado, ya que muchos tratamientos médicos de la época incluían remedios de hierbas y otras formas de medicina popular. Sin embargo, también había un conjunto creciente de conocimientos sobre anatomía y fisiología, y los cirujanos empezaban a desarrollar métodos de tratamiento más eficaces. Como resultado, la medicina empezaba a salir lentamente de la edad oscura, aunque aún pasarían muchos años antes de que la ciencia moderna empezara a imponerse.
 
 
-
-
   ## I﻿nflamar?
 
 
   Las mujeres no tenían permitido pararse frente a las ventanas. ¿Por qué? "Inflamarían los deseos carnales" de los hombres que caminaban abajo y alejarían a esos hombres "de Dios".
+
+
+  ![Datos extraños del Renacimiento ](/assets/renaessancevinduet_02_kronborg_dbn508px.jpg "Datos extraños del Renacimiento ")
 
 
   ## C﻿hicharrón
