@@ -24,6 +24,10 @@ const SEOBlog = ({ post }) => {
       return ""
     }
   }
+  function removeDoubleQuotes(inputString) {
+    // Use a regular expression to replace all double quotes with an empty string
+    return inputString.replace(/"/g, '');
+  }
   function addProductJsonLd() {
     return {
       __html: `{
@@ -33,7 +37,7 @@ const SEOBlog = ({ post }) => {
           "@type": "WebPage",
           "@id":\"${sitename}\"
         },
-        "headline": \"${post.title}\",
+        "headline": \"${removeDoubleQuotes(post.title)}\",
         "description": \"${generateExcerpt(post.shortDescription, 250)}\",
         "image": "${sitedomain}/assets/${post.featuredimage}",  
         "author": {
@@ -59,7 +63,7 @@ const SEOBlog = ({ post }) => {
     <Head>
       <meta charSet="utf-8" />
       <title>
-        {title}
+        {removeDoubleQuotes(title)}
       </title>
       <meta
         name="description"
