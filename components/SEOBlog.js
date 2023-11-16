@@ -67,7 +67,7 @@ const SEOBlog = ({ post }) => {
       </title>
       <meta
         name="description"
-        content={generateExcerpt(post.shortDescription, 250)}
+        content={generateExcerpt(removeDoubleQuotes(post.shortDescription), 250)}
       />
       <script
         type="application/ld+json"
