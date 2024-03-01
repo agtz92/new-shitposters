@@ -1,5 +1,5 @@
 ---
-title: '"Unlock Your Gaming Potential with Palworld-Inspired Xbox Controllers!"'
+title: '"¡Desata tus Poderes de Palworld con Estos Épicos Controles de Xbox!"'
 date: 2024-03-01T04:42:47.627Z
 featuredimage: https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/02/palworld-pals-2.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5
 categoria: Gaming
