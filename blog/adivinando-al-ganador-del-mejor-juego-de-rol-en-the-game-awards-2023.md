@@ -1,5 +1,5 @@
 ---
-title: ' "Adivinando al Ganador del Mejor Juego de Rol en The Game Awards 2023".'
+title: " Adivinando al Ganador del Mejor Juego de Rol en The Game Awards 2023"
 date: 2023-11-30T06:25:50.516Z
 featuredimage: https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/11/the-game-awards-2023-best-rpg.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5
 categoria: Gaming
