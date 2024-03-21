@@ -1,6 +1,6 @@
 ---
-title: '"¡Nueva actualización de Helldivers 2 resuelve problemas de lluvia de
-  meteoritos y más!"'
+title: ¡Nueva actualización de Helldivers 2 resuelve problemas de lluvia de
+  meteoritos y más!
 date: 2024-03-21T03:49:04.371Z
 featuredimage: https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/03/helldivers-2-update-1000103.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5
 categoria: Gaming
