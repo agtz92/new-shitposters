@@ -1,6 +1,6 @@
 ---
-title: ' "Explorando el Bosque del Crepúsculo al 100% en Super Mario Bros.
-  Wonder: Todas las Semillas y Monedas Flor Wonder"'
+title: " Explorando el Bosque del Crepúsculo al 100% en Super Mario Bros.
+  Wonder: Todas las Semillas y Monedas Flor Wonder"
 date: 2023-12-01T01:10:50.473Z
 featuredimage: https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2023/10/super-mario-wonder-sproinks-in-the-twilight-forest-flower-course-clear.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5
 categoria: Gaming
