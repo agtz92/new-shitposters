@@ -1,6 +1,6 @@
 ---
-title: '"¡Asombroso! Descubre las Mejores Habilidades del Megáfono de Cait en
-  Final Fantasy 7 Rebirth"'
+title: ¡Asombroso! Descubre las Mejores Habilidades del Megáfono de Cait en
+  Final Fantasy 7 Rebirt
 date: 2024-03-21T03:39:30.436Z
 featuredimage: https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/03/cait-sith-and-yellow-megaphone-weapon-in-final-fantasy-7-rebirth.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5
 categoria: Gaming
