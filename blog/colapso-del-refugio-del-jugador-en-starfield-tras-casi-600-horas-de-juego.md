@@ -1,5 +1,5 @@
 ---
-title: ' "Colapso del Refugio del Jugador en Starfield tras casi 600 Horas de Juego"'
+title: " Colapso del Refugio del Jugador en Starfield tras casi 600 Horas de Juego"
 date: 2023-11-30T06:22:33.631Z
 featuredimage: https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/11/starfield-24.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5
 categoria: Gaming
