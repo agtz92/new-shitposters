@@ -1,6 +1,6 @@
 ---
-title: ' "Último Vistazo y Fecha de Salida Anunciados para el Próximo Juego del
-  Profesor Layton. Disponible en 2025."'
+title: " Último Vistazo y Fecha de Salida Anunciados para el Próximo Juego del
+  Profesor Layton. Disponible en 2025."
 date: 2023-11-30T06:32:16.511Z
 featuredimage: https://i.blogs.es/75f644/fdsf/1200_800.jpeg
 categoria: Gaming
