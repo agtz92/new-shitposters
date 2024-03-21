@@ -1,5 +1,5 @@
 ---
-title: " \"Arkane's Blade: Aunque no Confirmado, Debería Ser Exclusivo de Xbox\""
+title: " Arkane's Blade: Aunque no Confirmado, Debería Ser Exclusivo de Xbox"
 date: 2023-12-12T22:43:19.994Z
 featuredimage: https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/12/blade-1.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5
 categoria: Gaming
