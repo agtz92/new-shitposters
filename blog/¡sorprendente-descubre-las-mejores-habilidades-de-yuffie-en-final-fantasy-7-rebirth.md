@@ -1,6 +1,6 @@
 ---
-title: '"¡Sorprendente! Descubre las Mejores Habilidades de Yuffie en Final
-  Fantasy 7 Rebirth"'
+title: ¡Sorprendente! Descubre las Mejores Habilidades de Yuffie en Final
+  Fantasy 7 Rebirth
 date: 2024-03-21T03:35:50.006Z
 featuredimage: https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/03/yuffie-and-four-point-shuriken-weapon-in-final-fantasy-7-rebirth.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5
 categoria: Gaming
