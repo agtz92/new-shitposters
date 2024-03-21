@@ -1,6 +1,5 @@
 ---
-title: '"¡Helldivers 2 Soluciona Problema que Afecta a Más de un Millón de
-  Jugadores!"'
+title: ¡Helldivers 2 Soluciona Problema que Afecta a Más de un Millón de Jugadores!
 date: 2024-03-21T03:45:54.731Z
 featuredimage: https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/03/helldivers-2-characters.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5
 categoria: Gaming
