@@ -1,6 +1,5 @@
 ---
-title: ' "Las 10 Secuencias Post-Créditos Más Impactantes en el Mundo de los
-  Videojuegos"'
+title: Las 10 Secuencias Post-Créditos Más Impactantes en el Mundo de los Videojuegos
 date: 2023-12-12T22:45:50.811Z
 featuredimage: https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/12/x-best-post-credits-scenes-in-video-games.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5
 categoria: Gaming
