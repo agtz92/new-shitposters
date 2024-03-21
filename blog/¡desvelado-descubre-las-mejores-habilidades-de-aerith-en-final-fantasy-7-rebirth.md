@@ -1,6 +1,6 @@
 ---
-title: '"¡Desvelado! Descubre las Mejores Habilidades de Aerith en Final Fantasy
-  7 Rebirth"'
+title: ¡Desvelado! Descubre las Mejores Habilidades de Aerith en Final Fantasy 7
+  Rebirth
 date: 2024-03-21T03:32:27.224Z
 featuredimage: https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/03/aerith-and-guard-stick-weapon-in-final-fantasy-7-rebirth.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5
 categoria: Gaming
