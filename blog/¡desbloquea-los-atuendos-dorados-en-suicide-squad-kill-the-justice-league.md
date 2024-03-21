@@ -1,12 +1,11 @@
 ---
-title: '"¡Desbloquea los Atuendos Dorados en Suicide Squad: Kill The Justice League!"'
+title: "¡Desbloquea los Atuendos Dorados en Suicide Squad: Kill The Justice League!"
 date: 2024-02-09T07:32:40.326Z
 featuredimage: https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/02/mixcollage-08-feb-2024-04-26-pm-4854.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5
 categoria: Gaming
 tags:
   - "#Gaming"
   - "#SuicideSquad"
-  - "#"
 short-description: >-
   **\
 
