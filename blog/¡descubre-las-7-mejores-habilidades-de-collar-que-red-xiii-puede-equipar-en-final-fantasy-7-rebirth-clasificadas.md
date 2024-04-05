@@ -1,13 +1,13 @@
 ---
-title: '"¡Descubre las 7 mejores habilidades de collar que Red XIII puede
-  equipar en Final Fantasy 7 Rebirth, clasificadas!'
+title: ¡Descubre las 7 mejores habilidades de collar que Red XIII puede equipar
+  en Final Fantasy 7 Rebirth, clasificadas!
 date: 2024-04-02T20:26:23.118Z
 featuredimage: https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/03/red-13-and-siphon-fang-hp-up-weapon-skill-in-final-fantasy-7-rebirth.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5
 categoria: Gaming
 tags:
   - "#Gaming"
-  - "#WWE2k24"
-  - "#WWE"
+  - "#FinalFantasy"
+  - "#FinalFantasy7"
 short-description: >-
   ¡Por fin, los jugadores pueden sentir lo que es correr como Red XIII en Final
   Fantasy 7 Rebirth! Apareció en Final Fantasy 7 Remake, pero no fue jugable
