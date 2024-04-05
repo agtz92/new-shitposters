@@ -1,13 +1,13 @@
 ---
-title: '"¡Descubre Todo sobre las Habilidades de Brazo-Arma de Barrett en Final
-  Fantasy 7 Rebirth, Clasificadas!"'
+title: ¡Descubre Todo sobre las Habilidades de Brazo-Arma de Barrett en Final
+  Fantasy 7 Rebirth, Clasificadas!
 date: 2024-03-19T22:45:19.341Z
 featuredimage: https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/03/barret-and-gatling-gun-weapon-in-final-fantasy-7-rebirth.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5
 categoria: Gaming
 tags:
   - "#Gaming"
-  - "#WWE"
-  - "#WWE2K24"
+  - "#FinalFanasty"
+  - "#FinalFantasy7"
 short-description: >-
   Barret es el mejor luchador a larga distancia en Final Fantasy 7 Rebirth,
   siendo el único héroe armado con pistola. Vincent sería el segundo, pero solo
