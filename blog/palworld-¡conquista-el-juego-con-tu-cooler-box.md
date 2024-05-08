@@ -1,5 +1,5 @@
 ---
-title: "Palworld: ¡Conquista el Juego con tu Cooler Box! 🌬️🎮"
+title: "Palworld: ¡Conquista el Juego con tu Cooler Box!"
 date: 2024-02-01T19:24:48.008Z
 featuredimage: https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/02/palworld-cooler-box-2.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5
 categoria: Gaming
