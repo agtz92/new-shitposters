@@ -9,11 +9,10 @@ tags:
   - "#EldenRing"
   - "#Eldenring"
 short-description: >-
-  <!--StartFragment-->Elden Ring fue uno de los juegos más grandes lanzados en
-  2022, y generalmente tomó más de 60 horas completar las misiones principales
-  sin hacer ninguna misión secundaria. Considerando la cantidad de contenido, no
-  es sorprendente que tantos jugadores se hayan enamorado del juego, incluso
-  años después.
+  Elden Ring fue uno de los juegos más grandes lanzados en 2022, y generalmente
+  tomó más de 60 horas completar las misiones principales sin hacer ninguna
+  misión secundaria. Considerando la cantidad de contenido, no es sorprendente
+  que tantos jugadores se hayan enamorado del juego, incluso años después.
 
    Con el lanzamiento de su DLC, Shadow of the Erdtree, los jugadores se han estado preguntando cuánto tiempo llevará completar el DLC. Cuenta con una nueva área, una nueva historia y nuevas líneas de misión para completar, lo que también llevará tiempo. Aquí tienes un desglose de cuánto tiempo tomará
 mk1: >-
