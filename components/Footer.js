@@ -87,6 +87,9 @@ const Footer = () => {
           <Link href="https://www.corthw.com/topes-para-anden" target="_blank">
             Cortinas Hawaianas y Topes para Anden
           </Link>
+          <Link href="https://www.rollospvc.com" target="_blank">
+            Cortinas Hawaianas y Cortinas Hawaianas Armadas
+          </Link>
           <Link
             href="https://www.antesdelexamen.com/categorias/preguntas-de-examen/"
             target="_blank"
