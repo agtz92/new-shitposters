@@ -6,44 +6,26 @@ categoria: Gaming
 tags:
   - "#Gaming #Slitterhead #KeiichiroToyama"
 short-description: >-
-  <!--StartFragment-->
-
-
   **Descripción inicial del artículo destacando puntos clave del tema.**
 
 
   Keiichiro Toyama, conocido por su trabajo en Silent Hill, nos ofrece una mirada profunda sobre el desarrollo de Slitterhead, su nuevo juego de horror de acción. En esta entrevista, Toyama comparte su proceso creativo, influencias y cómo sus miedos personales han dado forma al juego, el cual explora temas sobre la identidad y el horror. Slitterhead promete ser una experiencia única que mezcla acción trepidante con una historia perturbadora.
-
-
-  <!--EndFragment-->
 mk1: >-
-  <!--StartFragment-->
-
-
   ### Orígenes de Slitterhead
 
 
   ![kei](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/10/slitterhead-key-art.jpg?q=49&fit=crop&w=825&dpr=2 "kei")
 
 
-  **Descripción breve de la sección con puntos principales**
-
-
   El concepto original de Slitterhead proviene del trabajo previo de Toyama en Siren, aunque con una actualización moderna y centrada en el combate.
 
 
   El director de Bokeh Game Studio, Toyama, explica que la idea central de Slitterhead es expandir la mecánica de "sight-jacking" de Siren, donde los jugadores controlan cuerpos ajenos. En este caso, los jugadores podrán poseer cuerpos completos de NPCs durante el combate. A pesar de los cambios en la estructura del mapa, el núcleo de la jugabilidad ha permanecido constante.
-
-
-  <!--EndFragment-->
 mk2: >-
   <!--StartFragment-->
 
 
   ### Un Mundo Inspirado en Kowlong
-
-
-  **Descripción breve de la sección con puntos principales**
 
 
   El ambiente de Slitterhead está fuertemente influenciado por la ciudad asiática ficticia Kowlong, que toma elementos de Hong Kong y Kowloon, con un toque de ciberpunk.
@@ -69,9 +51,6 @@ mk3: >-
   ![kei](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/10/slitterhead-game-rant-advance-screenshot-27.jpg?q=49&fit=crop&w=750&h=422&dpr=2 "kei")
 
 
-  **Descripción breve de la sección con puntos principales**
-
-
   Los enemigos en Slitterhead, los Slitterheads, son una reinterpretación del clásico zombi, ahora con la capacidad de poseer cuerpos humanos.
 
 
@@ -86,9 +65,6 @@ mk4: >-
   ### Influencias de Proyectos Pasados
 
 
-  **Descripción breve de la sección con puntos principales**
-
-
   La experiencia de Toyama en juegos como Silent Hill y Gravity Rush ha influido enormemente en el diseño y desarrollo de Slitterhead.
 
 
@@ -101,9 +77,6 @@ mk5: >-
 
 
   ### Reflexiones Finales de Toyama sobre Slitterhead
-
-
-  **Descripción breve de la sección con puntos principales**
 
 
   Al acercarse el lanzamiento, Toyama reflexiona sobre el viaje de desarrollo de Slitterhead y lo que significa para él.
