@@ -90,6 +90,9 @@ const Footer = () => {
           <Link href="https://www.rollospvc.com" target="_blank">
             Cortinas Hawaianas y Cortinas Hawaianas Armadas
           </Link>
+          <Link href="https://grupohule.com/categories/tapetes-y-pisos-para-gimnasio" target="_blank">
+            Losetas de Caucho para Gimnasio
+          </Link>
           <Link
             href="https://www.antesdelexamen.com/categorias/preguntas-de-examen/"
             target="_blank"
