@@ -93,6 +93,9 @@ const Footer = () => {
           <Link href="https://grupohule.com/categories/tapetes-y-pisos-para-gimnasio" target="_blank">
             Losetas de Caucho para Gimnasio
           </Link>
+          <Link href="https://www.foodplusfeed.com/subcategoria/acido-citrico" target="_blank">
+            Venta de Ácido Cítrico al Mayoreo
+          </Link>
           <Link
             href="https://www.antesdelexamen.com/categorias/preguntas-de-examen/"
             target="_blank"
