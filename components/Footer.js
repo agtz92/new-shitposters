@@ -118,6 +118,9 @@ const Footer = () => {
           <Link href="https://www.3minread.com/" target="_blank">
             Latest trends and news under 3 min!
           </Link>
+          <Link href="https://www.mexgamer.com/categories/gaming" target="_blank">
+            Noticias de Anime y Videojuegos en español
+          </Link>
         </Grid>
         <Grid item xs={12} md={12}>
           <p style={{ width: "100%", textAlign: "center" }}>{sitename} 2023</p>
