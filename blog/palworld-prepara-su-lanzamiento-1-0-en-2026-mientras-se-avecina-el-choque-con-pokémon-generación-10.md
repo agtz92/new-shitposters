@@ -23,9 +23,6 @@ mk1: >-
   ### Palworld sigue vivo, pero enfrenta un futuro desafiante
 
 
-  ![]()
-
-
   **El juego mantiene una base sólida de jugadores, pero ya no brilla como al inicio.**
 
 
@@ -91,15 +88,20 @@ mk4: >-
 
   <!--EndFragment-->
 mk5: >-
-  * <!--StartFragment-->
+  <!--StartFragment-->
 
-    ### ¿Palworld podrá sobrevivir al impacto de Pokémon?
 
-    **Todo dependerá del contenido final, la estrategia de marketing y el momento exacto del lanzamiento.**
+  ### Palworld podrá sobrevivir al impacto de Pokémon?
 
-    Si Palworld logra llegar al mercado con una campaña de lanzamiento sólida, contenido pulido y novedades atractivas, podría consolidarse como una alternativa fresca a la fórmula Pokémon, especialmente para jugadores en busca de una experiencia más adulta o diferente.
 
-    Pero si su llegada coincide demasiado con los nuevos títulos de Game Freak, y estos logran satisfacer a su público sin los errores técnicos del pasado (como ocurrió con Pokémon Scarlet y Violet), Palworld corre el riesgo de ser ignorado. Todo está en manos de Pocketpair y su capacidad de reinventar su juego para destacar en un año que estará dominado por gigantes.
+  **Todo dependerá del contenido final, la estrategia de marketing y el momento exacto del lanzamiento.**
 
-    <!--EndFragment-->
+
+  Si Palworld logra llegar al mercado con una campaña de lanzamiento sólida, contenido pulido y novedades atractivas, podría consolidarse como una alternativa fresca a la fórmula Pokémon, especialmente para jugadores en busca de una experiencia más adulta o diferente.
+
+
+  Pero si su llegada coincide demasiado con los nuevos títulos de Game Freak, y estos logran satisfacer a su público sin los errores técnicos del pasado (como ocurrió con Pokémon Scarlet y Violet), Palworld corre el riesgo de ser ignorado. Todo está en manos de Pocketpair y su capacidad de reinventar su juego para destacar en un año que estará dominado por gigantes.
+
+
+  <!--EndFragment-->
 ---
