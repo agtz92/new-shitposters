@@ -1,8 +1,6 @@
 ---
 title: "Cómo desbloquear la transformación Ultra Instinct de Goku en Dragon
-  Ball: Sparking!
-  Zero  https://th.bing.com/th/id/R.5e39b4b6d038a3db1c4eaad300ef8c98?rik=0oYpI0\
-  uW28XtMQ&pid=ImgRaw&r=0"
+  Ball: Sparking! Zero  h"
 date: 2025-09-25T03:59:57.495Z
 featuredimage: https://oyster.ignimgs.com/mediawiki/apis.ign.com/dragon-ball-sparking-zero/f/fc/Goku.JPG
 categoria: Gaming
