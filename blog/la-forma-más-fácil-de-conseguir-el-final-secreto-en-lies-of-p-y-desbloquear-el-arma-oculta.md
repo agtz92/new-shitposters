@@ -1,0 +1,116 @@
+---
+title: "La forma más fácil de conseguir el final secreto en Lies of P y
+  desbloquear el arma oculta  "
+date: 2025-10-03T04:45:31.351Z
+featuredimage: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMTEhUTEhMWFhUXGBUaFxgXFxcVGBcXFxgXGBoXFxcaHSggGBolHRgYITEhJSkrLi4uFx8zODMtNygtLisBCgoKDg0OGhAQGi0mHSUvLS0tLy0tLS0tLS8tLS0rLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf/AABEIAKgBKwMBIgACEQEDEQH/xAAcAAACAgMBAQAAAAAAAAAAAAAEBQIDAAEGBwj/xAA8EAABAwIEAwYFAwIFBQEBAAABAAIRAyEEEjFBBVFhBhMicYGRMqGxwfAHQtEz4RQjUnKCFmKSovFjFf/EABoBAAMBAQEBAAAAAAAAAAAAAAIDBAEABQb/xAAuEQACAgICAQMCBAYDAAAAAAAAAQIRAyESMQQiQVEyYRMzcZFCUtHh8PEFI4H/2gAMAwEAAhEDEQA/AOCcSph1lUxyknpJdElE6pE2nbW/5dG8OeCMpjfoZO86kW0S8lYCslHkqBlG1QfXe3MYcYyy2LguMbzYRuOSIwvEHACIneYM/MQlVJ5EidRfqJBg+oHsrKYm+yOOOLSTVipwVbHJ4k86QPLX6/wqaNQhwdqQZ57zdBU0ZRarcEIx+lUQ5UkMMRSJdmdll/igXF/p5IsUfAMrXGDDiRvraNJEAjolzOiaYXEOaLOItz6mZH5qr0jzZ2ao+Q+aZ0cLpBtE/n0QVGnJEfkJ5wynLhIMb+v2WvSJpu+i3CYJzgMt/t5p0ODMyRv9UxwtBrGgNFlJ5i6hnnk3oqxYlBWzhsS3KSD1HqEpxBnVPeOf1HdSI9fwpNimXhXR2rJ40mKq1OVGnhtyjhTVVedAglCyyOWtC6u7ZB1Gym5wdkHiWgWUuSBdhyJ9Cfu9jopUaXLVGClJRDMPF1N+GVvIDNwjjqpOwgAlMoshMVWiw3WuCQKm2xRVnn6Ks0hEo2qwAXQdQkpbQ1OyggKGYK4U+ig6keSBjEVmFoGN1YaZ5KuEJpdmBUCBsoQspvgrWzKJytFqvygqt9I7LqMTBgxa0V45LG0ZcG89eg3PzQh2WYHAufmeIhotJgXsHHpMjrBQWIxBLiQQRsSBJ66LrcRWBwr6IOUBrTIDfAwuAIk+JznNzS2dgNHX5bu9PIaaWELHE7HO7sJap6hVBTBWms3K2oLa5HEgrGuUGhTamRFyCqCOpBAUnQiadRWYnRDmjYwpBMMMybJXQqJrhTdXRPKzKjouD8Jzwf2jUrrqNJrW5Wi3ul3Zlw7nfU/2+UJoWjYqLNNuVP2NwwSjZqnYRyVVWpZSQHEK4aCTp/8AICCEbZs5Ujm+Iy6s7lP0EfyhsVhpILek735pnhMK5/8APmnFOjToCTd225npyVryKOl2RxVuznafBnQXOEDbNYnyGqX1MLzXQYnFlxk+2wS2sYBcfRHFutncr6FWMblEDVLnYPmmzmbnVB1SlTVl+CTSBu4ACqrODRdRxeJi0gDcnbzSHH47OIYSRudJ8uikyZFE9LDjlMZ//wBBuk35Kh+JAuRJ8wPukJxmSQMvlE/TQqk48mxAM/LyUcs7ZdHx0h5WrNcZc4DoZWEe20JccQ4NByhw53t5j8Cg3EyYLYto0wD5LPxPk38L4D6r/wA3WMfI0Sz/ABVwJEHnII8/5RNJ/usU0c8bSCjyiPkoOoieam3FEC8ELbS03bboUemL2uyt2EESLj5hUuw6YU3KDnLaRikwJpjVSVlWFWsRrMqtEEm0bqihWDAXu1G3uA0R6z6rKr5cBsCJ8/7aquoASYAgRHPSJPPb280Enb0MjHWy0VSGxMyZN7aCABsAALdByVCm9yrlYagwBbhYFsLTjSk0LcLbWIkgWzZKxpWOaoSjQLCGvV1NyDD1ZTcmwkJnEZ0XpphqqSUHJtw9rnODWiSTACvxyPMz4zqODcUdT+EyDq079ei6Clx9jtRB8/sYXCdrcQcEaLGhpc5jnPmTJkARcQOW97rs+xWAL6Ta2IYGucJaySQGnRxB0JGgvA87KyZcT21sWvFyquqDanEmgTc/nmh+4NchzgWtGg3d1PIJpiGUs/dsa1tgXZWgF0/tECYtJSzinGxScAWOAHMFpPvt9UEZfyrYmWJp1dksbjKVEZc0H6eXVKsRWl2ZMsP20omxgLKzKFfxMIa7pofMff6rYZVF+pBy8OUo+kSlxJUarZ8grMTQdTdDh5RcHyKGNWZVa2rRLxcXTRRWSvFvgEozEVZMDTdJ+KvEEHQC6CapWWYFbSOY4piXVHZG6b6wT1UMS7u2gb7fc/n8IzAUwZfHp8/bT2RHY/gf+OxcP/ptGZ/UbN9fsV4uR+59HiS+ldIA4D2TxWM8VNsM/wBbrA/7dyusb+lD8t63j2tb13XrmEwjabQ1oAAAAAtorKoCVxH8keDN4fUw9R1GtrYdDmMAz6j3XO4unlzQYDXWPI/wvTf1Na3vKbmkSWOuL3BDhP8A4rzzjbwe8Df3Frx7X+yN/TsUvr0L6wv4mxImRoZ3CjTxB5knb02PMoqtSOSm692t025T9PRLg3MBFjv/AG+qW0NWwyljb+L3RbKqAfRkTF9+vVTpVxobFFFgSj8DnD1AVY8b+6WUnpphqkwU6LslmqKXUzGYC3P7IarULUyc/JIJ8Jv6j76+6R4isajzaL28uZXT9JuL1P7EHE2iblFNZFjqo0h8tPz5K4NkTy18j+fNBFBzlugchayq99Pw5hzg/b86KGdEYmXtapwt02Kbqa1Ixsiw81eHBDGyjKNAtWXvqBDuPushSkR1WmVRAK6mqoVrCiiZIKpLsOx9AyHNEvcYaToxgPiqO9fCBuRykjj6bhG8rrK/HhhKbKLP6kNNQ8oHwz6/M802c6iIWPlIhQZ/juJuouDTRw9Wo4gi7ssNhzjdwc4NmbL1SjRB1K8x7GtAxuIeyzXsLx1754d7Ahw/4rvrsZmJtzU6bbHZIpIzjNd+HaagaXMGpG3ml2E7WYfEDJUDSDq14BHsbKf/AFTTpuhzrH2VWM4dgMV4jTa1x/fTPdunmctnHzBRN/IiONfFEuLcLwz2OfTyh0G0AtPpsVyQw2U5qbiw+ct9j9kNxTEHB4juBVNSmWgtJiYMggxaRGo5jRWMxKfgyRm+E/8AwV5Hjzxr8XG/1DcJxpznd3iLEex5Obz/AAKvFAgQL8yN/LohngP1AMGb3Uq1ax1CtwYHjveiLPnWbi+NS9yjPDSfRc3x7EkNyj4nT7bn85pziXWA/LrnuIxJvJ1J+gHK6V5UqgynwoJztlXf5aUbx9Qbrt/0hxVFjHl72ipUeA1pNyGgfcleXYnEbfkJj2aY57wykT3pPhAmSZGhAgXIuV4rds91RpH0ZxPEltMuZEgWnT1Xlr+JvqVcuLxXhnTM2m3oJJA9Bdd3TpVG4dlJ789QMaHu5ui5HqkNLsTTNVzzJDm5XAm0TJjztP8AtC29ncdHG9q6eHZD6Dw9pAzZX5wDfeeS5LEuzHW8QOun917V2g7GUatFwa3LULQM4F/D8M8wI05E7rxbinDalB0PEXI5wRqD1WTZsYheBqNLQ06AQekmQfT5KjGYABxg72j8/n11QL65EERPP+dlo4x2u35+XlDyC4/BvvnsPP8ANx91F9YG4EdFCpiJVUglCaMKDp0sjsHUm2hSjCVNfzRGOfFxqmxYmcQ7iNWQB7+e33VVLDFxsCcwmRsBEjz1CrxQkiP3QfX8+qZcMZlgToZKbXKWxDlwhoCqtjaETRpWzbGR8pTDj/De7qObqIBb/tcAR8ihWuimRzyn1Ej7pnGmK58opoqqsGUgb3QWVGtdb81QvdoJIOLCAYU+9VLQpmmdVqCZaxgKiaQnVSouUjRKNIBsp7nkqy0ooUyLlVVaR1AW0YpGmsJ2U+5IVIkKxtTmiVHOwihUFNwe7RtwI1cPhHv9EHw2cTiIcSQTmed4m4nmdPWdlriOBqvDQ0tAMwCTLvIR9bppwLAf4c6hzj8ThIHItBiYuR1km1lPkdyr2KMaUYX7jypxMYbFVmABtNtOgKLR/pc0ucZ1cTULrklPuF9r/DlfEGxHQrke0OFGIayrTc0Oo5m1Te1IAvDzF3ZSCLD949EXfhrQ7P4eehkbESb6ec+cKlKUWNjCMo7O043wmniAXUXw7l16LkGVcTh35HEjkdigsJ2gqtfa4JsNCPIo7j3EG1aXj+IfDzLljmFHHSAuM441agdMloies7Lo+AudVECSYtAJuNvX7hcdhC395gdLlek9lOL04piW0aUQH1HtZniB4QSM56gRqm4l6k76E53UGq7NUXWUatSxV3EwBXqhptnfEcpOiCrHwr6JO42fMuFSoFx1WMx0hcTi8XJsdSSfPaeq6/G087S2SJF+fX1XJY/hxZJGn0HmvK89SdNdHs/8fxV32LXFek/plUp4Oi7H1qcgvNNronKDAzdAXeEn7SvNd17r2TFA8HpCpAp9349PizGf+WefVeZE9Rl2H4/UqS84WozQscCHtqAmzbXDukeq7WhTjULj6XbLB0Q1jTMaBviIHKAuj4TxuniGl1PNG8tLb+uqNUZJMLxTrWXnnbrgrazHOA8cD1jQEep913eKqpDxC4KyRsTwPGYcsOU6/UH+6v4jg8jWgauEx5LpeP4AOxBcBDWx76wt4HiuGp5+/c4ENIaGtJN+UeyQN9rOEe2FtguicfWa+o57WlrSbNJkgcpQ8rQSeHVzHfX7Kmir6YuEaAY1e3w0uYzT8oTHA7/mqWVn3YOQ+Z/AmWBPxdI+qrh9RBl+ka8SxPe06Tj8TGlh6hplvyJHolhb4XK4yGunciPmqtiPNNZPDSpAdI6hYbWU2tv9fdWGlN0CQ5tWQzcltoJ9Vb3YU6TIuTb6rkjXIpLSCrmum0KbKgNgPKVt7oHVGkLcrMLOfzQ9Rt7AlFUaZOuim6lGyZxtC+VMXZQdrqnFVMonqPqmL2jokPF605hyt9JP2SsnpQ/F65BNXiEeBwkAgj8Ovy3RFbioyyLc79I9Fz9WtmDSdRY9RsoNpjmo3Lei9RVFrsU9xPiMcptHloj6LMzSwx4xAP8ApeLtPvbyJSsSDcJjhqgI1QoJioex+i255J1J6kyjOL4YhweNH3/5fu/n1VFEARmBiRI0kbhZWzb0dH2Y7GVsSQ50MZqC60+Q1I629V2j+yYwoD3Fjif3yXOFjqXX0CQYPtrUafDTphvJ0uTnG8fdWpQSLkGL2106bK/DCHsedmnl7fQA6tdQq1T6IfPJU5XrJ6PK47sg87oIw7O06ER7yjSl7TleeqRlH4jm8XgnMIzaHQrvP0/rCthKuEfcU6rX5ZIlhMxIvBcHe6QcXpyB5O/lZ2Bx4pYoAzLxlF7GCHZY5kAxvIaNyvIy4+E6XR7GLK5wtnsfAuCmmPDSpUmnZgM+rjdN6hyiFz57a0APjSbi3bymActygbSDSb2dFjseG6mFy/E+0LRIBXDcY7VVKsgG3RSZwx7MO2tWkOrH/Kb/APm3Wo7zJAaOQcUrcuh2o9hmLxZeSuS4rTLah6rp6GHIE/m38pT2jaIB3FvdDTT2E2mtCBbYFqFYxaAWsCup6qumr2N3RoGTCKV3SU3wDfC93l9Uopap2w5WAc7lU4iDO9UWPaXAclqnRjX26LC85T5FU0SSfJUEyuggNAG26GzOKKqtmAFDum8yscbOjJLspJjVQEm+gW3OCtpstJsPzRAtj26Ma0mwR1KgBAdM6gaIcPy/YfysbVdraybHQmVsOzAbD3J/hD1yXakDyEISpVJ1KhKJyBUDMc4MaSDJ281z9ZsjrCP4q8yG9J9zH2+aBF9Qb2PK6kyyt0XYI1GxfmjVSe0tJBsRqFurTIII/LD+Vhv6QFN7lnsSp1/zUI2i5p/b6tv8kuykLRcRpZd0cx1j6c0YYZyuzEHXKARb82QrnAjIZ+FsbwbGY+XkrOF964HK7SLETMzZEHh9QXLeto+iZwb2kK5xWmxNnc05TqF0nAKrngg6DflqgK+ELyPD4tNCJHn0XQ8PohgDW+vXzT/Gxy5/YV5OSPD7mVSW6hUOx4GoNuSduogi/wDfySfFYUfVelPktpnmQUZdoWY/GOqR3VVrelwfdA4fG4mm8SHPEyR8QIm8Eaf3TvCdn2B2dwJvoZyg+W58/Zb4m5rABE2tFoHT2+agmpv1N0y6DgvQlYPxzi4HgaALCYAPuNJ8kp4ZXD8RS8IHiGltZS/EPzOJXZ/pb2efXr98Wf5TJGc2GbQhu7nRPQTJNgCh5JZJj+EceNg3aThVTM19IlznF/eAc2AE1RsA4GSLQ6RuEodwurfODYSdTAmAZ0jr1XuPH+BCpQDKTQXNjKHOcGmNnn9w6FczhuxrpL3hrBlcCJLi5xkZhBGUAwYtyjKLjlwtz9KBxeQlH1HCcFwDSc8NdDgGtcJaSLlzhu0CLbl41EgseLVHVH949xcdyeg25DkAF1nGOEsY5rGDK9zcxgCXuBgnKXCTzjVcnjqmQw5pGs2M6WltiPZE8fCNBxyc3YG6uYIJ8ki4vXJgev2RWLxY1QmHwjq0u0A03k/x1SXcnSHWo7YCFYxqkaEG6wCShqjbLKIuiJ+Spadgps5IkLkH4ClLgjn1sz7aCyBpVcrSRroPursG3f8ANVRB+xHNXbGFS4ga2VbDEDcrbnwJVVB/ikp4hLQwP2H581tjhCHY64JOtkYKVPn7gFLy+SoOkrBjivsTUrm6NdW2VDKTht9FZ3Zt80qOfGv4l+42Uot9kgrC1RM7BS2TF5GL+ZfuLcl8g4PqtKdQOiALdI+fNBYxxa084t5nRcs0H9LTDhUnSFlfE56juQ08hM/WVXQqtJdmMRdo1zXuJ2N591TTs4T6+SgWQ4x1Uzk+z0lFVRdiBJm6qAutgSpAdFxpIAKdGmXODW6myrMD80TngmHjxu1Onl/f7JuOHJ0LyT4xsY4PCimIabb9T1Uqrm+Xz+q04oGrWhWtqKohScnbCqQkk8t0bRBiZH0JHMWQWFbDJ3OnqnGD0i+8GRa3lPzW37AyNikQJc038vzZTZRnRuttxflIIRbXAgSYIgdHT9xH5KsYIB5W00i86WOg8rrUhLkQxeRrJIkxsYESfU7nquI4pXdUcGtDi5xhrQC4mbAAC5Plquk7Q4oBguBt5x/Y/JIuxeGbisb3bnmnmZUyQbl1pa0nmzP6SN1PnlbUUVeNGk5se9kP02NVwdjHtYNe4a4Gq4f95B/yx5S7/aV67hcPTpMbTptDGNENaBAA5QuDw/6XUQ4F1WrA0DcrAPUCfaEyxmIZw9optq1q1V/9Oi5/eE7Sc12t6z7rIQ4nZcnN6Z1FV1vOyi9tuiQcN4hiapLKtJtJzWkue12cB1oaARGaDNydNLriO0tDH4Z5qtxVfLrIqOj1YTBHpCZJ0rSFQjcqbHP6k1GNfh3kAxmEOmCLGCRpouL45iAQM2ZpElocc7Da4ZV+Jp0s7porsXx9+KpgVwDUpkHMBGdhtJboHAwDFjmCfDB08Rgw6q3NDcoJsQW2gHXYe6S/W2kVr/rSbPO6NA1nw3/keQTbHY1lACmwSY06aT0381vh+EDQ4tJiTE78pSHGkioXG8mft8tEr8uP3Y38yX2QU94qWFnbdfVDlsW3WOBi4j0hTpkm5v1/lKuxnRtrYCtpthaY3cqWWVqQDZJlz0CMplUUwr8m4TYiJsJdUn0Wy7wocOUwyycmJcRlhYyDqrIVPDhLS06i48t/zqicgUE9SdmlBU6FEvcGtiTzc1o9XOIA9StU6Zc4NaJc4gAcyTAHuvaafYTBMwYpVmtzNaXPrWa8OiXODtmiPhNoAkFeRiwvJdexLhwSy3XscPhf01xb2B4qYeDcQ9zv/ZrSPquZ4rwuph3llQsJ5sqNqD5GW+TgCqnYgs7ynSqv7pxIsXMFRoNnOZO4vB0leofp32YwNTCiqWtrvdLX5wIpndjW/tIB+LUzNgQEUYRyPjFU/wBQ4Y45Xxgqf6nkyS8bf4gPzRdl2s4N/hMVUoiS0Q5hOpY64nqLt/4rieOf1G/nJO8NOORp/AfixaytP2AnNsqz7K2qdkM4yvSZ6qLmx+c1hd6eSqAW1qOL8LTzvA238k6zkaGErwByyTv9vz5Iupe4Kpx6RNk26K8diYGqWnGuWY4Om+nNV4KnmqNHUE+Qv9kmc5OVDYwio2dnTAtJ0k+0R9Sm2GqAN06yRMAGYAO9pvZKcMCTqRpfnc/IQm9EsLYPvEX62jffmrLd6IJJUWECReQb8rT9bK2pXa1pidZMxFpAt+aBQZSEwDMkbEWsJBNj7pVx/HZWkAAXMRyjnvsZRuVKxKhydCLtJxDOQ0SXEwLudM7NHXkul/TvsRWFUYnFUsjGiabH2eX2yvLdWxciYMwdpTbs9wSvRb3lAU+9exh7xzczhmaDlYXS1jZOzZMSdgHtHhuOd/WxRv8AtYGj/wBg0FTrG3LlIqllUYcIm+0Ha802ijQAqYp4AygS1h3c76gJLSoPw8Od/ncQxEBpdfL/ANx/0gDlpEDq1xOGw/D2OqkTVdpaXOO3kJ23Kt7M8PNNr8Zif6jmlxm+SmPFlHtJ9OSbVOxN6pf7/sOeHUG0qIbMxILzALnAnM4+bpPqlvFmMqMLHEXuCdLXuUobTrV8LTqOxBpsNNrzBLQJGZ5cRc3leecdpVW021K2fLVce7DyScrRaxJI1CyeTiroLHi5vsZdoWYNgy4Y56hjM4TkaAQYB0cZAFrRN5srOEcUnB16M+KfDcD44BjqIJ9kl4ZgS9uc/Dy0JA+xuE6p4UH4tNA3SJ25AwY6wkQ5N8iifFLj2Buc1rCw30+HUc7+hEdBzlKHvg+FrW9SJdfrr7f/AFni6ZJNgImf2wOc26/PySutWYNPEekxNtzrvp7oZsPGiL3U3DeQLZgZcZtETGp199kBBaZsOm3srXuefhAb+c1vDYfdw90hR2PbSRgqSJVtJ5WnNgx7LJjT2TKoUwhnUInDumyHoDNpy0VtB3umREyQR3EFTi4GyspkOChPJOJ7Zk8rEKP+PduB9FOk26ofRMoJ44z7RsXR0PZ54bi8MXaCvRJ8u8bdel/qTxCrVfT4dhgTUqw6pFvBeGk7NsXHo0c15IV6f+mfFaVWvXq13t/xVQU2ibZmMY1py9SWyQOQXz2CVpw+RfjStPH1Z0fBuwuGpYZ1GowVXPA7x5EEnbJuwA6R56rlOFUavB8e2k8l2FxBDQ86TMNLtg9pIB2IM9B6ouR/Uyth/wDBVGVnAPImiP394PhLRrGxOwJVuTHGK5LVHoZcUYxUo6cev6HF/rBUacZTA1FFs+r3kD85ryrjjfED+aBdNxXiD8RVfWqGXPN+gAAAHQAAei5rjTvFHUfRJ8aXLNJ/57EmCfPO5IUVHLQCkWrSvPSMWiVsqC04LoVPDCkK0IVq1VfsiUqB4hL8YocMI7yRyMIOEXgRDvRcpNtWc4pJnSUKt94iLec2nrCZNqNBvmI8xrbSZn5LnqNSd468lcyq3c+rpMJ3PZO8do6h1SSCP3QQeXn5QuW4y91V3dsGskdGzr5IyvjJb4SIiNbxr6KPZ6X56gdTDg9p8RguA2AnxeUXldlyWqR2DFTtnqnYHGh+Fp0nuBq0mhp1Bc1tmPvc+GAeo6hPMfXFNsn5mL9VwGC46aldjHta0DxFzTBAAmRynSRzCO4zxWpWHctILyQARHwmZcRs4QP/ACHkGQarQrLCmC4Wm7G4sOd/TY63/cRYn0uPRdR2xJGDqMbrUy0x5PcGn2bm9lnZvhoosAGsfn51QfbuqQyi1okmrI30Y4TH7ozi3ONdEUmBFWc1xCq6nTp4Np/qPb6NJEjyLoP/AJJd+p1JprYKiSQ0NfPkTTH2K6ThHA3Gq2rV2M7lxdoCTyXHfqxioxrB/opMI8y9/wDDUvLKosbhjclX3J4qsxg5NaAL22t8gR9rJYOLlxy0hO2Y+ote2oOtiuZq1X1HCTJJsNrldbgsG2kxo1cYmJH1Gnqlxk5vXQ2cFBb7F9agSTndJJ+cnQCw1PLdVuDQYy6c7n+yJrOm4vPpcb+yoq1Re2ov5/ysdGqwfEPv56dFVRqXU6pGkfmiEc0hwiIk6Jbk0xqVoNqNkSNj8lUG/Eeg97rMPW2PJY9wy23Py2THQC+Anh1S45yPUEx8jCt4m2HgjofX93pMobCUj3rGjW09L5j7AIvjzx3waNoB84LiPTNHoi/gEP8AM18G8JVIcORV1ZsOI/LoNjr+xRFR8x5BHF6FyWyym+4TENSmsYKbMNh5JsCfIqplZWlixfIEoypdoMW1uVuKrgchVqW8r29EBWque4ue5znHUuJcT5k3KxYtcm+zXJvtkEk4vT/zPb0IH57LFir8H8x/oU+G/WKiokrFi9M9g0shYsXHGi5QDZWLFxpYGqym+LrFi0wKc/Ty5KBcsWLnoxFdaudkRw7FGkDIkEG3InRwPMFYsQSbQ2CQ3w2Jr1KcmmHFrmul4JLg3aNY00jRHf8AVuIaP8qjRYf9WVzz6En7LFiq2kqZHak3aJ8I7c4xlSa1bMwiACxgaHbE5WzAvYLp24+rjHUqhqUz3Z8Pd3bctnMC48hyWLFkG26YUopK0OMNx2Jz0n2JkshwtuZII+a8p7e4sVsdVe05mjI0HoGjbzJWLFmfo3x0uTKezmAz1C63hiJtJN7dY2TLFYmZjy+/v00WLEUNQQGR3kYE9xG2ux09ihDUkmLFYsS5DIog884ny/IVFQxf2+5W1iEMpDuSvbWDbjxO25D03Wli6zGrGHCsYKE1XAOefhBvfmR9UBhnlznPcZNySdybk/nNYsROT0hXFbl7sLog69Pv/dWgyQPILFiYhMizEDxn0Tmm2w8ltYqMfbJcz0j/2Q==
+categoria: Gaming
+tags:
+  - "#Gaming"
+  - "#LiesOfP"
+  - "#FinalSecreto"
+short-description: vLies of P ha sorprendido a muchos con su estilo soulslike y
+  una narrativa retorcida basada en Pinocho. Pero pocos saben que existe un
+  final secreto que cambia por completo la historia y desbloquea un arma
+  poderosa. Aquí te contamos paso a paso cómo obtenerlo y qué decisiones afectan
+  el rumbo de tu aventura.
+mk1: >-
+  <!--StartFragment-->
+
+
+  ### Cómo acceder al final secreto en Lies of P
+
+
+  **El juego tiene más de un desenlace, pero solo uno te permite ver el final oculto con una gran recompensa.**
+
+
+  Para llegar al final secreto en Lies of P, debes tomar decisiones muy específicas a lo largo de la historia. Estas elecciones giran principalmente en torno a si le dices la verdad o no a los personajes clave. El juego te da la opción de mentir o decir la verdad en muchos diálogos importantes, y esto impacta profundamente en el desenlace.
+
+
+  Mentir constantemente, aunque parezca lo contrario, es la clave para activar el final secreto. A lo largo de la campaña, elige siempre las respuestas que no se alinean con la verdad. Esto afecta tu “humanidad”, un sistema oculto que determina qué final obtendrás al enfrentarte al jefe final del juego.
+
+
+  Además de mentir, es importante que completes ciertas misiones secundarias relacionadas con personajes como Sophia, Geppetto y Eugenie. Estos personajes tienen líneas narrativas que influyen directamente en la historia principal y que determinan si tienes acceso o no a ese desenlace alternativo.
+
+
+  <!--EndFragment-->
+mk2: >-
+  <!--StartFragment-->
+
+
+  ### Qué decisiones tomar para desbloquearlo
+
+
+  **Elegir correctamente en momentos clave puede cambiar por completo tu destino en Lies of P.**
+
+
+  En momentos importantes de la narrativa, como cuando Sophia te habla del propósito de su existencia, o cuando Geppetto te hace preguntas que parecen triviales, selecciona siempre las opciones que muestran empatía, incluso si requieren mentir.
+
+
+  Uno de los momentos más críticos ocurre al final del juego, cuando Geppetto te pide algo inesperado. Para desbloquear el final secreto, debes rechazar su petición. A pesar de que puede parecer que estás tomando la decisión equivocada, en realidad estarás optando por el camino que te lleva a descubrir la verdad oculta del juego.
+
+
+  También es fundamental que recolectes todos los “Recuerdos” que encuentres en el juego. Estos objetos no solo te ayudan a entender mejor la historia, sino que también juegan un papel importante en el sistema de “humanidad”. Cuantos más recuerdos tengas, más posibilidades tienes de acceder al final secreto.
+
+
+  <!--EndFragment-->
+mk3: >-
+  <!--StartFragment-->
+
+
+  ### Qué sucede en el final secreto y por qué vale la pena
+
+
+  **El final secreto revela un giro oscuro en la historia y te recompensa con un arma única.**
+
+
+  En el final secreto, la historia toma un giro radical que redefine por completo la narrativa de Lies of P. Descubres que Geppetto tenía un plan oculto desde el inicio y que todo lo que viviste fue parte de una manipulación mayor. La verdad sobre Pinocho y su “humanidad” se revela en una cinemática impactante que solo puedes ver si seguiste el camino correcto.
+
+
+  La recompensa por este final no es solo narrativa. También obtienes una poderosa arma especial que no puedes conseguir en ninguna otra parte del juego. Esta arma tiene estadísticas superiores, habilidades únicas y es ideal para los enfrentamientos más difíciles del juego.
+
+
+  Muchos jugadores que terminaron Lies of P sin explorar esta ruta no conocen este desenlace alternativo, lo cual le da un valor especial para quienes buscan completar el juego al 100% o simplemente quieren disfrutar de una experiencia más profunda.
+
+
+  <!--EndFragment-->
+mk4: >-
+  <!--StartFragment-->
+
+
+  ### Consecuencias y cambios en el juego
+
+
+  **Acceder al final secreto cambia elementos importantes del juego y desbloquea contenido exclusivo.**
+
+
+  Después de obtener el final secreto, puedes iniciar una nueva partida (New Game+) con cambios sutiles pero importantes. Algunos personajes reaccionan diferente, aparecen nuevos enemigos y ciertos objetos solo están disponibles tras haber visto ese desenlace oculto.
+
+
+  También cambia la forma en que se desarrollan ciertas misiones secundarias en la nueva partida. Es como si el juego reconociera que ya conoces la verdad, y ahora te lanza nuevos retos basados en ese conocimiento. Esto le da una rejugabilidad muy alta y una capa extra de profundidad a la experiencia.
+
+
+  Además, el arma que obtienes al final secreto puede usarse desde el inicio en tu nueva partida, lo que cambia completamente el ritmo del juego. Con ella, incluso los jefes más complicados se vuelven más manejables, permitiéndote explorar rutas alternativas con mayor facilidad.
+
+
+  <!--EndFragment-->
+mk5: >-
+  <!--StartFragment-->
+
+
+  ### Por qué Lies of P sigue dando de qué hablar
+
+
+  **A pesar de ser un título relativamente nuevo, Lies of P sigue generando teorías y secretos.**
+
+
+  Lies of P ha capturado la atención de la comunidad gamer por su atmósfera, dificultad y, sobre todo, por su narrativa en capas. El final secreto ha provocado debates en foros, videos de análisis y hasta teorías sobre futuros DLC o secuelas que podrían continuar la historia.
+
+
+  Lo más interesante es que los desarrolladores dejaron pistas ocultas en varias partes del juego que solo se entienden completamente después de ver el final secreto. Esto ha motivado a miles de jugadores a revisitar el juego para encontrar más secretos.
+
+
+  En 10datos.com queremos mantenerte siempre informado sobre estos detalles que marcan la diferencia. Si ya jugaste Lies of P y no conocías este final, ahora tienes una razón para volver. Y si aún no lo juegas, prepárate para una experiencia oscura, compleja y llena de decisiones importantes que cambiarán el destino de Pinocho para siempre.
+
+
+  <!--EndFragment-->
+---
