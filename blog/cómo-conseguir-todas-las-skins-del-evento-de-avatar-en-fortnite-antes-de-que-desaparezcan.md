@@ -1,0 +1,135 @@
+---
+title: Cómo conseguir todas las skins del evento de Avatar en Fortnite antes de
+  que desaparezcan
+date: 2025-11-18T05:55:07.076Z
+featuredimage: data:image/jpeg;base64,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
+categoria: Gaming
+tags:
+  - "#Gaming"
+  - "#Fortnite"
+  - "#Avatar"
+short-description: "La colaboración entre Fortnite y la serie Avatar: La Leyenda
+  de Aang ha traído algunas de las skins más espectaculares del año. Aang, Zuko,
+  Katara y Toph llegaron al battle royale con estilos únicos, gestos inspirados
+  en el control de los elementos y objetos míticos relacionados con la historia
+  de la serie. Pero estas skins no estarán disponibles para siempre. En
+  10datos.com te explicamos cómo conseguirlas todas, cuáles son exclusivas del
+  pase, qué se compra en tienda y cómo desbloquear los estilos secretos antes de
+  que desaparezcan."
+mk1: >-
+  <!--StartFragment-->
+
+
+  ### Qué incluye el evento de Avatar en Fortnite
+
+
+  **Skins, gestos, misiones elementales y recompensas de la Nación del Fuego.**
+
+
+  El evento de Avatar en Fortnite incluye contenido dividido en tres partes: el pase de elementos, la tienda de objetos y las misiones especiales. Las skins disponibles hasta ahora son:
+
+
+  * **Aang:** Incluye planeador de bisonte y estilo Avatar del Estado.
+
+  * **Zuko:** Traje base y variante de armadura de la Nación del Fuego.
+
+  * **Katara:** Versión clásica y variante con abrigo de la Tribu Agua.
+
+  * **Toph:** Incluye mochila con roca flotante y gesto de pisotón sísmico.
+
+
+  Además, se han añadido mochilas, picos, ala del dragón azul de Zuko, y un emote especial para cada uno de los cuatro elementos.
+
+
+  <!--EndFragment-->
+mk2: >-
+  <!--StartFragment-->
+
+
+  ### Cómo desbloquear las skins del pase de elementos
+
+
+  **Solo disponibles completando desafíos antes de que termine el evento.**
+
+
+  El pase de elementos funciona como un mini pase de batalla exclusivo del evento. Puedes conseguirlo con PaVos y completar misiones para desbloquear recompensas. Aang es la skin final del pase, y solo se desbloquea al completar todas las secciones de los cuatro elementos (agua, fuego, tierra y aire).
+
+
+  Cada sección tiene misiones como:
+
+
+  * Realizar daño con armas de cada elemento (designadas por color).
+
+  * Deslizarte ciertas distancias con viento.
+
+  * Destruir estructuras con ataques explosivos.
+
+  * Curar aliados con agua durante partidas por equipos.
+
+
+  Completarlas no solo da experiencia y cosméticos, sino también desbloquea nuevos estilos para Aang, como el “Estado Avatar”.
+
+
+  <!--EndFragment-->
+mk3: >-
+  <!--StartFragment-->
+
+
+  ### Qué skins puedes comprar directamente en la tienda
+
+
+  **Zuko, Katara y Toph están disponibles como packs individuales.**
+
+
+  Las skins de Zuko, Katara y Toph están disponibles en la tienda por tiempo limitado. Cada una cuesta entre 1.500 y 2.200 PaVos dependiendo del paquete (con mochila, pico y gesto incluidos). También puedes comprar el lote completo de la Nación del Fuego que incluye todos los accesorios con un descuento especial.
+
+
+  Estas skins rotan en la tienda durante el evento, así que si no aparecen hoy, podrían volver antes de que finalice. Una vez que termine el evento, no estarán disponibles y probablemente no regresen hasta futuras colaboraciones (si es que vuelven).
+
+
+  <!--EndFragment-->
+mk4: >-
+  <!--StartFragment-->
+
+
+  ### Cómo desbloquear los estilos secretos de Avatar
+
+
+  **Hay recompensas ocultas que solo se activan si completas todo el pase.**
+
+
+  Una vez terminas las cuatro rutas del pase de elementos, desbloqueas desafíos especiales llamados “Prueba del Avatar”. Estos te permiten obtener:
+
+
+  * **Aang Estado Avatar con aura activada.**
+
+  * **Planeador del Bisonte con efectos mejorados.**
+
+  * **Gesto “Maestro de los Cuatro Elementos”.**
+
+
+  Además, si logras ganar 5 partidas usando únicamente personajes del evento, desbloqueas una pantalla de carga animada exclusiva y un fondo especial para el lobby con temática de la Nación del Fuego.
+
+
+  Estas recompensas son puramente estéticas, pero tienen valor simbólico alto entre los coleccionistas de Fortnite.
+
+
+  <!--EndFragment-->
+mk5: >-
+  <!--StartFragment-->
+
+
+  ### Reacciones de la comunidad y cierre del evento
+
+
+  **Una de las colaboraciones más queridas por fans del anime y Fortnite.**
+
+
+  La colaboración con Avatar ha sido recibida con entusiasmo por toda la comunidad. Muchos elogian la fidelidad de las skins, los detalles de los gestos y la ambientación del evento. Incluso quienes no son fans de la serie original han quedado impresionados por la calidad visual del contenido.
+
+
+  El evento terminará oficialmente el 28 de noviembre de 2025, y todas las recompensas dejarán de estar disponibles. Si eres fan de la serie o simplemente quieres tener una de las colaboraciones más épicas de Fortnite, este es el momento de conseguirlas antes de que el poder de los elementos desaparezca del campo de batalla.
+
+
+  <!--EndFragment-->
+---
