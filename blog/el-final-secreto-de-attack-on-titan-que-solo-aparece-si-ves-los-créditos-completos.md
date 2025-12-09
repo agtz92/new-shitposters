@@ -1,0 +1,103 @@
+---
+title: El final secreto de Attack on Titan que solo aparece si ves los créditos
+  completos
+date: 2025-12-09T04:44:51.883Z
+featuredimage: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMSEhUSExMWFhUXFRUVFRcVFRUVFRcVFRUXFxUXFRUYHSggGBolHRUVITEhJSkrLi4uFx8zODMtNygtLisBCgoKDg0OGhAQGy0lICUtLS0tLS0tLS0tLS0tLS0rLS0tLS0tLS0tLS0tKy0tLS0tLS0tLS0tLS0tLS0tLS0tLf/AABEIAJ8BPQMBIgACEQEDEQH/xAAcAAACAwEBAQEAAAAAAAAAAAAEBQIDBgEABwj/xAA9EAABAwIEAwYFAgQGAQUAAAABAAIRAwQFEiExQVFhBiJxkaHBE4Gx0fAy4UJiovEUI1JyssKSFUOCg/L/xAAbAQADAQEBAQEAAAAAAAAAAAABAgMEAAUGB//EACcRAAICAgICAgEEAwAAAAAAAAABAhEDIRIxBEEiURMUMmFxBSOB/9oADAMBAAIRAxEAPwD6pRRAQ4araZVWiSLYXQF4KSUJ6F7KuhShcEhC6F2F0BccdCT9oacNzzpoC08eRbycNfzQugFTeUQ9haQDI2OmvDXh4rk9nCihc6AgwSBqNj4fZG0r48R5fZIbSoG5ma6Egg6x0MfXbojWP0/CmcRh0y6aVy7Y4tlgBPI8Urta4d7hNPikNieGhiY8RxQqgVZmrlxzTlyHiJ9iNFC1/UDtqOiOv6j9nva//blMekhU2rmhwlXT0Cg+wqQ954bfM6/ZX5lDDYcdeZV91TgpI1YmW6KiUO93NTIUJVkjJKRFtOVIUiNl6V1plECo88NOpAnnGqzOP3EjKOBcfNx+3qtJVqADUT4LN4u0OhwaRLnDXSRoR9T5qU5JRaHi1exTY4bmpuqnUgn89VnLn9ZB5rWWwLWOjbXTmOSUPw/NUbwmD6Ly+W3ZrSVaLTb9wRy0WWJDKrp6rb1aRGnAaLE4q3/NPimWxY9jCpUIaNVrey1y19PK/eT9IWPuqoyjn+yLwu5ywWlZc0LWi0WvZuauCU3N23/sPosB2ksC3uBpkFxJA4RxW9wrE2vpkOMGNOZMrC9psQdULnA5csg9dYWXBy5UXmo8VQgpV3sDYMTxTfFGi4oBzR32gTzISsvGVgOx48ZKYUqUscGOhwExzA1K0yjtS9k3LVMybWwYPNTcFOJfqtdR7NsqMmcrumvmOCvPLGHYlOjAVTuqnplilmabnNjYkeqAezRXi09gTBXKNTdWObqvA7pgn6whSAXgvErSRLAV2VU1ysCFHWTaVYFWFIINBskvL0r0rgnlMFQlSC44T4vgrXk1WkMdxkw09SeBSMmpTPPqIcPMT9VtQl97g7Hjuta13OHR5NITRlWmEQ0cQ4wJ4EJpbYkHNhw14EJTWwqo0mASBxIgfKSmOGW2XU7/AE/dPJRoKsW3jMrtGFo6u1J46SV41EwxasILRvx6apOx/A/kJo7RzGNldZT6jxH4E7bcCo0SIJE9PzoswUZb1i3TccksluxXtUNXUiqnU0wt6mZuu/sr20gUPykXhEzqRUIhP3UQREJVcUYKeGSxJ4aF9w/KC48BKzl/iAqdzmQRzECPstTVoyCFnrzCcrs3Dh4+Cl5Mmo66EjF2TwFoeMh1BkdRpp6obF7A0nBwG30Kvs3GkZ4SNvEJziTBUaQvGlK3aN+OmqEfwcwnosNiNlNctG/ut6KTqbRP5BWQvan+dPEke60QlaJtUxffUMmnLRdsquXQ8U6xGwDmNcPD5pI63Ic0R1+SGmgpjA3DmSB4ys5e1S4v4z91qalMVAGjeIHBZ91g9rnBwggHQ9QkgoplLdCu2zPcG8vombXQ8eSngNHUk8UXiNEN7yaVdC8ti7GrWC14AGm4ET8k+7L1mhrfEA780nvS6pTaI11g9OSrwOuWVmg7ZgCs2SLljr6KxaTob9pLdhcGZRLiJPEarD4pZ5HkDUToeYX02/oMdUpvmSc5I6BIMeYaujgGho7gAAhDBmqkTqjA1KenVcbalEXrC0xtCMoVQ9okbaLe5UrQT9ICsumogabsw0UKjnt4L1FjMX5Az48K+lXB4pBWuZXKdQjUFU/Don+fZqWuVgKQUr52xTC0upGqjLE0WjlTGCiQuMqAqyFMqUB5BhWh68WLwauOJhym6oAJOyocl1xc5tOHp4oUFdnLq+zuy+Q/OKFr3QboN+iWV3n4kt+XouAzvvxVFAey5zpXfhqNJqeWOHZ2yTA4cyjJ0ATClKIbbu3ymOcaJ/Swym3mfH9kTWqBjS7gB/YKTmEV4K6S5p4D3TYMhIcDus1V0n9U+e/stEkYziRhVVbcFXLy5OgNWBmlH9kqxVoDRPT7p7VpzuUgxSlBy8J18lmzSfF2c0qElUAwGuBgyY5D8CW33atlDNTLS5wOwMDbiUr7R4m6k91OmY4OI+gKyFwZ1U/H8fkuUgQtLY4xftdXrDK12RgmGs315u3+ngsxWrOJkkk+JlTOhUajZ1C9COOMVSQW7L7XGatP9L3RyOo8itLhGI0q4yuIbV/h4A88p59Pqsa4Qoh8cdeH7FTyYYyFNy7uieW3y2VVrdl7nkjN3X8P5TGvySqxxprmgVCc2xMabQCddPJaLBHMZV1/S5rgfmI915+SDj2goR4e2Mw4g+itxMnIZ0R2K2zGOFSnsXQRy14dEuxZhewhCElJiyVFOE3TC7I8w3g7eDGiEr0ix87wdxt0VFvTygr1rXIfzHEHYpnCraGTtmrpXpNMVAP003f8huk9XHgRDt/BF2F4BReBydLYPE+0LG3j9Ss+LCm2mO3sljjJOYfpOx9kvsbrIDt81c6sSIO30KE/w7p7oJ8FuUfjTOi6ej9Q21MNRXdcISq/uGsbodUDZ4vrBXqrFKa5IwPJGGmOX4YxxQzsNLHdEVTvBEyiKdwChymjuMGVNsW8FMWSua5TbUSOUiiiiilQc1GNXmvUpSN2OlRxeXShLq9awHifp4/ZAYldu0jn9EEyjInnt4cPv80uq4iXHLxcY8v1eQ08fBMra6aZHJp9O6PUlNTQ6VFOCWbXF2ZoOg36nhy2VWMYeKZDh+k7HkeSY4e8NzfL3U8Tbnpkcu8Pl+0o27sSxJaUSXtYQQTB+R1nyWtYAAANholgoMqtDxo6BBE6EKy0uC6Wn9Td+R4JJbDYwzBK+0VeKcc/b+48kXTYSVm+1lzDg2dh+/ugo7GhtlGD1srwf5vdbdfN7C42PU/Vb+xrZqbT0HpoV0kWyKqYSVxclelIRsXYk95MN0HPh1SLF7/JTc87tbp4nQesLU3LAWmV8/7ZmKJji9o/pcfZRlD5f2Mpej59iFQucSdST5koD7kfX7I29qgkRy+32CBrMLYniA4eB/CtSpBZ67sHtDXxLXCWnqAC5viJ/NkFTqlbfCLOmbbPVDnhwflDYLm5JzuDnaUw0ZdeM+KX3WDMrs+JRa5tTvEiBkqBv6i1zZDXa7E/dDmc4mVcNFBgHGY46q9zYTTDWNcwUyAA4lp0bJc49107yCRH+3qZLdCJWI6sAgifnyT2xxVwazm0Fv29I8lnXOlFWTtY8CpZVaAzR/8AqDnMAJ/Tt+eXkrBeh4kkZo1Hog7Ju4PJRurAgB4Bj00MfnisLjFMm5aI02gz08kNTaM0A6+nRdqM7u/U/wBkrNSHHrunSs6LsPfXyEQePnzS+/IPeHFGPaarc3Hpt8ksrgjRNFKyi+j1CmHaEwnuBWtI58w2IA1PCZ2WYe+EXh9+9gOUkTCXLCUlplccknbPr95f51dh9JrxvBWcbWRNGuRsV9g8NRpHz/Jt2zQmk9piVc2rUZxKU0cScOKLOJlwgwoPHL2h1JDi2xU8U2oXbXDeFixVRFOv1Up+OmUhma7Nh/iGjiiGVxzWPbcnmr2XZCg/GLLOaHETLZNU02gd4iJ89x8lk696HmKZfkEzUdwA3jQAu4CBpKZG6a4Q9rXDcBwBE+BSi9Y1pNWoQ90RTYBFMRtI4tG8bc5lLHC0VjmQXhuoNSI0y0xyGw8zCEZfnO4N1/SB1AmPPQoW4vqssaR33A5WglobIjM/eT+o9Infa7Dbaa5H8FONY/U+B75j5Jo4XtspPKq0aXCbiRPgPSfdNrm4ZkIOgjXgkGDUCymJ3Op+e3pCYxOh1U5Y1ZJZGSwAks6ZjHomVOgRULyRER1QNA5RA0HIK4VCpzhbHjOkMi8BfOe1d3mrO6GPJbKpUgEnhqvmmM1pe4oQhWy+OVs7Y3MGFvezd7NOOR9D+FfMKdWCD+bwtj2Suu+Wf6h6jX6Sm4plsv7DbfHVda+jSFVCjUolwUZx1oycmFuOZp8Fie21sTT8HZv/ABpvPstd8TI0gwBCz984VM4O0exB9DHzWbLKmiiej5K9suiYkxPKTv8ARduqDnPp0w12bLTaAf5oc3wnNt+67dNyVXNn9LiPLSfoV9WtMOo1KdtWyiW02EGBv8MAAnfT/qFaU9WVjsp7O2LWW/wXiWvzzw0fvruP2RljhNOiwtYBvOgjkOJJ4DjwVztFZTeo2x2fDsaohleowbB72j5OgKNtUy0qjtc2gbGzc8hzid9AIHV08Ef2toEXDnRALnHze4T/AElXdk8PFZ1RjtshP1A9T6Krl8bJV8jLmgcubhOX5xK9QflcCm+LUctMDkfbbzJ8knaN0ilyQi2NrW4M9Sn9IipaubuWvzR4gD7rJ0KkFansoM1RzdMpbJnxEx1iVkzKti8TPVwJjhJjgq2ASTz+fhCe4ph4+I4Nbpmies6/RZyo0glsRrty1RhJSWgJUdpXBboNN0NGeRpPDqrbiBx3Q1GoWulPXtDA1SlrqjLSwLxI+g+6nWpgtDvpw8VOsx9LKI3GYb8UeQb0a9jlfTchWK9hX3DR4oZTciGPQbCr2lTaOC2PVzXoVhVzSpNBQUyoiKdVBNKtaVJxGGDdVYKAJnSeB4+aBY9EU6ylKLGTLW2Ya8vjvHSd9OQ5bK63pBuwiSSepOpJUKddHW7wVKVodbOsKvY5SbTBUhRKi5IdJkmlWAqsMKkFNjplWJVIpPP8pHmI918uvKsk+K+jdoHxQd1ges+y+c1aRKKXxNGKVFNQd1p8R6pzgt1kcx3KD90u+CckeP3U7J0AKUZUza6kv7R9VbqNNlzOQgezuIZ6Lebe6flt6R5Jp8VvJF2vR57SXsDuqZe13RJLlpo05kdQdySd/pp0Wh/xDZj5rM9oK5eRIiJ6LzfKkuVDxiuNnzLtBTLKzusOHg4T7radgcfDqf8AhnnvNks6t3I8Rr8vBKu1FrBoXESwAB3/ANb+I6ggJNhNsaV3k17lRzJ6jMGmf/jKMZqUDRF0bLEcPu6lYn43w6ebuZXOEzqO606mNNSNlpaUtAEkwBqdz1KFtr4FozkB3UgA9R9kg7RdqBTmnS1dsXcvDr1XJ8uiiafQr7dQ+o5rR3u5tybLv+zvNR7FubSY+o9waC1olxA/iqHTnwSG5v3uM6CeW+0DU9ECX5Qi1qg8d2MO0VRj6jvhmWkkgxA11O+u5KRtpEGDyV8komlaOP7pb4irHfQuyp12buMrz4IC5tiB9Vy1qZDrxUp/JUTlBrs3WCn4rg10ZQSTPgfchK8R7Ml1Y5ZLTMOMRpqdemgQGEYwGF0mJBA0nXcD0Tmtij2szU3ZtZjUkHiIPRZGpwloSl7MXfWxBc0fwmD4qjDrZrnDOYiZBnrpomeL3kuOZol2rvnrslujTIjbQ7g+PJaotuILXoeWmHNdSdWgZWDL3g4guOwkD1OmyMpYfSrMYbhrw4MGV1JzAHNOwc3KYI080nGKgW/wWt3dmc46mdlfhpolmtRzSOEOI6QVnycqv+dAlcd+hiwq9iGYr2FfozPICmFXsKFYUQwqbAEsKuYUOwq1hU2EJaVdTI4oZpVrVNhsJ04LoVIKsBSNBsva5EUqkIRpVwcFNo6xnRuSjqF0kjHImlUWecEUjNo0LCCuOpIG2uEe10rJJOLNMZJoTdo6RNMNA1J9iPdD4F2fazv1AC7g06gTxPX88NDkVgYu56o5R2ZntFgzcoexoEaENAHgYH5ssc6hlJHPX7r6yKU6brL4/gES9g04jl+ym3ZqxT46ZmsKxY0HTu06OHTgfEe62NrfMqtzMM/UeI4LAXlGJBCX2uJPov0cRyPt1HRPGf2NmwKe0fSb10EOmOfmPugr+3+L4gEj0SRvaZtVuV4Ad/Sddd9vzwRVW4eI70d07dR+0ry/Lf8AsbRGEHFVInTsw5rqb+806R0iPdLBhWSq936pp03B3EupOa0k9Szfq4rYYdaNLQ3jEk8yVG7w4tB0H6XfQrFByV/RojGjDYzjQYwsZ+s6k/6ByHX6eO2Qe6StJ2pwksPxG7EDN0J2Pgfr4rMOK9HDx46K44xS0cc7kospCZJleJRuHYcajhOxP5CeRTsYYFhLrh2Wm3xOzR4n+5X0HCuxNJomoXOPTuj7+qDwfLQaA0Q0e/ErSHExlWdssk/QBc9lrQf+2PmSfdY7HezlLUMGXluR5Fam9xPqkVa5LzA24/Yfn7T22V/GmqZ84uLd1J5aRqD8uh8EzscSaxxOUOB1I330+Sv7U20Q8E6abz+fus6KsdOqdx5I8zPi4SotxJ2Y5gOf1Mazuh2POxBMDf6a8l2CdZPhyUhU3bGnE84ndH+CKoDr1NJjoo0qx5+qcYjasNMfDAkbxJ0PilL7B4juzO0AoqUWhrSRtWBXNT+n2ZdG+qAu8OdT3C+1jnhJ0meI01sFar2LtK3J2VpoEbhFyQLOsV7Ao02Iu3oEnRTlJHWRDFMLQVsJlgIiY1SatTgws8Mqn0PKLj2QaURTIVAapAJmCw1lMK9tAFAMJRFOsVKSYyaCGW/VXto9VRTuVb8TkVN2OqLmaJha1+BQFLmUa1zVCY8BgNRIUT4oem/kV1ziocS9hLHEItj5SsVCFY25SShY8Z0AY72abVBdThruXA+HJfNcbwl9Mlr2kH81C+uf4tDXhpvaQ9ocOoBHquUX7KxzUfDzLdF43jwIBdHIEx5LbYtgtvJ0LTv3TO+w70pPVw6gBADi7m4/aAsM80bNCzxaELLyudWl2nIkx4wvf+v1wI+NVjkHuA+q22GN7g0gDYdJ36JbilhTqAvcwSCe9s52oGsbjx6+KSGRSdUGMnLpCClid1WEZ3EEFvfMgiNRqDOkqu07N3NTUMkTE5mgT8yn+E2md4a0aAfID8HqtAb6mC2myZE93K6QQQZcAPFaEkukCTpmfodk20mF1Zwc46BrToJIEydXETPLxRNtSE5gIAGVo6Dc/M/mqcYoCWADSXAOJ32JA02PHppzS0mFORbFtWSua3cI8PqFbUvNT4D3QtxBak4u5e4coj1U3GzTF0H3d2UVhVKdEipVs1TLyE/OY/PmtXgjADJRUUh07M52qt4zN6f2WCqv+k6ei3Hbe5/znchEeEA6fOV89q1TJjmuitGXzKtE21j/AH5otmsT6JaSYn0V1CvEeqMo/RhaDvj5HHUGCPAogYnGgAjggrtgzTIIImRMa8NduS7Tsn1Bma3SY5DRSlGL7C0mtn6KptBCExGxNQZdPmleF9pGvEO0KbUMQa46EL3XjyY5dHnLJCSM4/AqrHaa9QjRhbyBmbK1DIKtFNM/Ln7OXjx9GXucHAiNFOhh7mjM1aC7tM43VdjaPG50Q/UPjtnPBvoqsQ4DvcUNdYVmdI4o6+puaJBlA08QedISxcn8ohkor4yKHYXlGqDqWLhwWqp6gSivhgiIXfqZLsf9On0YU0yN14J/jds0CQNUhK148nNWZckODo6FY1ypDl0OTtCBlOsVeysl4erWvU3EZMatulNlyljaisa9SeNFVNjhtQFRqBLG1YRDK5iTsozg0isZphApniVRcPAgHjPoqjdqOX4h04D1P7KPkvhidjY3yloRY7cNbtqSYMcPmkNqHVSQBMbfnmmeOWxOc6mT3QOc+qEwqp8Kk4kEOnXgdgR4Lw3K1aNMviH1HZQ8tEAAwPlp7ea9itqcoa3oB4Afsg7CoXAN/mE/LU/8Y8kzp1MwE7hg/q//AD6rRgVLZqwLR3ALcMa7nIBPgJ/7K+qZftOUTH8wGnmHf0rljo0nm4+nd/6qNs6S48z7kg+Th5LSLLssvXjK1vUmeZiJ/qKU12Tsi8UYczY5E+ZH2VFtvqkl2XxftFVStG6zleqW1J/1SJ6jT6gea1WLUROiyd1uQf4XA+/3QRWWg7C6gFQ+AH56J9UvcgkHhosT/iIDiOJj6BOn189IDi0Qukh8cxX2lu8/e6Qfb381knO1Te/d3iDsRHz5pVVpwJTpUjHnlydkCVAPK6BzUHriCCRc7BavCMXDaDWCGlrnz1nKQd/HyWIBRNG5yqOXEpqgTjyVM+gUHkLQYbiDR+ps8oUaIoVgNC13hotPQwqhlHc15r6vPmilUkzwow5PTJ2N8XARoE1p3i5QpMDcobogr+nkGcGAOC818ZyqjYlKMbsd07gFXsqBZcYiMsom1u3HdJLAx450aJ4lCmgJ2VNK4lWOqKXFotyTCGshXINlVEMelaHi0Qq0gdxKV3mHsMnZNnFV16YLYKeE3EWUVJGPqUgCRKoJTG9su9DVU7DnxPuvRjkVbZ58oO+gUOUw5VHReDlUmENerRUQYcph6Voawxjp0RL2RHHrw8ANz4paasCUQ2qA0HckjnoFh8jIo0r/AOF8aPT6rtvdZXkTGp8tlTTMuA5kIHHKRa4QYzE+Q1P1Cxf5NqMYxLeL22FY0zMBBiTM9JJ9Vl7mo/KRxJJ16dfADyRNxjMvyxI7og8Y09yje0hYGhrQB3IEA7/hXiJuLRsmA4dUDSDsOP8A4H7K814c4baA+ZJI85Sy3qCB/v8AoJ9oUL25/i5tP1Ef8l6GLaNWB/Cx+b9tKk1zjuJjiSdTHmgcPx6mYB7p01Ox7o4rN314XkuPLQcAOACCp1N/H2C00Rb2fQ7i7BcP9o+p+6X17gArL2d66YkwAY6ahEPuSVJrZqxNcQq+xGXDwI+iRYs6HZhs5sfnmFzEqkFp6r1w/MzwPof3hFIaTsXsPdb4kpha3WXRLqxygHp9UPbvJJJKYROmW4oJ1S7duqPqvlBV9GhB9EcpFtPQj2Q1zbuburrd5lTxOu4/q5aHikTdkhaHLhK4Vxyocf/Z
+categoria: Gaming
+tags:
+  - "#Gaming"
+  - "#Anime"
+  - "#AttackOnTitan"
+short-description: "Attack on Titan llegó a su esperado final dejando a millones
+  de fans con el corazón en la mano, pero algunos notaron algo que la mayoría
+  pasó por alto: existe una escena final secreta que aparece solo si ves los
+  créditos hasta el último segundo. Este detalle escondido ha generado intensas
+  teorías y revela una posible conexión con futuras historias. En Mexgamer.com
+  te contamos qué muestra esta escena oculta y qué podría significar para el
+  futuro del universo de Shingeki no Kyojin."
+mk1: >-
+  <!--StartFragment-->
+
+
+  ### La escena oculta al final de los créditos
+
+
+  **Un momento extra que no todos los fans vieron al terminar el episodio**
+
+
+  Tras la emisión del episodio final de Attack on Titan, muchos fans se desconectaron apenas comenzaron los créditos, creyendo que ya no había nada más por ver. Sin embargo, quienes se quedaron hasta el último segundo fueron recompensados con una breve escena extra que no fue anunciada oficialmente por el estudio.
+
+
+  En esa escena vemos un árbol gigante similar al que apareció al inicio de la serie, pero en una era completamente diferente, con tecnología moderna y una figura misteriosa que se acerca lentamente. Aunque no hay diálogos ni contexto, esta imagen ha causado revuelo porque sugiere que la historia podría no haber terminado realmente.
+
+
+  <!--EndFragment-->
+mk2: >-
+  <!--StartFragment-->
+
+
+  ### ¿Qué significa el árbol y quién es la figura misteriosa?
+
+
+  **Podría ser una señal de una nueva era de titanes o un ciclo eterno**
+
+
+  El árbol es un símbolo recurrente en Attack on Titan, especialmente desde que se reveló el origen de Ymir y el poder de los titanes. En la escena secreta, el árbol parece estar intacto, lo que sugiere que la fuente del poder titán podría seguir existiendo, a pesar del aparente fin del conflicto.
+
+
+  La figura que se aproxima al árbol es un niño o niña con vestimenta moderna, lo que indica que han pasado muchos años desde los eventos originales. Esto ha hecho que los fans especulen con la posibilidad de un ciclo interminable donde los titanes vuelven a surgir, o incluso una historia completamente nueva ambientada en el mismo universo pero en otro tiempo.
+
+
+  <!--EndFragment-->
+mk3: >-
+  <!--StartFragment-->
+
+
+  ### Teorías de los fans: ¿se viene una secuela de Shingeki no Kyojin?
+
+
+  **El fandom ya imagina una nueva serie basada en esta pista visual**
+
+
+  Desde que se descubrió esta escena secreta, las redes sociales se han llenado de teorías. Algunas de las más populares sugieren que podría haber una nueva generación de titanes que surgiría siglos después del final original. Otros creen que es simplemente una representación simbólica del legado de Eren y Ymir, indicando que la historia siempre puede repetirse.
+
+
+  Incluso se ha hablado de la posibilidad de que Hajime Isayama, el creador del manga, esté considerando expandir el universo con una nueva historia, como lo hizo Masashi Kishimoto con Boruto. Aunque no hay confirmación oficial, esta escena post-créditos ha reavivado el int
+
+
+  <!--EndFragment-->
+mk4: >-
+  <!--StartFragment-->
+
+
+  ### ¿Por qué no todos vieron esta escena al final?
+
+
+  **Una estrategia narrativa que juega con la paciencia del espectador**
+
+
+  El hecho de que la escena solo aparezca al final de los créditos parece haber sido una decisión intencional por parte del estudio MAPPA. No se dio ningún aviso, y en plataformas de streaming, muchos reproductores incluso saltan automáticamente los créditos, lo que hizo que este contenido pasara completamente desapercibido para miles de personas.
+
+
+  Es un guiño a los fans más dedicados, aquellos que se quedan hasta el final buscando cada pista. Este tipo de detalles escondidos es cada vez más común en el anime moderno y añade una capa extra de profundidad para quienes analizan cada cuadro del episodio. Claramente, Attack on Titan se despidió a lo grande, pero dejando una pequeña puerta abierta para el futuro.
+
+
+  <!--EndFragment-->
+mk5: >-
+  <!--StartFragment-->
+
+
+  ### ¿Qué nos dice esto sobre el legado de Attack on Titan?
+
+
+  **Una obra que aún después de terminar sigue dando de qué hablar**
+
+
+  Attack on Titan no solo marcó una era en el anime moderno, sino que también demostró que las historias pueden tener múltiples lecturas. Esta escena secreta reafirma la idea de que su universo no es estático, sino algo que puede continuar, transformarse y regresar de formas inesperadas.
+
+
+  En Mexgamer.com te seguiremos informando si se anuncia algún proyecto nuevo relacionado con este mundo. Por ahora, lo cierto es que Attack on Titan se despidió dejando un mensaje poderoso y un misterio final que nos obliga a preguntarnos: ¿realmente terminó, o solo cambió de forma?
+
+
+  <!--EndFragment-->
+---
