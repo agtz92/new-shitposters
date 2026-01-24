@@ -1,0 +1,100 @@
+---
+title: "Cómo conseguir el auto de Tesla Cybertruck en GTA Online: guía rápida
+  para desbloquearlo"
+date: 2026-01-24T06:31:27.811Z
+featuredimage: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMSEBUSEhIVFRUVDw8QEBUVFRUVFRUVFRUWFhUVFRUYHSggGBolHhUVITEhJSkrLi4uFx8zODMtNygtLisBCgoKDg0NFRAPFy0dHR0tLS0tLSstLSstKystListLSsrLS0rLS0tKy0tKy0tLS0uLS0tLS0tKystLS0tLSstN//AABEIAKgBLAMBIgACEQEDEQH/xAAcAAABBQEBAQAAAAAAAAAAAAACAAEDBAUGBwj/xABJEAACAQIDBQMJBQQIBAcBAAABAgADEQQSIQUTMVFhBkFxFCIygZGhscHwQlKCktEVI0NiBzRTcoOi0uEkk7LxM0RjZHPC8hb/xAAYAQEBAQEBAAAAAAAAAAAAAAAAAQIDBP/EACQRAQACAgEEAgIDAAAAAAAAAAABEQISUQMhMUETYQQiI0JS/9oADAMBAAIRAxEAPwA1EmRYSpJVSeunksCrJVWGqSZKclFoh4SQeEsJTlinSHKOyXKmt+UlS/KX1pjlJVpiS/panlQVW5SZabcpdWmJKtOSyp5U1pmSpTPKWhSki05m1pWFIw1oHnLS05IKclqrLQhihLISGEktVYUIYoSwFhhItqoQCjDFKTBIQSSykW7jhZNkj5BCohDEkCxwIO4AIQWGBGY2BtyNpAsse0wNn4QVMPTr1sRXzVMl8tRlUM7WChV4C5Aki7HXyk099iMu4WoP3z3vnYNrf+7I1TctHCznsfgFTD1a1GvXDUxU1NR2F6ZIYFX0I0OvrELD4PCOVVcTVqM3DLiKhuQLknKbDgekDoMsfLOdw2w0OIq02qVmVUoul61TTNnBFwdR5vfGrbJpDD1KtGrWz01rlW3tTR6ea4ysbEXW3DWQpqbX2juAh3bOXqLSVVIBzMDbjp3SpT2w+9p0qmGenvC4Qs6H0VzHRSYFLZGHRaVWoajNnolWZ6jXqMQFNr24nlaS7d/rWD/+WuPbTMJUNIvG3sNqYjbqXs5TsDexb2Fuo+6i4P2eXpTk6JCRJOlOepmgJT6SdKXSGiSZFkKClMSdaQjqsmVZlTLTElVISrJFWRTKklVIgsMCSiyCwwkSwwJKU4WEFiAhCQILHCxtYQvFFnAhBYwBhBTC2cLHtEFhiRQgR7QooUN4tYUeRKCB1hhYo4iSmFsWjvMCqKRmStbU8N1iL2PLRffNGrpjE/mw1Yflemf/ALTIwuCamXBwS1L16zrUD0gSrOWXjrpeSirVxGKC5Xobmm2ch6bP+9sVAFmFvM8ZG1vH1TVwuLUgDKuJpi1+AS6k9dRL9FiUpFAuUhc3RMumW3ffL6rzMw9OrRNZWpPWR3zh81IMwNNVYMvmgeieEgxOylq4am2FXd5tzVUZ3pjIbMVJUm1we6Bo0R/xtTrhcOfY9USvhFvhsSv/AKuOHtZz85iHZ9QVd3uH3pQtmGNq5MgP3iM17nhbvhtsisoJ3NS2rMExrkm/pWDKLn4yDbqYdquEo5LXvg6uptojI7e4GR7f/rGDP/uHHtptMPA4Ko1NWoUcQKRF6f8AxYQ5TwOSxsIq2HrpUos1CuzCsN2KmKV0DZTckBSQLX1kHaRph1drYimy73C+axILUnNUrYd6hJZwW2qdWpugKivkL2emyeaDa/ndTDLTijXjXkHniCTosj0AuTYdY64une2cT1sLKrJVWQ0ayNwYe2W0WCiUSVRHVZIqwUdVkqiMokiiQogskURgIYkKEBCAggxxJSjAhQQY95KBCEIF494oHHvABjxQO8e8CPIo7x7wIrxRY7xXgXivJSDvHvAvFeAV5j46kExmHqKSDUdqVTzjZgtN2W68NDeVq2ID4mslTFPRCbvdqhRbhkDMxzKb6m0DG7Ndjh2XF1SrVgVLLTzKTTdlZTkHK1jxvI1ENYYXPiKuc1AtqJTLUqIuoIYAKQDwHtlLDMRs/Dm9srYJT4CqikeyS0qeJNSpTGKtkFMgmihJzg66WHEGVcDgK7YFFFVCSiVFBQ2vmFRQWB07r6SNNWv/AFyn1w+IHsel+sQxtJHqKXYnOC4KuwUlV80ECwFrG3WYldsf5RQLLhwf3yCxfKQQrNm7x6ItaXsbtDFUhrToEkGxVqp1Fh6IQk+kPfID2XWVNnU2diqrh0LMt7gADUW1mXjNrUw9A0atRm8qpqwqB7ZHDKxGYDXzvfKzY2r5GcMUQ3pNTzhqgGvfY0/nFtPajPSpruwGp1KNQE1aYBNM8DexF9ZB0+08TUWrRp02Vd41UMWUtbKhYWFxymYFcbSTeMrHyJ7FUKabwcQWa8j/AP6ik1RA2HfOqGqhDUmAUggsrh7WtcSs21s2NFfdVAi4dqQsFckls17KTYQOrimQ3aKkouyVlA4lqNQAeJtaawa4v0vCU8jaqx4kkX0uSfjCVbwKNZCLhhbxkoroPtD2z3bxyzqm3cmQsBYE+okSuuNp/e4ywuIW18w9snyY8msrlHG1E4Nfo2st09rOD5yqfC4mSMXTtfMLc4VLaFM8HHvk3wNZdFT2sneGHsMlTaqX4MOpE5s46mPtdeBkFfbKKt+69rnSZ2w5NZdouLU98GptBFBZjlUakkgAeJM8v2t28p0vNQZn7v8A8j52nIY/auKxRvUcovcO/wBQGi/GWdY8kRMvVO0P9JmGw4K0v3r28F/U/DrOYo/0vVPtIn5GHwYzgG2R/Pc8dR8TKGPwpp2BIOa505CY3jhrR67Q/pcQ+lTX1Mw+KGaOH/pTw59JWHhUpn4gTwsS1RoZlFuN/VG/0mv298w/9IOEb7VUeoH/AKSZdTtfg2/8wy+KuPis8CpbPQDU3PPh7JNskWxDAE5RT4XJFyRNYzjlMRSTFRb35O0+FPDFA+y//TLSbaQ+i+bwpk/CeKGMNOGk7T0I5YjN7f8AtleR/Iw+cX7bX7rew/pPGaW0Ky+jVqD8bW9l5cpdo8Sv8W/95VPymPgnld4eq1Num/m02t1teXKe1aZ4tboQw99rTyql2vrD0lRvUR85do9sx9qifwsD7iJmejku0PUExlM8HU/iHwkwaebUu1lA8c6+K3+F5cobcw7cKqDxOU++0zPTmFuHe5os05FMaGGlUkdKh+RkdRh31mH+K3zM5zErTfwtZUxtUOQu8o0GTMQM2QurBb8bXX2iWNoOd3RZyt1xFAsV9G5OTS/d504jH4SjUAD11NvvOjD2GZ1TY2G7qlA/lHwnOZnhuIeoU6ZXEPUNsrUqK8ftI1S+ngwmBsls2zq9NGGYNjUQBgDmzNlA107pxTYVBwrEf3K1b5GPRwxp/wDgvUpg6+YTla2l7MCL6ce/vmZza0l6BiN1TrYZlsCajqfONtaLngTbuk1PFJ5TWzEZDRoG7ejpvM3HTha889q0q7FWOIqsaZDoRu/Ma1rkBfO0JGvMw8fXxNSk9NqykMhzA0rNYakXDacOXfJvCU1BjSq1K7ebS3lQByGyumb91UUKCeFlvaxGU3vxCrtSnkFTO2Vm3aMEuM7qwUi5HA69CsrYnHCphVouoF0TNncU1cgZlRWt36d41ma2OzIlMohRQHoqc/D0dfP9JSCp5EdZnLKI7ylQuvhqgqvbE1DVplKblg+b94bKAQWLA9NNZIuKU6tYhKZ37IFNmUuWsi6qcuQaga+uRja4z+UOiGqiimmrBmB0FrkhiLnU8BrrFsWkiYnNdvNqtUrZlL5GqIdAy2CnXXTmL6RtGULUS0cLRSpSJLCmKi2y00pschINmqtqToL2IE6ldtoABY6ADunJ4khcbkpKAroXqAWycL7wW0FyQNON5rnDE65xwicpg1cEuwK3BSgHf5x+FoadnqpUjMvQa29R7puVqVwFLsLnS1yendLWBwZUd+vMESurlaew8RquUd+pdO7pfvmns3s2bXqOV1HCx9s6FcJ3nh4xsSiqhLVEQW1J7pPJ2UKfZ2kDrUY6X7gJNV2VhaalqjhV5ljx6c/Cc/tPtWEUpQXeW4MRl15qC2vrtOH2piMZiGuzBR1fzrfhFh6p3x/HynvLnl1cY8Op232qw1O9PD0s7a+cQxY9Ql9PFreE8/2rtytUYgnLrbQ6+3u9U0MNsmqPRYDnkplifEnjLFHsc7G5WqxOp0C/ETtHTnHxFOc5X5VNnYXKoJXUi5NtdeEtvQPHhNej2Sqn7Lfiqn4Ay5T7Ht9rdD2sfeJjSPeULtPqHI1cQqG17m17KLzMxNCpVfMKbdwGh+JnptHsqBxqflS3zlql2apAas59YHyl/jj+x+8+nla7IrH7FvEr+svUNk1ALXUesn5T09NhYcfYJ8WaT09nUV4Uk9gPxjfpx6k1zl5omz273HqX9TLOB2SVZmVajFgAfNvw5WE9KWko4KB4ACSKdfVEdfGO8YnxzPmXCpsqueFJ/WLfGTp2fxB+wB4svynaXivLP5WXB8MOSTsxV72Qesn5SdOyx76o9S/qZ0b1QOJA8SBIKm0KK8atMeLqPnMz+RnK/Fiyk7L0++o58Mo+UnTs7QHEMfFv0kz7fwo44ml/zFPwMv0aoZQym4IBUjUEHgRMT1c+Wowx4UU2LQH8Iesk/EywmBpDhSQfhEsx7TE55T7a1jhWrbLFcbsEJrmvkDcAdLXHOPS7IqvGrfwpqPmZqbLXz/wn5TVdZKtqOrnj2xmmGnZymPtt7FHykn7ITm3tH6TWMiaKgnrdT/TMGy6Y7ifFjGrbKswenoQtrN5ynvuO8HUzSCyxugRfzhodenr0mMoTaZ8zbOo4IFfOVS9tbAe8AwzRBUkqpGg5dLEy7TbvUi2vL5SLE19OBPQC9uvWZiKSVHDbJpA5soYgCmcxz2W1svy11mJtbYq02unos16YuLLUI9DorgBf7yrNqjtCxysCuY94te/fLT0adVWQro2jWPvHIiK5HHYd10dVzG6ikD9qo18oPIDUnotjxm9hez6imQtR85O8Jv5pe9ySo9K5vxvxl/C7LVXFQuzFc2UMVOUtbM2gF2IA14zR/Fpbl8pIjWKhIxpz+zMKVqEkIpWkUNvOBYvmuumn+81qRJF849kPaG7sM5J42UCx68DFh9zlFiQBoAQZZ7tQ4+ntCrnsRlH2bjXhxlintRqqFUbKwADMBcA99uEetiGVfNQsb20CnTvI/wB5ZwdFALlACTrlWx9dpqlVsHVqqpDPckCxazHxFpz23q2HpOPKq9RmYFlUAnS9uCjSdhVpAgnW4W3omxA1F9J4l2yxpxGOqlT5qEUV5WTQ/wCbNN9K4Zz7+XUN2j2enCjVf1f6mEPDdtsNmAXClVuAzHd3UE8bLe/tnnwwvOSU6WXUeudpmZ8yxXD3LNoCOGhFuFpKQZyfYLa29omgx8+kPN/mp93sOnhadgJxny6QECIiHaK0llACxkTQeAkloycIso2SOFhRCRTWitrHiMBjOZ7ebV3OGKA+fVugtxC/aPy9c6eeP9tdreUYprG6p+7p+A7/AFm59c1j5SWOKlzrr4yVR0EjpU7eMlU2nVg6aGdx2E22QfJnOhuaJPceJT5j1ziDTvLWCuCDexBBB8OBjzFSnt7MI8xdj7fp1KQao6q481wSBc8xfuMtPtzDj+KvqufgJxp0tubLHnn+78xNYzkMD2rwyMbs7ebYZUY63v325S+O1dNvRpVfWAvzmoZluuJAZVO0nNPeClZOZbrblzlE7Uc8Mo9RPzhGwnGFXwTsLEkDvsRKWDx5UecuY3FuCgTey3GvLWZmFhjNgd1Tcnzh7DK+Gru2ttB8Ok6Dd91oApAdw9gk1W2ZTp7zQqfXoRytJ/IivojTv1Evm8a3STUtSWgp4D5fCOMKQO4d/GXFFuAtEY1LZNKjUzMSAe5TwFuWsBXcaFb6zYKwbW7o1W3O0GvLSXlak0spNiPaFc08PVc65KNV+Z0UngJ890Kelybk6k87z6ONMMpVrEMpVhfiCLET56r0t2zJ9x3TX+Uka+yawZkDUgRyPORg9xgUzre+p4i/yjufO9Qm0XNi7RbD10qL9k6j7ynRl9k9fobUolFYVUsVDC7KNCORM8RqrpeHhquUWI8JnKLImntTbYw4416X51/WRt2hwo/jp6jf4TyHyocjH8r6SaLs9YbtRhR/GHqVj8pCe1uFH8QnjwR/0nlvlfSLyrpGkGz09u2WFHe58EPzMgbtxh/u1T+Ff9U82OJPKD5SeUawbS9Gbt1R7qVT/KPnI27dJ3UW9bD9J575QeUW/MusG0u42h24LUnVKWUsjKGz3y3Fr2y8Z59SF2ue68tbwnukdJNTLEUkysILC/tjqwbrHy390tUsLfUCAGGojvkmJo2lylgDJ62ENrdIsVUSwFiemp+Ud6fMX8ZNhKXcxtaaFFF7hc8zMWsQr7KQ5hoco7/0nV4ale0o4Sn0mnRNjbvktaaeGc5QhLZR9nMAON+FpdwuyyxuBYczJdh4DzszC9h3zogsWUpYbZiLqfOPXh7JfAiAhAQgSI1pJaNaBHaMRJLRrQBtFlhWjiBGRGyyUwcsDnqdPpLCACeSP2ixZ/jP6rL8BK9XamIb0q1T87frN/HKbw9mB6CeH9vtnHD4+qLeZVY16Z7vPN2HqbN7oFQ1DxcnxJMq4rBM4sTw4TUdOknK2TYDWRg3Mvfsd+a++Gmy25iWktd7K4ak+Kp78qKSktUzcCANF9Zt753GN2VsV2zZ1TQDLTZkXTvsBxnDUMLlkm56STjMrs659lbDX7ZPhUrH4TB7RYDZ2QHB1GVwTdGFRlcdGI80j2TPNHpB3Ak1lbUaWz2bQD3gfGdP2c7NUb5sU9MDuG8F/wDKZkCn0hqnSJxlLh6HT2Tsf+zpn/Eb/VH/AGTskcKFI/4h/wBU88y+MlpmZ0nlraHfPsnZRH9Wp+qpY+3PJcNszZg4Yaj+I5vexM89Kg93uhJQPcrH8JjSeTaHpX7P2aOGGw/5EmZ2m2LhKmFqDD0KaVQA9MoqgkqblbjmLjxtOUpYap3Uqn5G/ST08HiDwpVvUriTWeVuOHJpcTQwtU3mq/ZnEMb+T1NePmy9hOyOJ47ojxK/rNTLNIcJRJ4mdBsXZ6moGexUakEXB5C0sbO7PVF9NfeDN3D4AL9k+yc5yapIcHhmtejTP4F/SZmJ2BSzlkAAOtuXh0myq/yH2SVVH3T75m1pkUNnACwWW8LszW9ppIQO6SrV8IspbwyBRaSyslUc5KKq/V5bKGTEHgGovOAXWLKWbxpX3ojbwRYnMbNK5eDn6RZS3eK8qb4cjG3wixcvGzSp5R0MffjlFlOYTYGH/saf5FlinsHDj+BS/IsZcUOXwkyYkfdE1cpQk2PRH8Gj/wAtZINkUf7Cl+Rf0iWuOQkorDlJcqFdmUv7KkP8NZIuAp/2afkWDvRyhiqOXviw/wCz0/sk/Iv6RvIUHCkn5F/SPvvGP5R9X/2kC8nH3QPUIJoDkPYIW++rws8ARRB+z7ojQX7vu/2h5+sLOYEXky/dHsH6ReRp9xfYP0km8P1/2jiqeUAVwwHAAfhELdfVhGNU8ot6YBBPq0e/1Ywd7CFXpARHX3QSp5iFvekYVenugNY8/r2Rxfp9eqEK3SFvuggRi8fMeUPfdBH3o5e+BFn6RX+voyU1BBLDnAD64RtOvsMLN1i3kBjb6EbN9Wkm8jFz9WgDcxi/SFvT9ARhVPSAO86fGPn6e6Oah6e6AarchKH3kHexs7chEHPT2GQMa31YwTUP0DDL9B7DBzdB7/1gc8g6ydZXXxkogThoSkyEH61kggTLeFvJCI4PSBPvOsbeSMP9axww6QJA/hCDeEjD9Ys/1pAmDCGKkr5hCBH0YE+cRwwkF45gT36wc/WRXMcEwDz9THDHnAitAkDfzQg/80hHjFeBPvOsfeHnK+aOT9aQJ855mLedZXv9aRbu/wD2ECxvuvujHESDcjlHy9DAk8phCt0Eh/CfdBsf5vYIVZ3g5CLMOUrW8YpBYuOUYv8AV5DeOD1+Eokz/V44fr8JHePeEHvPH3RjUgwSIB5x1j5xzkWsVjAwVbx90lUn6EUUAg0MP9XjRQozVi3/AIxRQgg/WEG6++KKFEG6+8QwYopEK8QfrFFKCj+yKKQPmizGNFClvDy95hB4ooBAx7nnFFAbMecWY8xFFAO55iI/WkUUBiAYt3yiigFlMfL9XjRQFbxiB+tIooD3gkD6AjxQEEH1b9IWT60iigIoYJB6e6KKA1jCtGigf//Z
+categoria: Gaming
+tags:
+  - "#Gaming"
+  - "#GTAOnline"
+  - "#Cybertruck"
+short-description: El icónico Tesla Cybertruck ha llegado a GTA Online como
+  parte de la nueva actualización. Aquí te explicamos cómo conseguirlo, cuánto
+  cuesta, dónde comprarlo, y por qué se ha convertido en uno de los vehículos
+  más deseados del momento en Los Santos.
+mk1: >-
+  <!--StartFragment-->
+
+
+  ### El Cybertruck llega oficialmente a GTA Online
+
+
+  **Un vehículo futurista que está arrasando entre los jugadores por su diseño y potencia.**
+
+
+  GTA Online sorprendió a la comunidad con la inclusión de un vehículo inspirado claramente en el Tesla Cybertruck. Su diseño angular, su capacidad todoterreno y su gran resistencia lo han convertido en tendencia desde el primer día.
+
+
+  Este nuevo vehículo se ha vuelto viral en redes por su velocidad, su blindaje y por ser perfecto para misiones, transporte rápido y hasta para presumir en las calles de Los Santos.
+
+
+  <!--EndFragment-->
+mk2: >-
+  <!--StartFragment-->
+
+
+  ### Dónde comprar el Cybertruck en GTA Online
+
+
+  **Disponible ya en una de las tiendas del juego, solo necesitas tener el dinero suficiente.**
+
+
+  Para comprar el Cybertruck (con nombre modificado dentro del juego), entra a la tienda de vehículos Warstock Cache & Carry desde tu celular del juego. Ahí lo encontrarás destacado como parte del nuevo contenido.
+
+
+  El precio ronda los $1.800.000 GTA$, aunque puede variar con descuentos o si tienes beneficios por membresía. Una vez comprado, aparecerá en tu garaje y podrás usarlo de inmediato.
+
+
+  <!--EndFragment-->
+mk3: >-
+  <!--StartFragment-->
+
+
+  ### Características principales del Cybertruck en GTA
+
+
+  **Un vehículo completo: velocidad, blindaje y estilo en un solo paquete.**
+
+
+  El Cybertruck no es solo estética. Viene con gran velocidad máxima para su clase, buena aceleración y lo más importante: excelente resistencia a balas y choques. Ideal para jugadores que quieren un transporte resistente en misiones de alto riesgo.
+
+
+  También cuenta con capacidad para varios pasajeros, tracción 4x4 y una sensación de conducción muy estable, incluso en terrenos montañosos o carreteras con tráfico intenso.
+
+
+  <!--EndFragment-->
+mk4: >-
+  <!--StartFragment-->
+
+
+  ### Cómo personalizar el Cybertruck para sacarle todo el potencial
+
+
+  **Visita el taller y conviértelo en el auto más intimidante de la ciudad.**
+
+
+  Puedes llevar tu Cybertruck a cualquier taller personal para cambiarle el color, mejorar el blindaje, la velocidad, y añadirle luces de neón, bocinas especiales o llantas de lujo. Incluso puedes aplicar camuflajes futuristas o detalles metálicos.
+
+
+  La comunidad ya está compartiendo diseños únicos, combinando colores oscuros con efectos brillantes, lo que le da una presencia impresionante en cualquier partida pública.
+
+
+  <!--EndFragment-->
+mk5: >-
+  <!--StartFragment-->
+
+
+  ### Por qué todos quieren el Cybertruck en esta temporada
+
+
+  **Un símbolo de poder, estilo y ventaja táctica en GTA Online.**
+
+
+  Este auto no solo es visualmente llamativo, también es funcional. Es útil tanto para jugadores casuales como para quienes juegan misiones de alto nivel. Su capacidad defensiva y velocidad lo convierten en una excelente inversión.
+
+
+  Además, al tratarse de un contenido limitado por temporada, podría desaparecer en futuras actualizaciones. Si quieres destacar en GTA Online, el momento de conseguirlo es ahora.
+
+
+  <!--EndFragment-->
+---
