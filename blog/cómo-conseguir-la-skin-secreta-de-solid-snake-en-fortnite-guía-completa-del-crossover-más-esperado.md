@@ -1,0 +1,100 @@
+---
+title: "Cómo conseguir la skin secreta de Solid Snake en Fortnite: guía completa
+  del crossover más esperado"
+date: 2026-01-21T23:14:37.609Z
+featuredimage: data:image/jpeg;base64,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
+categoria: Gaming
+tags:
+  - "#Gaming"
+  - "#Fortnite"
+  - "#SolidSnake"
+short-description: "Fortnite sorprendió con uno de los crossovers más épicos:
+  Solid Snake llega como skin secreta del pase de batalla. Aquí te explicamos
+  cómo desbloquearlo, qué desafíos debes cumplir, qué objetos adicionales puedes
+  conseguir y por qué es una de las skins más buscadas de la temporada."
+mk1: >-
+  <!--StartFragment-->
+
+
+  ### Solid Snake llega a Fortnite: por qué todos lo quieren
+
+
+  **Una leyenda del sigilo y la acción se une al universo de Fortnite con estilo y poder.**
+
+
+  Solid Snake, protagonista de la saga Metal Gear, ya forma parte del universo Fortnite. Su llegada ha causado furor entre jugadores veteranos y fans de la franquicia, gracias a su diseño fiel al personaje original y a los detalles inspirados en sus juegos clásicos.
+
+
+  No se trata solo de una skin visual: viene acompañada de gestos, accesorios y misiones temáticas que hacen que el desbloqueo sea una experiencia completa. Es uno de los grandes atractivos del pase actual y una recompensa exclusiva que no estará disponible después de la temporada.
+
+
+  <!--EndFragment-->
+mk2: >-
+  <!--StartFragment-->
+
+
+  ### Requisitos para desbloquear la skin de Solid Snake
+
+
+  **No podrás acceder a él desde el inicio: necesitas cumplir con ciertas condiciones.**
+
+
+  Para desbloquear a Solid Snake necesitas tener el pase de batalla activo y alcanzar el nivel mínimo necesario para desbloquear la página especial de recompensas secretas. Una vez lo consigas, se activarán los desafíos correspondientes.
+
+
+  Además, muchos de los desafíos solo se desbloquean conforme avances en la temporada, por lo que es importante jugar regularmente para no perder el progreso. Si no completas los desafíos antes de que termine la temporada, perderás la oportunidad de conseguir a Snake.
+
+
+  <!--EndFragment-->
+mk3: >-
+  <!--StartFragment-->
+
+
+  ### Desafíos para conseguir la skin y sus recompensas
+
+
+  **No es solo una skin: el paquete incluye gestos, mochila, pantalla de carga y más.**
+
+
+  Los desafíos para desbloquear a Solid Snake incluyen tareas como infligir daño con pistolas silenciadas, colarte en bases enemigas sin ser detectado o usar objetos de camuflaje. Son pruebas que rinden homenaje a sus orígenes en el sigilo y la infiltración.
+
+
+  Al completarlos, no solo desbloqueas la skin, sino también objetos como una mochila táctica con radar, un gesto exclusivo de comunicación por códec y una pantalla de carga con arte especial. Incluso puedes desbloquear un estilo alternativo con su clásico traje de camuflaje.
+
+
+  <!--EndFragment-->
+mk4: >-
+  <!--StartFragment-->
+
+
+  ### Consejos para completar los desafíos de Snake más rápido
+
+
+  **Aprovecha modos de juego, equipamiento y mapas para avanzar sin perder tiempo.**
+
+
+  Jugar en modos como Cero Construcción o en partidas con amigos puede facilitar mucho las tareas de sigilo y eliminación silenciosa. Usa armas con silenciador y mantente en movimiento para evitar detecciones innecesarias.
+
+
+  Además, los objetos de camuflaje o granadas de sombra son clave para cumplir los desafíos que exigen infiltrarte o permanecer oculto. Revisa el mapa para localizar rápidamente los puntos de misión antes de que empiece cada partida.
+
+
+  <!--EndFragment-->
+mk5: >-
+  <!--StartFragment-->
+
+
+  ### ¿Vale la pena desbloquear a Solid Snake?
+
+
+  **Una de las colaboraciones más icónicas que no volverá a repetirse.**
+
+
+  Si eres fan de Metal Gear o simplemente quieres tener una de las skins más exclusivas y completas de la temporada, desbloquear a Solid Snake vale totalmente la pena. Su nivel de detalle, las recompensas que lo acompañan y el homenaje a su historia lo convierten en un personaje único.
+
+
+  Además, como sucede con muchas skins de colaboración, es poco probable que vuelva a estar disponible una vez termine esta temporada. Si quieres tenerla en tu colección, esta es tu única oportunidad.
+
+
+  <!--EndFragment-->
+---
