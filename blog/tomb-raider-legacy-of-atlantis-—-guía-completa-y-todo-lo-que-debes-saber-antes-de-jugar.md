@@ -1,0 +1,101 @@
+---
+title: "Tomb Raider: Legacy of Atlantis — guía completa y todo lo que debes
+  saber antes de jugar"
+date: 2026-01-24T06:35:55.643Z
+featuredimage: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMSEhUSExIWFRUVFxUWFxUXFRUVFxUVFxUWFxUVFxUYHSggGBolGxUVITEhJSkrLi4uFx8zODMsNygtLisBCgoKDg0OGhAQGi0lHyUtLS0tLS8tKysvLS0tLS0tLS0rLS0tLS0tLS8tLS0tLS0tLS0tLS0tLS0tLS0tLS0tNf/AABEIAKgBLAMBIgACEQEDEQH/xAAbAAABBQEBAAAAAAAAAAAAAAAFAQIDBAYAB//EAD0QAAEDAgQCCAMFBwQDAAAAAAEAAgMEEQUSITFBUQYTImFxgZGhMrHBI0JSYtEHFHKC4fDxFSRDkhZTwv/EABoBAAIDAQEAAAAAAAAAAAAAAAEDAAIEBQb/xAAuEQACAgICAgECAwgDAAAAAAAAAQIRAyESMQRBIhNRMoHwBRRSYXGRobEzQsH/2gAMAwEAAhEDEQA/APGbJwC5KFCrHBOC5gSogHJyYE9EqKuXLlCE9HWPicXRuLSRa43Smd73GRzyXDUuJJPquqMPljayR8bmxyWyuOzhzHGy03R3owytaGskyO1uPDZIyZIRVv8AoWimEq3GQ6kDXW0YvOpCtL006PzULo43vzNc0lvD4TYg+oWaa1L8XHwi3d2GW2QOGqeBcJz2FNGidZCJzE0jh7JZJb6BWqVoaLnfmiWURgpiBc6JpqHjir7HZtSnU2CyVDrMB9NAqyaXYyMG+kD46m+jvVJUxG1xstFL+z6qaL3Ye65B+SETGSB3VzMy+h/yqpxb0wyxyj2gUQmIjWU4tmbsVQYeaYKo5m65c866JXhEKOIuL8lGuSogFaeC4tKdlLSCij8jw0+qq3QCemmBjzHS2iGVAL3fIKStqGh2Vnw6evFLA9oewnbilRhxbaCVJKcjgoiEdrHRh12m43QueVrnEjQJkW/YB+HFzTcbHQhE56YZcwvfihdDJZ3ci7nHKSASANVSc2nRGgRWO0AVRTVA2UKZHoiOSJUt1YJcsnLlyhUc1cFy5QDHJ6YE4FEAqfGwkgDckAeJUd09jrG44aqAPU+lnQ+u/coDPJAI4BE3KzNm7RDLuJAGlxsqcnQaqov9zTztOXxabciNQU3D/wBoTp4Z4Kxxe10bRGMo+McyB/CdfwrHnpFVtZ1IqH5BcZb3HLjrZZOMpJxGOlsk6VdJZa8xmUAGJpaLcSSCT7BABJa11IU+OPrHMZtra/itCioRpAW+z0ah6Jwx0oqXHNdtx4nYLyzEZO24bany7lu6nEZIqYxNeclPG5x7nuPVxN9XE27l50XEm51JNys3jxlbk2XHxtU+a6iCtUFKZXhgNr7nknt0Mir0gx0dwiSoeABoNzwAXreE4WyBgaxvieJXn1M+GBuSOvka7ucMt+8AWRzo90imD+rllbI07OsAR5jdZJvk7ZuxriqSNhKLrMdJcBZUMII1toeR4FHXVw32CzGI9K39aY4oM4GmYuy3Polxu9DpNV8jzE5oy6J27SQqUrbFHulwcZutdEYs4FwSCC4aEtdxFrcEJez7PN3kLdGXTOXkjTaK0bblOeuGjfFI3YpgsjSgrrJEQEpu5IHkCydA6110pVSDAnNdquiAvqucAoyBJsA3vewvZDnMThOQNDwSRyW0KmwIWHQ2W36O046q51z39NgsRG3MSt/Sw5GMA+6GhKyMDM10mwUx/aMF2cR+H+izq9RcAQQRcHRYPpBhXUP0+B3w93crwl6CmCly5cmBNLV9HpmcAfBD5KV7d2laeaZ9tJbqpPSEgnOCskMs/wDtQuwAFytdUtTgfR+nnAzOsfFOlmUVbLLZjAnAL0uo/Zi1wvFKR3HULMYp0Lq4bnq87Rxbr7IQ8jHL2RpmcSgpXsLTYgg8jomp5Qe02XFI1KVCBXo3g371I5mfJlY59+duATZZoWRgMAMjXg5u4Hmhscjmm7SQbEaEjQ7jTgiODxRh4kl+FutuZG3+FSS9jIvVUV8bxMmJzLZXSyZ3j8rQMo9dVnQUQx2q62Zz7WBOg5BV5qF7LZh7g28bbKKkqL0316EZsjOH4ZK9rjGO4lVMJojLIGjQL0jDYhE1rGgW48z5rPmycdGvx8PLZkDgjOqyiM9bfV5JsfCxFvCxGqu4RgsjdybNILT5aj1v7L0Kmp2uAIYL+ChxSPI3vSnlcls0LAoyKGIhzqMtZ8bbXPdcXWIqMOl6mSTrCwtIyxgHNJc2JvfRbOgxKFmZsjhqNQDdSx0zJmBw1BGhHEIQlx7RfLj5dM8wqqqR0L4pCXZCx7SdSLm2/g72TAz/AGhd+cD1BW8xrAGCCbL8RY4jxGoHssjBTE0j28nNPzTlkTWvuYc2OUXv7Amqg7IcNtFUjCMR0ZEBedAHWQqUWcnRlfRnIiE+A2KV4GUEcz/RM8FYDHSJpCc6BwFyNEwqIAhKkg1cL7J0cFwSSonCyJC3U0uVwHmqjhqrkVVmLAeGl1PPEy7jfwHMqsbXYCLA4y6ZjeZF/Aa/RbeoGu6zvRinIluRs0n5D6ozUzXNkme5FZPYRjNxdV8QpBMwsd5HkUykm7Knzo0SzzqrpnRvLHDUH+yoVrektGJG52jtN37wsmnQlyRZOwgb80oeeZ9UrjdIxt1AD2vNt10c7gbhxHgV2WyjCNIhqML6b1UIAzZgOa0dD+07S0sXmNV5skSpePjl6JbNjj+P01Sbhlj3t+oWVlAubbKElOYr48agqRVsVqcmJ2ZNAKkL0l0hChBkMYM0d9i9oP8A2CN41TtZlAGpGZx5k76eaBvCNyVraiEG/wBo0Wc3bXiR3HdZsydpm7xZJwlH2V8E7Eo77/ILeUc97LD4M28gB4G/6rcQRDcLNm2zZ43xVB2iqLKvjdF1zbZyw7ghQt7IzLPYpjdUTkjhcB+I2F/C6XBN9DpS2U6noO4H7N98wOZxNitRgNL+7wtjcQct9deJJWMkmqwSMhF+Hb19tUTwbFpieqljeDuHEHbkSmSUmtlI8Yu0gzjVQAxxvplPyWQcA2CXyPvb6IvjLj8PM6+CzmLy2p9PvuA9O0fmjjjqjN5U7ZTxqtByMYezYE+KGzuGo35JobcJpbbxWuKS0YUMujvRvDxKHu/DYevFBWNudVoMChc1r7GwcACOYQybVIDZR6QvDXmNpuBuRz5IXnv5IpilCGszjTX170LjGp7gUYJKNERK1+igfup4oxdoPHU/RWJYQUbSZCtBHdRyHVKyN3BI1t90fZDS9E6h0kjr8GAe6JVUet0H6GuyyvHNnyI/VHax4BWef4xcuyGmduFbLwAhbJrOueRT5Z9ExdAEklvdAK/DXB5yC7Tr4X4IwxytNbcbpduL0S6IcRw+FrBl1ce9UKamGaxTYpfNS9ZcqyTWrLlqow4AaFBZYy0ooZzbdQy2cjCTXYGygkUskVlGU9OyDSnAphSqwByVNXKAHBOTQnBQgwqg9tiiDlHURad/HwQZaIU6PzjsniNCt1S1QIXmeESWJHgf1+i0sdWRqsOWPyOngn8TZB1xqo5qIvCzMeNkbolD0maNwk8WjQppl9+FVDRpJp4H5qrHEYyS43T3dMWZbIBX42ZDpoFZWyTmkuyxiFUCS7l2rcwCBb39lmsS7cYA2a8kX3yuGg9kUxaF3UsLd3O18HNP1aUA6p73NY0XL3BoHNxNgPUp+Ne0c3LO2NpYr9nirPSKh6p7G8Sxrj5rZ/8AikeG1VMKyZrmSMc54AIyOA0BN9Rc76KLpJgJqBJVwM+xjYTmdpdreV1HkqaFp6owLgSfJXqPEXRhxdqHC3mm0c7BmzN3tb6qtXy5joLNGwTvZV7Era98uUHZo0CrNK4hPlhLbX0uL+RVyCOkJddWZ6i4FlTSgoONkLAqCOChvrfmrrIwQq9Q0W04IKiBXowftSfyn5hHZ5Lg6IL0Uj1kdyDR63v9EcnsAs8v+Ripdgx7dW+OqdUDlslkH6pCAB3nVNRB9PFdWmgBURNwCUTqk0VBEcuU3RNj45ByKGuGiTLomuNjqCb6Nw13UPVpIMSc0WOoTzVNdtuqVJdlaJ6cAHVTYlhQ6vO3hqoKd13Ba6npw6IjuSpzcWmiJHmwSqSojyvcORKjW3sA5ckJXBEg8JSkBSqAETXHgnpj0ApnUjLSNPl66I69qAsdYg8iD7rWTU5tcLL5Gmjb4u00CJGFQODkQcwpjmpKZoaKAaVNo21+/wCilsp6nD88QcPuEk/wkanysPdXi1YrInxY5taCAw3Ia4OafmD/AHxKGyPLXh7dC14c08iDmHyUrW6KOaXTLwvdMSS6M12U8SxCWaR8kry97zcuPyHIdy0uKdO5ZqJtE2MMacoe4HVwFuzbgCd1lJwimFwM6pzjqS4DyG6tJKk6AipiPxdWNhsed1Wp6OSR2RjHOdyAJKKYDVQtle+TX8PqtpS4/BSRulYwOc91vKyS8zjPhx/Mj+5nsI6AVEmVz25RcXvyVX9oNCIqpzNrNZbwyhep0PTmB8bHaNs3tX/FyXn/AO0NzJ6oPBvma3OeAOth6WV4zblsCRhGtulLE+pjyPLQb24qahhMjuQb2ingJqZ5u1hFhfU9ybXUhY4g+XgieM07cjHt3Ko/vBLe3rawul37QAl0YHZk8R8ldqXcVQ6OyXMrRtofmFcndxSn+Ni32U3u3CUC4BvoklsbprB2bd6agDHv1sNlwSmMApwIQZCoAkc5K4qJxTUOEKZZOukciVLFPUFpBW2wbEmuZvwWBTmTubsbJWTEpk6JK515Hn8xUCRxShPSpUVOShIuRIKpGqJT0cDnuyt8zwA5lC6Ik3pDCmORF8bAcrDmdxcbBoPGw/VRsow27pbgAnxcRy5BV5F1jZTDL+tvPkvSqemBjB7liMPg6yQOcLAatbawABBJHt7r0DDYyYx3fqsfkSujoeLj4pv7gWqoAdkKmoHjgti2nupaqEWsAFnUjU8Zg4qYk2stdgtLksSPG6qzSxQ9p515DUn9PNDzWS1ZyNaQ38AJDbc5HjW35Rv7pqjKW+kLuMddsixGgjdI8w6MzANB2JPx5Pyg29bcrwVmCxEEtlLXN0Odt2OPENe3UHhYt4bhW2w2Jc05iOw1xs0fmcxuwbuB663QWonJ7IO3Hh6LTFXowZElbHQ4MDFMXOHWDJ1YB0cLnObnaw5qtgtG49aPwA6d5COUDS3V1x2cxdY9lg4jmSrkDqma0scYMYuMt2hxG2xOutteOqE3SdAjFv0efMbrY+CKOwyQga3buh+IQvZI4SMcxxJOVwLTYnkVahxV7WFnDgeSmRTdOIv+pdqJGxRNaDc6uI776JhxETtkblsRGXDxaQVUw9gee3tY+yXDGZZb/dOdvq02+iipOn2WT2Q09LnbdRskyG3qrGBNzTRxk2a42PoVA+Oz3Dk4j0Kvu3ZVrVk0tT2LX46Km+YltlLKwKsSjFL0ANdGhlk/jBH6IxVxBZumrgwN01BBv3A3Woq5ARpxScmpWJnpguTjZLFx8kj26qNrrG3irIqLICVzGlQ9ddTNerMNlR6gcVcqY+KpOTEOOXXTS9MurAJHPTLpFyIB10qQBLZEAt0qaV11CDkdo6V7YXZbZiLm5sQ3iUEgbcjS/wDeqOUkj5IzneTE03f3nTLG0+J+W1tVZOh2HVleKNrBmOw2/Mf0R/AMI6y00wv+BruAuTmI5pmB4R17+ukbaMfA3gbbfy/Na9kOmizZstaRt8fDfyf5GfqsOLpnAHI67XRkjRwDA1zPn6q/h+IytaWCAFzdD9o1pH8p1t3pOkzQ2nLrEuBblsbWdfdZOndLNMAS7Mb6m504kA8FSPyjYMudY8ihTbf2NFVV8++aKIcycx8ufkFTFRLLo17pOZyZW+t7BF6HAom9pwzu5u19kUy8Bp3KqyKPS/X6/maXjcu3+v1/IzjOj99ZSXH8Lf1/wpaxnVRZWDLncGNA4EnU+NrnyR9rEEx6T7UDhFE+T+Zxyt9g71RhJzlsrkShB0ZypD3Xy7A5RqB2RoLX9fNU4MOkzjNG7Le5I1FvEbKSqriwAdW07kE5voQiGC1hmv8AZ5bbuDrt/hsdeS2K0c502dWFzslOPvnM7uF7j/6P8q0kTMrQ1oIaABbw+qGdHqbrJJJztmyM8BoT8vdaNpG3PRZMsrdG/wAeNR5fcFVk7HDq5mCRo+68A+YPA+BCx3SXo0I2menu6MfEw6ujHMH7zeHMd+63OIUjSNBbw/vZU4hlA102I3BHIhSM3EtkxLIt9nn9NI3qNNxdQQzkMcCON7q9i2CvinPVj7N1nN14E6tPgbjwsq2KuDcwtYut7bpq48qW72c1pxdP0Q4fsXj4muZ5AnVRVLSHm3En5qXAY3vlEbRfPuO5vav7LRuwhuRzzoRtfkrzlxYG9GNkcbpYTr46eqlqNXXG2yie2yanoqhHtsSOS0mHyl8Le7T0QjDIrygEAi1zcXFkcZMI9GgAcrC3okZpeheSnoryXuuIV0VUL9HMyH8TSSPTh7rjQXF43hwVVNeylAYaGykD0tZTODiS0gc7aJI4yRoCfIpnYBKmW7Qqd0gPNdZNWh9jC1IpCoirJgFCVI1OVgCtTiUxqdZQBxKalKdDHmcG3tfidgOJ9EA0W8MgMhLQco0zP5N4gfm/vZHqjEYorQiMuZkIy3AAvYhxNtXEgXPJUqIPcbRHJEy/ayguceJFxoeJ9OCvR4FLL29XC25N3X8+CVL+KXQ7Hv4R7LzemLGNs2IkgbF2UDkBofkr0nTGPI1zI3OJtcGzQ24NxfW5HdzCysuEvY/UEWP+VBUxWaA3a1rgd5JJ5bgeQVPpYXv/ANH/AFc61X+DXy9J6SZmWTML7jKTY9xCbhmJUEV8hy33c5rte6+6w4h7/Y/okqIi4i17NGmm/MofRx/f/JPr5LtxX9j0xnSKl/8Ae30cPop243TH/nZ6ryplMe/0H6qdtI7k4+yr+7w+5f8Aecn8P+z1E4xAAS2RryBfK0gn08wgtQ/rhK8syEhjd7nKHaX9/VZ7CnxxDM4ua46Ouxzmt14Obz0WjoJGuF2ua9p0zNN7HcXG481VQUHoksrnp/2MbiNRwc99mkgNuMrbHXKCDluSSQLam6udH5Be4cfhk7N+QDr6eHskxqhbE8vkv1bybOa0OLXE/C4EjTfVOwWaN032dyyxaS5oaSXtLRZo2G/HW61NrjZkSfKjdYVR9VDG0/hBPiRc+5T53WU08wyjwGiGSylc1u3Z10qVDpJb3CqyPtcLusuU0ohTK9WewTbYErD/AOnySC++ulz36rczWII4G4PmhAwqUAEMNuBVoPjbXZzvNfFpr2V+j+BTwyOkt/xSBpGpzEWAsqE885u2UOaPhAII9+KOZqiGxu4W9ESpelLXWbNGHDw1Ulkyd0mZPq6oxbIAN+SE1A28Lrc4xh9NNd0TjGeXD0WSraIteQdgNDzTsGRPvsspJjsFls5wO5At5K9K5Ay6x0RGGXP4j3V8kN8iso+x7nppkK4pjiokVonirXg/EfC5KkdWyHj8lSa8XCRz9UeKJQUr6EEAtQsMN7K9A2Qtu25ASOId3FSLrRCpUM2VNEhyKWfDbt6xmo4hMUkuw2DUqaSuumWQkaU66jCUFAJxVigiLjlG7rNvy4k+QCquK1nRzDSxnWPFnO2B3AO3mUUrKuXHZcigyxhjRqSGtHO9re+/mttTQ5Gho0sAPQbrMUrL1EP5ST5hjre59lpKhyyeXL5KJu/Z0Pi5fcf1TNdBrvpqVT/02IE2YD46+yniYee6fIsezppIp/6NC/7gHhorVJhETG2yg95AJKv08OitNjUBooNoIxswDyCirpo4W3dx2bxJTcbxlkAs3tycG8u9x4LMSzOkOeQ3cfQdwWnB47nt9GHyvNjiVR2/9HT1Je4veBc7AcBwQuspQ28sYyO42008O7dE2x3N0x7LXvtsunwVUef+q+fK9iVsQqoLjTrBe3ASN39/YrG4bMYpBfTge4g/qFosLnMUj4L6O7TO5wGnqLjyQnE6cGUubsbH+Yi7h4g3WXpuLOtfJKaN5HWtfGCDwFvA7KqZb7FZWnrHmPQaNuD4A6fMovh7iQDfdYpQ4s6GPJyigsLXTHvSMSyoF7Kkz0ap8YkZEwGEOYAACDrYaa+iBTd6p49VNbSANkIkzgloPC5/ohKN0l9zJ5ceUTTydIKeQFsjS3gLhAMUwthGaFwOt9FkmYtINzmHI/qr1LijDaxLD37Jn0pQ6OW4yQkjnDe6gqDcFG5HB47Yv+YIZVUhabjUK8XfYE2Z97bIvR04EYN9T81SrIbap+H12S4IvfY8k6VuOhylonkYRuoHC6KhzXAX2IVCWn10S4yIV2gXSi3Jc4W4KAuTUEv0GIvhN27HcHYq0+Zs7iQMrjw/vdcuUlBfi9kaKpBa4tO6s0FWWG33TuFy5VatbKlbGIG3zs2O470NC5cmY/whQ8pLrlyYEO9FcKE0mdw7EfDg53AeA39FsJly5NS+JjnJubK8by2RruRB8eBHoVqY+0L+i5csPmRWmdP9m5G+UfzE2K5zrkJFyx0dZMLss1uZxAA1JPBZrFukZcC2EEDbPxP8I5d65ctXjYoy2zm+dnnD4x9gLq9d9dydyrEbQuXLoo4c2dmtqmPN1y5WEmfxhpaWyA2LSNfS3ofqoKwOe4GNpPWjNYfdds8eo90i5Zc/xdnV8P5RpkYkETepacxee2eHe0dw9yj2EfCFy5ZcvR0cHYUTXhcuSDSVKlyxuNOImcDtZtv+o/qkXJ+HszeT+EixGmLLHg4C3oqK5cnwdowot0uIyR7HTkdkZpcXY/fsO9iuXKSgmBxRJPTh2g3PBAKunLHEFcuS8b2UiPhnIbbkp4qvmuXKziixK9wdYhUpGalcuQQT/9k=
+categoria: Gaming
+tags:
+  - "#Gaming"
+  - "#TombRaider"
+  - "#Aventura"
+short-description: "Tomb Raider: Legacy of Atlantis es uno de los juegos más
+  emocionantes que se esperan en 2026. Con la icónica Lara Croft en una nueva
+  aventura que mezcla exploración, puzzles, acción y supervivencia, esta guía te
+  explica qué esperar, cómo prepararte y por qué está generando tanto interés
+  entre los fans del género."
+mk1: >-
+  <!--StartFragment-->
+
+
+  ### ¿Qué es *Tomb Raider: Legacy of Atlantis* y por qué está en tendencia?
+
+
+  **La saga Tomb Raider regresa con un reboot que combina lo clásico y lo moderno para redefinir la aventura de Lara Croft.**
+
+
+  *Tomb Raider: Legacy of Atlantis* es una reinterpretación de la primera entrega de la serie, ambientada en una historia completamente nueva en la que Lara Croft viaja desde las ruinas de Creta hasta las densas selvas de la Amazonía en busca de la mítica ciudad de Atlantis. Esta entrega promete ofrecer un equilibrio entre exploración, combate y acertijos al estilo clásico de la franquicia con gráficos y mecánicas modernas que aprovechan el poder de las consolas actuales.
+
+
+  La expectativa ha crecido porque este título busca capturar tanto la nostalgia de los fans veteranos como atraer a una nueva generación de jugadores con diseño de niveles verticales, narrativa más profunda y una protagonista en evolución.
+
+
+  <!--EndFragment-->
+mk2: >-
+  <!--StartFragment-->
+
+
+  ### Historia y ambientación: qué esperar de la narrativa
+
+
+  **Lara Croft más joven se enfrenta a desafíos globales en un mundo lleno de secretos antiguos y enemigos despiadados.**
+
+
+  La historia sigue a una Lara más inexperta, pero con gran determinación, que se ve arrastrada hacia la búsqueda de Atlantis, una civilización envuelta en mitos y peligros. A medida que exploras ruinas, cavernas inundadas y antiguas cámaras llenas de trampas, descubrirás piezas clave de una historia que mezcla arqueología, mitología y conspiraciones secretas.
+
+
+  Además de los enemigos humanos, el entorno mismo se convierte en un rival: trampas antiguas, enemigos naturales y variables climáticas extremas hacen que cada expedición sea un desafío intenso. El juego promete una narrativa rica que profundiza en la psicología de Lara mientras enfrenta sus miedos y límites.
+
+
+  <!--EndFragment-->
+mk3: >-
+  <!--StartFragment-->
+
+
+  ### Mecánicas de juego: exploración, combate y acertijos
+
+
+  **Un sistema de juego equilibrado que combina acción, pensamiento y supervivencia.**
+
+
+  Como buen título de *Tomb Raider*, la exploración es clave. Podrás escalar paredes, balancearte por abismos, resolver puzzles ambientales y utilizar herramientas especiales como el gancho o el arco para progresar. Cada área está diseñada para premiar la curiosidad y la observación.
+
+
+  El combate también ha sido renovado. Lara tendrá acceso a un arsenal variado que incluye armas cuerpo a cuerpo, pistolas duales, escopetas y arcos con flechas mejoradas. Los enemigos tienen patrones de ataque variados y requieren que el jugador use tanto puntería como estrategia para vencerlos.
+
+
+  <!--EndFragment-->
+mk4: >-
+  <!--StartFragment-->
+
+
+  ### Consejos para principiantes en *Legacy of Atlantis*
+
+
+  **Trucos y recomendaciones para dominar el juego desde el inicio.**
+
+
+  Si eres nuevo en la saga, lo ideal es no apresurarte. Explora cada entorno completamente antes de avanzar, ya que muchos secretos dan acceso a recursos o rutas alternativas que facilitan el progreso. Utiliza la cámara del juego para marcar objetos y zonas interesantes que quieras volver a visitar.
+
+
+  En combate, prioriza mejorar tus armas y habilidades cuanto antes. La progresión de Lara se basa en recursos que obtienes tanto explorando como derrotando enemigos, así que mantente activo y no dudes en repetir áreas si necesitas mejoras antes de enfrentar zonas más difíciles.
+
+
+  <!--EndFragment-->
+mk5: >-
+  <!--StartFragment-->
+
+
+  ### Exploración vertical: una de las grandes novedades
+
+
+  **La libertad de movimiento que siempre quisiste en un juego de aventura.**
+
+
+  A diferencia de otras entregas de la saga, *Legacy of Atlantis* hace énfasis en la verticalidad. Podrás escalar superficies y usar herramientas para atravesar zonas imposibles a simple vista, lo que le da un nuevo dinamismo a las exploraciones.
+
+
+  Este enfoque no solo hace que los entornos sean más interesantes, sino que también influye en la resolución de acertijos, ya que ahora muchas soluciones implican desplazarse en tres dimensiones y combinar habilidades para progresar.
+
+
+  <!--EndFragment-->
+---
