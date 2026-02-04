@@ -155,7 +155,9 @@ export async function getStaticProps() {
         formattedDate: formattedDate, // Formatted date
         shortDescription: shortDescription, // Ensure shortDescription is defined
       }
-    })
+    }).sort((a, b) => new Date(b.date) - new Date(a.date))
+      // ✅ SOLO 20
+      .slice(0, 20)
 
     return {
       props: {
