@@ -1,0 +1,116 @@
+---
+title: "El easter egg oculto de Bloodborne en Elden Ring: ¿Miyazaki dejó una
+  pista real?"
+date: 2026-02-04T21:10:55.496Z
+featuredimage: data:image/jpeg;base64,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
+categoria: Gaming
+tags:
+  - "#Gaming"
+  - "#EldenRing"
+  - "#Bloodborne"
+short-description: "Desde el lanzamiento de Elden Ring, los fans han estado
+  buscando conexiones con otros títulos de FromSoftware, especialmente con
+  Bloodborne. Y ahora, tras una reciente actualización, un misterioso easter egg
+  ha sido encontrado: una campana, una niebla roja y un texto que podría
+  confirmar que ambos mundos están conectados. Aquí te contamos dónde verlo, qué
+  significa y por qué ha reavivado las teorías más locas de la comunidad."
+mk1: >-
+  <!--StartFragment-->
+
+
+  ### La campana de Yharnam suena en Elden Ring
+
+
+  **Un nuevo objeto en las Tierras Intermedias hace sonar un recuerdo de Bloodborne.**
+
+
+  En el DLC Shadow of the Erdtree, jugadores han encontrado una **campana rota** dentro de una caverna opcional al este de Scadu Altus. Cuando se interactúa con ella, suena un eco distorsionado casi idéntico al de la Campana de la Mujer Sonriente de Bloodborne.
+
+
+  Junto al sonido, aparece por un segundo un mensaje en pantalla: “Los Ecos te han visto”. Esto no tiene explicación alguna dentro de la historia de Elden Ring, lo que ha despertado una enorme ola de teorías.
+
+
+  <!--EndFragment-->
+mk2: >-
+  <!--StartFragment-->
+
+
+  ### Cómo encontrar el easter egg oculto
+
+
+  **Debes explorar a fondo y cumplir ciertos requisitos del DLC.**
+
+
+  Para activar este easter egg necesitas:
+
+
+  * Tener equipado el Talismán “Sombras Olvidadas”
+
+  * Ir a la **Cueva de la Dama Decapitada**, zona secreta desbloqueada tras vencer al jefe menor "Caballero del Eclipse"
+
+  * Acercarte a la campana rota y tocarla al menos tres veces
+
+
+  Solo después de estos pasos se activará el sonido característico y el mensaje en pantalla. Además, la zona se cubre brevemente con una niebla rojiza que desaparece si sales del lugar.
+
+
+  <!--EndFragment-->
+mk3: >-
+  <!--StartFragment-->
+
+
+  ### ¿Qué relación tiene esto con Bloodborne?
+
+
+  **Pistas que sugieren un multiverso entre los juegos de FromSoftware.**
+
+
+  El sonido es exactamente el mismo que se usa para invocar cazadores hostiles en Bloodborne, y el mensaje “Los Ecos te han visto” hace referencia directa a los Ecos de Sangre, el equivalente a las almas en ese juego.
+
+
+  Algunos creen que se trata de un homenaje, pero otros argumentan que podría ser una señal de una futura conexión oficial. FromSoftware ya ha jugado antes con esta clase de símbolos para anticipar contenido o establecer lore compartido.
+
+
+  <!--EndFragment-->
+mk4: >-
+  <!--StartFragment-->
+
+
+  ### Teorías de la comunidad: ¿se viene Bloodborne 2 o remake?
+
+
+  **El hype por el regreso de Yharnam se dispara con esta pista.**
+
+
+  Desde que se descubrió el easter egg, los foros y redes sociales se han llenado de teorías:
+
+
+  * Algunos creen que se viene un remake o port de Bloodborne para PC y PS5.
+
+  * Otros creen que Elden Ring podría expandirse con contenido más explícito de Yharnam.
+
+  * También hay quienes sugieren que este es el primer paso hacia un **"Souls Multiverso"**.
+
+
+  Aunque nada está confirmado, la comunidad está más alerta que nunca, revisando cada rincón del DLC por nuevas pistas.
+
+
+  <!--EndFragment-->
+mk5: >-
+  <!--StartFragment-->
+
+
+  ### Un easter egg que cambia cómo vemos el universo FromSoftware
+
+
+  **¿Y si siempre estuvieron conectados? Esta campana podría ser la prueba.**
+
+
+  La narrativa críptica y simbólica de FromSoftware permite este tipo de conexiones, y este easter egg parece más intencional que cualquier otro guiño anterior. La idea de que Bloodborne y Elden Ring compartan planos de existencia abre nuevas posibilidades narrativas.
+
+
+  Puede ser solo un homenaje… o puede ser el primer paso hacia algo más grande. Sea como sea, los ecos han resonado, y el mensaje está claro: **algo despierta en la oscuridad**.
+
+
+  <!--EndFragment-->
+---
