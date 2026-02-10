@@ -1,0 +1,120 @@
+---
+title: "Cómo obtener la skin ultra rara de Gojo en Jujutsu Kaisen: Cursed
+  Arena  https://i.ytimg.com/vi/Yv4_RozRtHk/maxresdefault.jpg"
+date: 2026-02-10T05:34:08.367Z
+featuredimage: data:image/jpeg;base64,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
+categoria: Gaming
+tags:
+  - "#Gaming"
+  - "#Anime"
+  - "#JujutsuKaisen"
+short-description: "Jujutsu Kaisen: Cursed Arena está repleto de contenido
+  desbloqueable, pero una de las mayores obsesiones de los jugadores es
+  conseguir la skin ultra rara de Satoru Gojo. Esta versión alternativa del
+  hechicero más poderoso es extremadamente difícil de obtener, pero aquí te
+  revelamos paso a paso cómo hacerlo, los requisitos ocultos y todo lo que
+  necesitas saber para lucir esta increíble apariencia en combate."
+mk1: >-
+  <!--StartFragment-->
+
+
+  ### Qué es la skin ultra rara de Gojo y por qué todos la quieren
+
+
+  **Una de las apariencias más exclusivas y visualmente impresionantes del juego.**
+
+
+  La skin ultra rara de Gojo está basada en el episodio 20 de la segunda temporada del anime, donde vemos al hechicero liberar parte de su verdadero poder. Esta versión tiene efectos visuales especiales, líneas de voz únicas y un aura azul brillante que destaca en cada batalla. No solo cambia la estética del personaje, sino también algunas animaciones de sus ataques.
+
+
+  Además, la skin es un símbolo de estatus en la comunidad. Solo los jugadores más dedicados y hábiles han logrado desbloquearla, ya que los requisitos son complejos y exigen precisión, estrategia y constancia. No puede comprarse directamente ni conseguirse con suerte: solo se obtiene con esfuerzo real dentro del juego.
+
+
+  Conseguirla te permitirá desbloquear interacciones especiales durante los combates, sobre todo si enfrentas a personajes como Sukuna o Geto, haciendo que cada pelea sea aún más épica y personalizada.
+
+
+  <!--EndFragment-->
+mk2: >-
+  <!--StartFragment-->
+
+
+  ### Requisitos para activar la misión secreta de la skin
+
+
+  **No aparece en el menú principal: se activa cumpliendo condiciones muy específicas.**
+
+
+  Primero debes haber alcanzado el nivel 50 con Gojo y haber completado todas sus misiones secundarias, incluyendo la línea narrativa “Pasado y Presente”, la cual solo se desbloquea después de terminar el Modo Historia en dificultad extrema.
+
+
+  Después de completar esa historia, debes ganar 10 partidas seguidas en el modo competitivo usando únicamente a Gojo sin recibir más del 10% de daño total. Esto activa una escena oculta donde aparece un nuevo NPC: Yuki Tsukumo, quien te hablará sobre “El verdadero dominio”.
+
+
+  Una vez activada esta conversación, recibirás la misión secreta llamada “Mirar al Infinito”. Esta misión no aparece en el mapa ni en el menú. Debes seguir las pistas del diálogo de Yuki y buscar en zonas ocultas del mapa, como el “Templo olvidado” y el “Paso de los Caídos”, donde se esconden los tres fragmentos del Dominio Infinito.
+
+
+  <!--EndFragment-->
+mk3: >-
+  <!--StartFragment-->
+
+
+  ### Cómo completar la misión “Mirar al Infinito”
+
+
+  **Una misión compleja llena de combates, acertijos y desafíos de tiempo.**
+
+
+  La misión “Mirar al Infinito” te llevará a enfrentarte a versiones corruptas de otros hechiceros como Nanami, Maki y Panda. Estas batallas tienen mecánicas únicas, como zonas sin energía maldita, limitaciones de visión o combos restringidos. Vencerlos desbloquea cada uno de los tres fragmentos necesarios para la skin.
+
+
+  Además, hay un acertijo cronometrado en el “Pasaje Silencioso” donde deberás activar una serie de sellos en el orden correcto antes de que se agote el tiempo. La clave está en observar los símbolos que aparecen brevemente en los cristales cuando usas la Técnica de Reversión con precisión.
+
+
+  Al conseguir los tres fragmentos, vuelve al punto donde encontraste a Yuki. Allí, una grieta dimensional aparecerá y deberás ingresar al “Dominio del Vacío”, una zona especial con un jefe exclusivo llamado “Gojo Oscuro”. Es una versión alternativa del personaje con habilidades completamente nuevas. Si lo derrotas sin morir, recibirás la skin.
+
+
+  <!--EndFragment-->
+mk4: >-
+  <!--StartFragment-->
+
+
+  ### Beneficios de usar la skin ultra rara de Gojo
+
+
+  **Más que una apariencia: ofrece ventajas cosméticas y mecánicas.**
+
+
+  Al equipar la skin, desbloqueas una introducción de combate personalizada, nuevas frases para las provocaciones, y un efecto visual especial al realizar tu habilidad definitiva: “Infinito Azul”. Además, durante las partidas, el personaje tiene una postura diferente y pequeños cambios en sus animaciones de esquiva y contraataque.
+
+
+  Uno de los beneficios más valorados es el “Efecto de Presión Espiritual”, que hace que el entorno cambie ligeramente a tonalidades azules cuando Gojo entra en combate. Este detalle estético ha sido muy comentado en redes sociales por su fidelidad al anime.
+
+
+  También obtendrás un trofeo exclusivo llamado “El que domina el Infinito” y una medalla para tu perfil en línea. Estos elementos son visibles para otros jugadores, lo que convierte esta skin en uno de los premios más codiciados del juego.
+
+
+  <!--EndFragment-->
+mk5: >-
+  <!--StartFragment-->
+
+
+  ### Consejos finales para conseguirla sin morir en el intento
+
+
+  **Paciencia, estrategia y precisión: las claves para lograrlo.**
+
+
+  Si realmente quieres conseguir esta skin, debes dominar perfectamente el estilo de juego de Gojo. Practica en el modo entrenamiento avanzado, aprende los patrones de los enemigos y memoriza las rutas secretas en los mapas. Muchos jugadores fallan por apresurarse o ignorar las pistas que deja el juego.
+
+
+  No dudes en colaborar con otros jugadores que ya tengan la skin: muchos están dispuestos a compartir consejos y rutas. En foros como Reddit y Discord, hay comunidades activas que han documentado todos los pasos detalladamente, lo cual puede ahorrarte mucho tiempo y frustración.
+
+
+  En Mexgamer.com te recomendamos no rendirte: esta skin no solo es un homenaje al personaje más icónico de Jujutsu Kaisen, sino también una prueba de tu habilidad como jugador. ¡Ve y demuestra que tú también puedes dominar el Infinito!
+
+
+  - - -
+
+
+  <!--EndFragment-->
+---
