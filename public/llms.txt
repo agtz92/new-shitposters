@@ -1,0 +1,41 @@
+# 10 DATOS
+
+> 10 DATOS es un sitio web en español dedicado a publicar artículos tipo listicle sobre gaming, entretenimiento, cultura pop y más. El sitio publica contenido en formato "10 datos curiosos sobre..." cubriendo temas variados.
+
+## Sobre el sitio
+
+- URL: https://www.10datos.com
+- Idioma: Español
+- Tipo de contenido: Artículos tipo listicle (listas de datos curiosos)
+- Temática principal: Gaming, entretenimiento, cultura pop, curiosidades
+
+## Categorías
+
+- [Gaming](https://www.10datos.com/categories/gaming): Noticias, consejos y datos curiosos sobre videojuegos
+- [Cine](https://www.10datos.com/categories/cine): Datos curiosos sobre películas y el mundo del cine
+- [Televisión](https://www.10datos.com/categories/television): Datos sobre series y programas de TV
+- [Música](https://www.10datos.com/categories/musica): Datos curiosos sobre artistas y la industria musical
+- [Celebridades](https://www.10datos.com/categories/celebridades): Datos curiosos sobre famosos
+- [Deportes](https://www.10datos.com/categories/deportes): Datos sobre el mundo deportivo
+- [Historia](https://www.10datos.com/categories/historia): Datos históricos curiosos
+- [Naturaleza](https://www.10datos.com/categories/naturaleza): Datos sobre el mundo natural
+- [Recomendaciones](https://www.10datos.com/categories/recomendaciones): Recomendaciones de lugares, productos y más
+- [Random](https://www.10datos.com/categories/random): Datos curiosos de temas variados
+
+## Estructura del contenido
+
+Cada artículo incluye:
+- Un título descriptivo
+- Una imagen destacada
+- Una descripción corta
+- Categoría y etiquetas
+- Contenido en formato de lista numerada con imágenes
+
+## Páginas principales
+
+- [Inicio](https://www.10datos.com): Página principal con los posts más recientes
+- [Política de Privacidad](https://www.10datos.com/privacidad): Política de privacidad del sitio
+
+## Navegación
+
+Los artículos se pueden explorar por categoría o por etiquetas. La página principal muestra los posts más recientes organizados en secciones de contenido destacado.
