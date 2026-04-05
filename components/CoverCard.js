@@ -38,7 +38,7 @@ const CoverCard = ({ post, h1, secondary }) => {
       {/* Image */}
       <Image
         component="img"
-        alt="Image"
+        alt={post.title}
         src={post.featuredimage}
         placeholder="blur"
         style={{objectFit:"cover", objectPosition:"right bottom"}}
@@ -62,7 +62,7 @@ const CoverCard = ({ post, h1, secondary }) => {
         }}
       >
         {/* Card Content */}
-        <h1 style={{fontSize: h1 ? h1 : "1.5em"}}>{post.title}</h1>
+        <h2 style={{fontSize: h1 ? h1 : "1.5em"}}>{post.title}</h2>
         <Chip
           label={post.categoria}
         />

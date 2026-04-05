@@ -6,7 +6,7 @@ import Head from "next/head"
 import  Grid  from "@mui/material/Grid"
 import Box from "@mui/material/Box"
 //import LargeCard from "@/components/LargeCard"
-import { sitename } from "../components/siteData"
+import { sitename, motto, sitedomain } from "../components/siteData"
 import CoverCard from "@/components/CoverCard"
 //import TextCard from "@/components/TextCard"
 
@@ -25,7 +25,19 @@ export default function Home({ blogs, isMobile }) {
       className='margins'
     >
       <Head>
-        <title>{sitename}</title>
+        <title>{sitename} - {motto}</title>
+        <meta name="description" content={`${sitename} - ${motto}. Encuentra los mejores artículos y noticias.`} />
+        <link rel="canonical" href={sitedomain} />
+        <meta property="og:type" content="website" />
+        <meta property="og:title" content={`${sitename} - ${motto}`} />
+        <meta property="og:description" content={`${sitename} - ${motto}. Encuentra los mejores artículos y noticias.`} />
+        <meta property="og:url" content={sitedomain} />
+        <meta property="og:site_name" content={sitename} />
+        <meta property="og:image" content={`${sitedomain}/assets/logo.png`} />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content={`${sitename} - ${motto}`} />
+        <meta name="twitter:description" content={`${sitename} - ${motto}. Encuentra los mejores artículos y noticias.`} />
+        <meta name="twitter:image" content={`${sitedomain}/assets/logo.png`} />
       </Head>
       <Box
         display={"flex"}
@@ -38,7 +50,7 @@ export default function Home({ blogs, isMobile }) {
         }}
         className='margins'
       >
-        <h3
+        <h2
           style={{
             fontSize: "1.5em",
             fontWeight: 600,
@@ -47,7 +59,7 @@ export default function Home({ blogs, isMobile }) {
           }}
         >
           POSTS RECIENTES
-        </h3>
+        </h2>
       </Box>
       <Grid container spacing={2}>
         <Grid item xs={12} md={6}>
@@ -99,7 +111,7 @@ export default function Home({ blogs, isMobile }) {
         }}
         className='margins'
       >
-        <h3
+        <h2
           style={{
             fontSize: "1.5em",
             fontWeight: 600,
@@ -108,7 +120,7 @@ export default function Home({ blogs, isMobile }) {
           }}
         >
           OTROS POSTS
-        </h3>
+        </h2>
       </Box>
       <Grid container spacing={2} sx={{ marginTop: 2 }}>
         {daRest.map((blog) => (

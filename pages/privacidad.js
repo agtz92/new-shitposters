@@ -1,9 +1,16 @@
 import { Box } from "@mui/material"
+import Head from "next/head"
 import React from "react"
+import { sitename, sitedomain } from "../components/siteData"
 
 const privacidad = () => {
   return (
     <Box sx={{paddingLeft:20, paddingRight: 20}}>
+      <Head>
+        <title>Política de Privacidad | {sitename}</title>
+        <meta name="description" content={`Política de Privacidad de ${sitename}. Conoce cómo protegemos tu información personal.`} />
+        <link rel="canonical" href={`${sitedomain}/privacidad`} />
+      </Head>
       <h1>POLÍTICA DE PRIVACIDAD</h1>
       <p>
         El presente Política de Privacidad establece los términos en que

@@ -9,7 +9,6 @@ const SEOBlog = ({ post }) => {
         return text
       } else {
         const trimmedText = text.substring(0, maxLength)
-        // Ensure the last word isn't cut off
         const lastSpaceIndex = trimmedText.lastIndexOf(" ")
         if (lastSpaceIndex !== -1) {
           return (
@@ -25,9 +24,16 @@ const SEOBlog = ({ post }) => {
     }
   }
   function removeDoubleQuotes(inputString) {
-    // Use a regular expression to replace all double quotes with an empty string
-    return inputString.replace(/"/g, '');
+    return inputString.replace(/"/g, '')
   }
+
+  const title = removeDoubleQuotes(post.title + " | " + sitename)
+  const description = generateExcerpt(removeDoubleQuotes(post.shortDescription), 250)
+  const imageUrl = post.featuredimage?.startsWith("http")
+    ? post.featuredimage
+    : `${sitedomain}/assets/${post.featuredimage}`
+  const canonicalUrl = `${sitedomain}/${post.slug}`
+
   function addProductJsonLd() {
     return {
       __html: `{
@@ -35,40 +41,51 @@ const SEOBlog = ({ post }) => {
         "@type": "BlogPosting",
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id":\"${sitename}\"
+          "@id": "${canonicalUrl}"
         },
-        "headline": \"${removeDoubleQuotes(post.title)}\",
-        "description": \"${generateExcerpt(removeDoubleQuotes(post.shortDescription), 250)}\",
-        "image": "${sitedomain}/assets/${post.featuredimage}",  
+        "headline": "${removeDoubleQuotes(post.title)}",
+        "description": "${description}",
+        "image": "${imageUrl}",
         "author": {
           "@type": "Organization",
-          "name": "${sitedomain}"
-        },  
+          "name": "${sitename}"
+        },
         "publisher": {
           "@type": "Organization",
           "name": "${sitename}",
           "logo": {
             "@type": "ImageObject",
-            "url": \"${sitedomain}/assets/logo.png\"
+            "url": "${sitedomain}/assets/logo.png"
           }
         },
-        "datePublished": \"${post.date}\",
-        "dateModified": \"${post.date}\"
+        "datePublished": "${post.date}",
+        "dateModified": "${post.date}"
       }
   `,
     }
   }
-  const title = post.title + " | " + sitename
+
   return (
     <Head>
       <meta charSet="utf-8" />
-      <title>
-        {removeDoubleQuotes(title)}
-      </title>
-      <meta
-        name="description"
-        content={generateExcerpt(removeDoubleQuotes(post.shortDescription), 250)}
-      />
+      <title>{title}</title>
+      <meta name="description" content={description} />
+      <link rel="canonical" href={canonicalUrl} />
+
+      {/* Open Graph */}
+      <meta property="og:type" content="article" />
+      <meta property="og:title" content={title} />
+      <meta property="og:description" content={description} />
+      <meta property="og:image" content={imageUrl} />
+      <meta property="og:url" content={canonicalUrl} />
+      <meta property="og:site_name" content={sitename} />
+
+      {/* Twitter Card */}
+      <meta name="twitter:card" content="summary_large_image" />
+      <meta name="twitter:title" content={title} />
+      <meta name="twitter:description" content={description} />
+      <meta name="twitter:image" content={imageUrl} />
+
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={addProductJsonLd()}

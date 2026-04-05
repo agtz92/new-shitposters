@@ -5,7 +5,7 @@ const TextCard = ({ post, height }) => {
   return (
     <Card>
       <CardContent>
-        <h1 style={{fontSize:'1em', fontWeight:'600'}}>{post.title}</h1>
+        <h3 style={{fontSize:'1em', fontWeight:'600'}}>{post.title}</h3>
         <Chip
           label={post.categoria}
         />

@@ -6,7 +6,7 @@ import { Box, Grid, Pagination, Stack } from "@mui/material"
 import Link from "next/link"
 import Head from "next/head"
 import LargeCard from "@/components/LargeCard"
-import { sitename } from "@/components/siteData"
+import { sitename, sitedomain } from "@/components/siteData"
 
 export default function CategoryPage({ matchingFiles, category, isMobile }) {
   // Sort the blogs by date in descending order
@@ -31,9 +31,17 @@ export default function CategoryPage({ matchingFiles, category, isMobile }) {
       className='margins5'
     >
       <Head>
-        <title>
-          {title}
-        </title>
+        <title>{title}</title>
+        <meta name="description" content={`Artículos sobre ${category} en ${sitename}. Encuentra los mejores posts y noticias.`} />
+        <link rel="canonical" href={`${sitedomain}/categories/${category.toLowerCase()}`} />
+        <meta property="og:type" content="website" />
+        <meta property="og:title" content={title} />
+        <meta property="og:description" content={`Artículos sobre ${category} en ${sitename}.`} />
+        <meta property="og:url" content={`${sitedomain}/categories/${category.toLowerCase()}`} />
+        <meta property="og:site_name" content={sitename} />
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:title" content={title} />
+        <meta name="twitter:description" content={`Artículos sobre ${category} en ${sitename}.`} />
       </Head>
       <Box
         display={"flex"}
@@ -46,7 +54,7 @@ export default function CategoryPage({ matchingFiles, category, isMobile }) {
         }}
         className='margins'
       >
-        <h3
+        <h1
           style={{
             fontSize: "1.5em",
             fontWeight: 600,
@@ -55,7 +63,7 @@ export default function CategoryPage({ matchingFiles, category, isMobile }) {
           }}
         >
           {category.toUpperCase()}
-        </h3>
+        </h1>
       </Box>
 
       <Grid container spacing={2}>

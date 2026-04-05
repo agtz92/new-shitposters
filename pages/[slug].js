@@ -124,6 +124,7 @@ export async function getStaticProps({ params: { slug } }) {
           ...frontmatter,
           date: formattedDate,
           shortDescription: shortDescription,
+          slug: slug,
         },
         markdown,
       },

@@ -6,7 +6,7 @@ import Link from "next/link"
 import LargeCard from "@/components/LargeCard"
 import { Box, Grid, Pagination, Stack } from "@mui/material"
 import Head from "next/head"
-import { sitename } from "@/components/siteData"
+import { sitename, sitedomain } from "@/components/siteData"
 
 function removeSpecialCharactersAndLowerCase(str) {
   // Remove special characters and spaces and convert to lowercase
@@ -37,9 +37,17 @@ function TagPage({ matchingFiles, tag, isMobile }) {
       className='margins5'
     >
       <Head>
-        <title>
-          {title}
-        </title>
+        <title>{title}</title>
+        <meta name="description" content={`Posts etiquetados con #${tag} en ${sitename}. Explora contenido relacionado.`} />
+        <link rel="canonical" href={`${sitedomain}/tags/${tag}`} />
+        <meta property="og:type" content="website" />
+        <meta property="og:title" content={title} />
+        <meta property="og:description" content={`Posts etiquetados con #${tag} en ${sitename}.`} />
+        <meta property="og:url" content={`${sitedomain}/tags/${tag}`} />
+        <meta property="og:site_name" content={sitename} />
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:title" content={title} />
+        <meta name="twitter:description" content={`Posts etiquetados con #${tag} en ${sitename}.`} />
       </Head>
       <h1 style={{ textAlign: "center", fontWeight: 600 }}>
         #{tag.toUpperCase()}
