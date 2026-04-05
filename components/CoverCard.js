@@ -22,15 +22,13 @@ const CoverCard = ({ post, h1, secondary }) => {
       <Image
         alt={post.title}
         src={post.featuredimage}
-        placeholder="blur"
         style={{
           objectFit: "cover",
           objectPosition: "center",
           transition: "transform 0.6s cubic-bezier(0.4, 0, 0.2, 1)",
         }}
-        width={800}
-        height={500}
-        blurDataURL="../public/assets/blur.jpg"
+        fill
+        sizes="(max-width: 768px) 100vw, 50vw"
       />
 
       {/* Gradient overlay */}

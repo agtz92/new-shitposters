@@ -47,8 +47,6 @@ const LargeCard = ({ post, height }) => {
             src={post.featuredimage}
             alt={post.title}
             fill
-            placeholder="blur"
-            blurDataURL="../public/assets/blur.jpg"
           />
         </div>
       </Box>
