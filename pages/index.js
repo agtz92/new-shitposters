@@ -3,15 +3,12 @@ import dynamic from 'next/dynamic'
 import matter from "gray-matter"
 import Link from "next/link"
 import Head from "next/head"
-import  Grid  from "@mui/material/Grid"
+import Grid from "@mui/material/Grid"
 import Box from "@mui/material/Box"
-//import LargeCard from "@/components/LargeCard"
 import { sitename, motto, sitedomain } from "../components/siteData"
 import CoverCard from "@/components/CoverCard"
-//import TextCard from "@/components/TextCard"
 
 export default function Home({ blogs, isMobile }) {
-  // Sort the blogs by date in descending order
   const sortedBlogs = blogs.sort((a, b) => new Date(b.date) - new Date(a.date))
   const first = sortedBlogs.slice(0, 1)
   const nextTwo = sortedBlogs.slice(1, 3)
@@ -19,11 +16,9 @@ export default function Home({ blogs, isMobile }) {
   const daRest = sortedBlogs.slice(7, 15)
   const TextCard = dynamic(() => import('@/components/TextCard'))
   const LargeCard = dynamic(() => import('@/components/LargeCard'))
-  //const deals = sortedBlogs.filter((blog) => blog.deals === "Yes")
+
   return (
-    <Box
-      className='margins'
-    >
+    <Box sx={{ maxWidth: 1200, margin: "0 auto", padding: "0 24px" }}>
       <Head>
         <title>{sitename} - {motto}</title>
         <meta name="description" content={`${sitename} - ${motto}. Encuentra los mejores artículos y noticias.`} />
@@ -39,92 +34,57 @@ export default function Home({ blogs, isMobile }) {
         <meta name="twitter:description" content={`${sitename} - ${motto}. Encuentra los mejores artículos y noticias.`} />
         <meta name="twitter:image" content={`${sitedomain}/assets/logo.png`} />
       </Head>
-      <Box
-        display={"flex"}
-        flexDirection={"column"}
-        justifyContent={"center"}
-        alignItems={"center"}
-        sx={{
-          borderBottom: "1px solid #d80032",
-          marginBottom: 5,
-        }}
-        className='margins'
-      >
-        <h2
-          style={{
-            fontSize: "1.5em",
-            fontWeight: 600,
-            textAlign: "center",
-            letterSpacing: "2px",
-          }}
-        >
-          POSTS RECIENTES
-        </h2>
+
+      {/* Hero Section */}
+      <Box sx={{ paddingTop: "40px", paddingBottom: "8px" }}>
+        <div className="section-header">
+          <h2>POSTS RECIENTES</h2>
+        </div>
       </Box>
-      <Grid container spacing={2}>
+
+      {/* Main Grid: Hero + Sidebar */}
+      <Grid container spacing={2.5}>
         <Grid item xs={12} md={6}>
-          <Grid container spacing={2}>
-            {first.map((blog) => (
-              <Grid key={blog.slug} item xs={12} md={12}>
-                <Link href={`/${blog.slug}`}>
-                  <CoverCard
-                    post={blog}
-                  />
-                </Link>
-              </Grid>
-            ))}
-          </Grid>
+          {first.map((blog) => (
+            <Link key={blog.slug} href={`/${blog.slug}`}>
+              <CoverCard post={blog} />
+            </Link>
+          ))}
         </Grid>
         <Grid item xs={12} md={3}>
-          <Grid container spacing={2}>
+          <Grid container spacing={2.5}>
             {nextTwo.map((blog) => (
-              <Grid key={blog.slug} item xs={12} md={12}>
+              <Grid key={blog.slug} item xs={12}>
                 <Link href={`/${blog.slug}`}>
-                  <CoverCard post={blog} secondary/>
+                  <CoverCard post={blog} secondary />
                 </Link>
               </Grid>
             ))}
           </Grid>
         </Grid>
         <Grid item xs={12} md={3}>
-          <Grid container spacing={1}>
+          <Grid container spacing={1.5}>
             {nextFour.map((blog) => (
-              <Grid key={blog.slug} item xs={12} md={12}>
+              <Grid key={blog.slug} item xs={12}>
                 <Link href={`/${blog.slug}`}>
-                  <TextCard post={blog} height="auto" />
+                  <TextCard post={blog} />
                 </Link>
               </Grid>
             ))}
           </Grid>
         </Grid>
       </Grid>
-      
-      
-      <Box
-        display={"flex"}
-        flexDirection={"column"}
-        justifyContent={"center"}
-        alignItems={"center"}
-        sx={{
-          borderBottom: "1px solid #d80032",
-          marginTop: 5,
-        }}
-        className='margins'
-      >
-        <h2
-          style={{
-            fontSize: "1.5em",
-            fontWeight: 600,
-            textAlign: "center",
-            letterSpacing: "2px",
-          }}
-        >
-          OTROS POSTS
-        </h2>
+
+      {/* More Posts */}
+      <Box sx={{ paddingTop: "56px", paddingBottom: "8px" }}>
+        <div className="section-header">
+          <h2>OTROS POSTS</h2>
+        </div>
       </Box>
-      <Grid container spacing={2} sx={{ marginTop: 2 }}>
+
+      <Grid container spacing={2.5} sx={{ paddingBottom: "40px" }}>
         {daRest.map((blog) => (
-          <Grid key={blog.slug} item xs={12} md={3}>
+          <Grid key={blog.slug} item xs={12} sm={6} md={3}>
             <Link href={`/${blog.slug}`}>
               <LargeCard post={blog} />
             </Link>
@@ -137,38 +97,32 @@ export default function Home({ blogs, isMobile }) {
 
 export async function getStaticProps() {
   try {
-    // List of files in the "blogs" folder, excluding ".DS_Store"
     const filesInBlogs = fs
       .readdirSync("./blog")
       .filter((filename) => !filename.startsWith(".DS_Store"))
 
-    // Get the front matter and slug (the filename without .md) of all files
     const blogs = filesInBlogs.map((filename) => {
       const file = fs.readFileSync(`./blog/${filename}`, "utf8")
       const matterData = matter(file)
 
-      // Check if matterData.data.date exists before calling toISOString()
       const isoDate = matterData.data.date
         ? new Date(matterData.data.date).toISOString()
         : ""
 
-      // Format the ISO date for display in the desired locale
       const formattedDate = matterData.data.date
         ? new Date(matterData.data.date).toLocaleDateString("en-US")
         : ""
 
-      // Ensure shortDescription is defined for each blog
       const shortDescription = matterData.data["short-description"] || ""
 
       return {
         ...matterData.data,
         slug: filename.slice(0, filename.indexOf(".")),
-        date: isoDate, // Keep the ISO date
-        formattedDate: formattedDate, // Formatted date
-        shortDescription: shortDescription, // Ensure shortDescription is defined
+        date: isoDate,
+        formattedDate: formattedDate,
+        shortDescription: shortDescription,
       }
     }).sort((a, b) => new Date(b.date) - new Date(a.date))
-      // ✅ SOLO 20
       .slice(0, 20)
 
     return {

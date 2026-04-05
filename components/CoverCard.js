@@ -1,73 +1,82 @@
 import React from "react"
-import {
-  Box,
-  Card,
-  CardContent,
-  CardMedia,
-  Chip,
-} from "@mui/material"
+import { Box, Chip } from "@mui/material"
 import Image from "next/image"
 
 const CoverCard = ({ post, h1, secondary }) => {
   return (
-    <Card
+    <Box
       sx={{
         position: "relative",
-        "&:hover": {
-          "& img": {
-            transform: "scale(1.2)",
-            transition: "transform 0.2s ease",
-          },
+        overflow: "hidden",
+        borderRadius: "var(--radius-lg)",
+        cursor: "pointer",
+        "&:hover img": {
+          transform: "scale(1.05)",
+        },
+        "&:hover .cover-overlay": {
+          background: "linear-gradient(0deg, rgba(0,0,0,0.85) 0%, rgba(0,0,0,0.2) 50%, transparent 100%)",
         },
       }}
       className={!secondary ? "cover" : "cover-secondary"}
     >
-      {/* Black overlay */}
+      <Image
+        alt={post.title}
+        src={post.featuredimage}
+        placeholder="blur"
+        style={{
+          objectFit: "cover",
+          objectPosition: "center",
+          transition: "transform 0.6s cubic-bezier(0.4, 0, 0.2, 1)",
+        }}
+        width={800}
+        height={500}
+        blurDataURL="../public/assets/blur.jpg"
+      />
+
+      {/* Gradient overlay */}
       <Box
+        className="cover-overlay"
         sx={{
           position: "absolute",
           top: 0,
           left: 0,
           width: "100%",
           height: "100%",
-          background: "rgba(0, 0, 0, 0.6)",
+          background: "linear-gradient(0deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.1) 50%, transparent 100%)",
           zIndex: 1,
-        }}
-      ></Box>
-
-      {/* Image */}
-      <Image
-        component="img"
-        alt={post.title}
-        src={post.featuredimage}
-        placeholder="blur"
-        style={{objectFit:"cover", objectPosition:"right bottom"}}
-        width= "800"
-        height= "500"
-        blurDataURL="../public/assets/blur.jpg"
-        sx={{
-          transition: "transform 0.2s ease",
-          zIndex: -1,
+          transition: "background 0.4s ease",
         }}
       />
 
-      <CardContent
+      <Box
         sx={{
           position: "absolute",
           bottom: 0,
           left: 0,
-          padding: 2,
-          color: "#fff",
+          right: 0,
+          padding: secondary ? "16px 20px" : "24px 28px",
           zIndex: 2,
         }}
       >
-        {/* Card Content */}
-        <h2 style={{fontSize: h1 ? h1 : "1.5em"}}>{post.title}</h2>
         <Chip
           label={post.categoria}
+          size="small"
+          sx={{ marginBottom: "10px" }}
         />
-      </CardContent>
-    </Card>
+        <h2
+          style={{
+            fontSize: h1 ? h1 : secondary ? "1.1rem" : "1.6rem",
+            fontWeight: 700,
+            lineHeight: 1.25,
+            color: "#fff",
+            margin: 0,
+            letterSpacing: "-0.01em",
+          }}
+        >
+          {post.title}
+        </h2>
+      </Box>
+    </Box>
   )
 }
 

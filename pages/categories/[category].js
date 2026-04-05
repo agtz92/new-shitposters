@@ -9,17 +9,15 @@ import LargeCard from "@/components/LargeCard"
 import { sitename, sitedomain } from "@/components/siteData"
 
 export default function CategoryPage({ matchingFiles, category, isMobile }) {
-  // Sort the blogs by date in descending order
   const sortedBlogs = matchingFiles?.sort(
     (a, b) => new Date(b.date) - new Date(a.date)
   )
-  //pagination
-  const itemsPerPage = 6
+  const itemsPerPage = 9
   const [currentPage, setCurrentPage] = useState(1)
   const startIndex = (currentPage - 1) * itemsPerPage
   const endIndex = startIndex + itemsPerPage
   const blogsToDisplay = sortedBlogs?.slice(startIndex, endIndex)
-  //reset current page if category changes
+
   useEffect(() => {
     setCurrentPage(1)
   }, [category])
@@ -27,9 +25,7 @@ export default function CategoryPage({ matchingFiles, category, isMobile }) {
   const title = sitename + " | " + category
 
   return (
-    <Box
-      className='margins5'
-    >
+    <Box sx={{ maxWidth: 1200, margin: "0 auto", padding: "0 24px" }}>
       <Head>
         <title>{title}</title>
         <meta name="description" content={`Artículos sobre ${category} en ${sitename}. Encuentra los mejores posts y noticias.`} />
@@ -43,54 +39,45 @@ export default function CategoryPage({ matchingFiles, category, isMobile }) {
         <meta name="twitter:title" content={title} />
         <meta name="twitter:description" content={`Artículos sobre ${category} en ${sitename}.`} />
       </Head>
-      <Box
-        display={"flex"}
-        flexDirection={"column"}
-        justifyContent={"center"}
-        alignItems={"center"}
-        sx={{
-          borderBottom: "1px solid #d80032",
-          marginBottom: 5,
-        }}
-        className='margins'
-      >
-        <h1
-          style={{
-            fontSize: "1.5em",
-            fontWeight: 600,
-            textAlign: "center",
-            letterSpacing: "2px",
-          }}
-        >
-          {category.toUpperCase()}
-        </h1>
-      </Box>
 
-      <Grid container spacing={2}>
+      <div className="page-hero">
+        <h1>{category.toUpperCase()}</h1>
+        <p className="subtitle">
+          {sortedBlogs?.length} artículos
+        </p>
+      </div>
+
+      <Grid container spacing={2.5}>
         {blogsToDisplay?.map((file, index) => (
-          <Grid key={index} item xs={12} md={4}>
+          <Grid key={index} item xs={12} sm={6} md={4}>
             <Link href={`/${file.slug}`}>
               <LargeCard post={file} />
             </Link>
           </Grid>
         ))}
       </Grid>
-      {/*Pagination*/}
-      <Stack
-        spacing={2}
-        display={"flex"}
-        flexDirection={"row"}
-        alignContent={"space-evenly"}
-        justifyContent={"space-evenly"}
-        sx={{ marginTop: 5 }}
-      >
-        <Pagination
-          count={Math.ceil(sortedBlogs.length / itemsPerPage)}
-          size="large"
-          page={currentPage}
-          onChange={(event, page) => setCurrentPage(page)}
-        />
-      </Stack>
+
+      {sortedBlogs?.length > itemsPerPage && (
+        <Stack
+          spacing={2}
+          display={"flex"}
+          alignItems={"center"}
+          justifyContent={"center"}
+          sx={{ marginTop: 6, marginBottom: 4 }}
+        >
+          <Pagination
+            count={Math.ceil(sortedBlogs.length / itemsPerPage)}
+            size="large"
+            page={currentPage}
+            onChange={(event, page) => setCurrentPage(page)}
+            sx={{
+              "& .MuiPaginationItem-root": {
+                borderRadius: "var(--radius-sm)",
+              },
+            }}
+          />
+        </Stack>
+      )}
     </Box>
   )
 }
@@ -142,7 +129,6 @@ export async function getStaticPaths() {
   const categories = new Set()
 
   for (const file of files) {
-    // Check if the file is not hidden (doesn't start with a dot)
     if (!file.startsWith(".")) {
       const fileContent = matter(
         fs.readFileSync(path.join("./categories", file), "utf8")
@@ -161,6 +147,6 @@ export async function getStaticPaths() {
 
   return {
     paths,
-    fallback: "blocking", // Allow for custom handling of 404-like cases
+    fallback: "blocking",
   }
 }
