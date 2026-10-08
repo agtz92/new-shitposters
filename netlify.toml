@@ -4,3 +4,12 @@
 
 [build.environment]
   NODE_VERSION = "20.11.1"
+
+# Allow Netlify Image CDN to optimize hotlinked post images.
+[images]
+  remote_images = ["https://.*"]
+
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=2592000"

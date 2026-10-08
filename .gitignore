@@ -32,3 +32,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# generated from base64 frontmatter by scripts/extract-inline-images.js
+/public/assets/inline/

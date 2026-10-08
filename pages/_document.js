@@ -1,54 +1,28 @@
 import { Html, Head, Main, NextScript } from "next/document"
-import Script from "next/script"
+
+// Netlify Identity is only needed when an invite/recovery link lands on the
+// site, so the widget is loaded on demand instead of on every page view.
+const identityLoader = `
+  if (/(invite|recovery|confirmation|email_change)_token=/.test(location.hash)) {
+    var s = document.createElement("script");
+    s.src = "https://identity.netlify.com/v1/netlify-identity-widget.js";
+    s.onload = function () {
+      window.netlifyIdentity.on("login", function () { document.location.href = "/admin/"; });
+    };
+    document.head.appendChild(s);
+  }
+`
 
 export default function Document() {
   return (
     <Html lang="es">
       <Head>
-        <script
-          async
-          src="https://identity.netlify.com/v1/netlify-identity-widget.js"
-        />
-        <script
-          async
-          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7182528185795867"
-          crossOrigin="anonymous"
-        ></script>
-
-        <Script
-          async
-          src="https://www.googletagmanager.com/gtag/js?id=G-YRGDLQ7446"
-        />
-
-        <Script id="google-analytics">
-          {`
-              window.dataLayer = window.dataLayer || [];
-              function gtag(){dataLayer.push(arguments);}
-              gtag('js', new Date());
-            
-              gtag('config', ${'${process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS}'});
-          `}
-        </Script>
+        <meta name="theme-color" content="#0a0a0f" />
       </Head>
-
       <body>
         <Main />
         <NextScript />
-        <script
-          dangerouslySetInnerHTML={{
-            __html: `
-              if (window.netlifyIdentity) {
-                window.netlifyIdentity.on("init", user => {
-                  if (!user) {
-                    window.netlifyIdentity.on("login", () => {
-                      document.location.href = "/admin/";
-                    });
-                  }
-                });
-              }
-          `,
-          }}
-        />
+        <script dangerouslySetInnerHTML={{ __html: identityLoader }} />
       </body>
     </Html>
   )

@@ -1,152 +1,120 @@
-import fs from "fs"
-import ReactMarkdown from "react-markdown"
-import matter from "gray-matter"
-import Head from "next/head"
 import Image from "next/image"
-import rehypeRaw from "rehype-raw"
-import Box from "@mui/material/Box"
-import { Chip, Grid } from "@mui/material"
 import Link from "next/link"
-import { sitename } from "../components/siteData"
 import SEOBlog from "@/components/SEOBlog"
+import { getPostSlugs, readPost, resolveImage, formatDate, slugifyTag } from "@/lib/posts"
 
-export default function Blog({ frontmatter, markdown, isMobile }) {
-  // Format the ISO date for display in the desired locale
-  const formattedDate = new Date(frontmatter.date).toLocaleDateString("en-US")
-
-  // Define the cleanAndLowercaseString function
-  function cleanAndLowercaseString(inputString) {
-    // Remove special characters, spaces, and "#" if found
-    const cleanedString = inputString
-      .replace(/[^a-zA-Z0-9]+/g, "")
-      .toLowerCase()
-
-    // Split the string by words and join them with hyphens
-    const words = cleanedString.split(/\s+/)
-    const transformedString = words.join("-")
-
-    return transformedString
-  }
-
+export default function Blog({ post }) {
   return (
-    <div>
-      <SEOBlog post={frontmatter} />
-      <Box display={"flex"} flexDirection={"column"} className="margins5">
-        <h1 style={{ fontSize: "3em", margin: 0 }}>{frontmatter.title}</h1>
-        <Box
-          display={"flex"}
-          alignContent={"left"}
-          sx={{ marginBottom: 2, marginTop: 2 }}
-        >
-          <Chip
-            label={frontmatter.categoria}
-            clickable
-            component={Link}
-            href={`/categories/${frontmatter.categoria.toLowerCase()}`}
+    <main className="post">
+      <SEOBlog post={post} />
+      <h1 className="post-title">{post.title}</h1>
+      <div className="post-meta">
+        {post.categoria ? (
+          <Link className="chip" href={`/categories/${post.categoria.toLowerCase()}`}>
+            {post.categoria}
+          </Link>
+        ) : null}
+        {post.date ? (
+          <time className="post-date" dateTime={post.date}>
+            Actualizado: {post.displayDate}
+          </time>
+        ) : null}
+      </div>
+
+      {post.featuredimage ? (
+        <div className="postimage-wrapper">
+          <Image
+            className="postimg"
+            src={post.featuredimage}
+            alt={post.title}
+            fill
+            priority
+            sizes="(max-width: 768px) 100vw, 900px"
           />
-        </Box>
+        </div>
+      ) : null}
 
-        <span style={{ color: "#ddd", fontSize: "12px" }}>
-          Updated: {formattedDate}
-        </span>
-        <Box sx={{ minHeight: "40px" }} />
-        <Box justifyContent={"center"} display={"flex"}>
-          <div className="postimage-wrapper">
-            <Image
-              className="postimg"
-              src={frontmatter.featuredimage}
-              alt={frontmatter.title}
-              fill
-            />
-          </div>
-        </Box>
-
-        <Grid container spacing={2} sx={{ marginTop: 2 }}>
-          {frontmatter.tags?.map((tag) => (
-            <Grid key={tag} item xs={3} sm={3} md={1.5}>
-              <Chip
-                component={Link}
-                href={`/tags/${cleanAndLowercaseString(tag)}`}
-                label={tag}
-                sx={{
-                  marginRight: 1,
-                  marginBottom: 2,
-                  width: "100%",
-                }}
-                clickable
-              />
-            </Grid>
+      {post.tags.length ? (
+        <ul className="post-tags">
+          {post.tags.map((tag) => (
+            <li key={tag.slug}>
+              <Link className="chip" href={`/tags/${tag.slug}`}>
+                {tag.label}
+              </Link>
+            </li>
           ))}
-        </Grid>
+        </ul>
+      ) : null}
 
-        <Box display={"flex"} flexDirection={"column"} className="content">
-          <Box sx={{ minHeight: "20px" }} />
-          {frontmatter.shortDescription}
-          <ReactMarkdown rehypePlugins={[rehypeRaw]}>
-            {frontmatter.mk1}
-          </ReactMarkdown>
-          <ReactMarkdown rehypePlugins={[rehypeRaw]}>
-            {frontmatter.mk2}
-          </ReactMarkdown>
-          <ReactMarkdown rehypePlugins={[rehypeRaw]}>
-            {frontmatter.mk3}
-          </ReactMarkdown>
-          <ReactMarkdown rehypePlugins={[rehypeRaw]}>
-            {frontmatter.mk4}
-          </ReactMarkdown>
-          <ReactMarkdown rehypePlugins={[rehypeRaw]}>
-            {frontmatter.mk5}
-          </ReactMarkdown>
-        </Box>
-      </Box>
-    </div>
+      <div className="content">
+        <div dangerouslySetInnerHTML={{ __html: post.html }} />
+      </div>
+    </main>
   )
 }
 
-// Modify the getStaticProps function
+// Shifts content headings so the highest one is an <h2> (the post title is the only <h1>).
+function normalizeHeadings(html) {
+  const levels = [...html.matchAll(/<h([1-6])[\s>]/g)].map((m) => Number(m[1]))
+  if (!levels.length) return html
+  const shift = 2 - Math.min(...levels)
+  if (!shift) return html
+  return html.replace(/<(\/?)h([1-6])(?=[\s>])/g, (_, close, level) => {
+    return `<${close}h${Math.min(6, Math.max(2, Number(level) + shift))}`
+  })
+}
+
+// Markdown is rendered to HTML at build time so react-markdown never ships to the browser.
+async function renderMarkdown(sections) {
+  const { createElement } = await import("react")
+  const { renderToStaticMarkup } = await import("react-dom/server")
+  const ReactMarkdown = (await import("react-markdown")).default
+  const rehypeRaw = (await import("rehype-raw")).default
+
+  const html = sections
+    .filter(Boolean)
+    .map((md) =>
+      renderToStaticMarkup(createElement(ReactMarkdown, { rehypePlugins: [rehypeRaw] }, md))
+    )
+    .join("\n")
+    .replace(/<img(?![^>]*\sloading=)/g, '<img loading="lazy" decoding="async"')
+    .replace(/<iframe(?![^>]*\sloading=)/g, '<iframe loading="lazy"')
+  return normalizeHeadings(html)
+}
+
 export async function getStaticProps({ params: { slug } }) {
+  let data
   try {
-    const fileContent = matter(fs.readFileSync(`./blog/${slug}.md`, "utf8"))
-    const frontmatter = fileContent.data
-    const markdown = fileContent.content
-
-    // Format the date using the "es-MX" locale
-    const formattedDate = new Date(frontmatter.date).toLocaleDateString("en-US")
-
-    // Ensure shortDescription is defined for each blog
-    const shortDescription = frontmatter["short-description"]
-
-    return {
-      props: {
-        frontmatter: {
-          ...frontmatter,
-          date: formattedDate,
-          shortDescription: shortDescription,
-          slug: slug,
-        },
-        markdown,
-      },
-    }
+    data = readPost(slug)
   } catch (error) {
-    console.error("Error reading file or parsing frontmatter:", error)
-    return {
-      notFound: true,
-    }
+    return { notFound: true }
+  }
+
+  const date = data.date ? new Date(data.date).toISOString() : ""
+  const html = await renderMarkdown([data["short-description"], data.mk1, data.mk2, data.mk3, data.mk4, data.mk5])
+
+  return {
+    props: {
+      post: {
+        slug,
+        title: String(data.title || "").trim(),
+        date,
+        displayDate: formatDate(date),
+        categoria: data.categoria || "",
+        featuredimage: resolveImage(data.featuredimage),
+        shortDescription: data["short-description"] || "",
+        tags: (data.tags || [])
+          .filter(Boolean)
+          .map((tag) => ({ label: String(tag), slug: slugifyTag(tag) })),
+        html,
+      },
+    },
   }
 }
 
 export async function getStaticPaths() {
-  const filesInProjects = fs.readdirSync("./blog")
-
-  const paths = filesInProjects
-    .filter((file) => !file.startsWith(".")) // Filter out hidden files
-    .map((file) => {
-      const filename = file.slice(0, file.indexOf("."))
-      return { params: { slug: filename } }
-    })
-
   return {
-    paths,
-    fallback: "blocking", // This shows a 404 page if the page is not found
+    paths: getPostSlugs().map((slug) => ({ params: { slug } })),
+    fallback: "blocking",
   }
 }

@@ -1,11 +1,10 @@
-import { Box } from "@mui/material"
 import Head from "next/head"
 import React from "react"
 import { sitename, sitedomain } from "../components/siteData"
 
 const privacidad = () => {
   return (
-    <Box sx={{paddingLeft:20, paddingRight: 20}}>
+    <main className="container privacy">
       <Head>
         <title>Política de Privacidad | {sitename}</title>
         <meta name="description" content={`Política de Privacidad de ${sitename}. Conoce cómo protegemos tu información personal.`} />
@@ -79,7 +78,7 @@ const privacidad = () => {
         derecho de cambiar los términos de la presente Política de Privacidad en
         cualquier momento.
       </p>
-    </Box>
+    </main>
   )
 }
 

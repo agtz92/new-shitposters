@@ -1,80 +1,32 @@
-import React from "react"
-import { Box, Chip } from "@mui/material"
 import Image from "next/image"
+import Link from "next/link"
 
-const CoverCard = ({ post, h1, secondary }) => {
+const CoverCard = ({ post, secondary, priority }) => {
   return (
-    <Box
-      sx={{
-        position: "relative",
-        overflow: "hidden",
-        borderRadius: "var(--radius-lg)",
-        cursor: "pointer",
-        "&:hover img": {
-          transform: "scale(1.05)",
-        },
-        "&:hover .cover-overlay": {
-          background: "linear-gradient(0deg, rgba(0,0,0,0.85) 0%, rgba(0,0,0,0.2) 50%, transparent 100%)",
-        },
-      }}
-      className={!secondary ? "cover" : "cover-secondary"}
+    <Link
+      href={`/${post.slug}`}
+      className={`cover-card ${secondary ? "cover-secondary" : "cover"}`}
     >
-      <Image
-        alt={post.title}
-        src={post.featuredimage}
-        style={{
-          objectFit: "cover",
-          objectPosition: "center",
-          transition: "transform 0.6s cubic-bezier(0.4, 0, 0.2, 1)",
-        }}
-        fill
-        sizes="(max-width: 768px) 100vw, 50vw"
-      />
-
-      {/* Gradient overlay */}
-      <Box
-        className="cover-overlay"
-        sx={{
-          position: "absolute",
-          top: 0,
-          left: 0,
-          width: "100%",
-          height: "100%",
-          background: "linear-gradient(0deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.1) 50%, transparent 100%)",
-          zIndex: 1,
-          transition: "background 0.4s ease",
-        }}
-      />
-
-      <Box
-        sx={{
-          position: "absolute",
-          bottom: 0,
-          left: 0,
-          right: 0,
-          padding: secondary ? "16px 20px" : "24px 28px",
-          zIndex: 2,
-        }}
-      >
-        <Chip
-          label={post.categoria}
-          size="small"
-          sx={{ marginBottom: "10px" }}
+      {post.featuredimage ? (
+        <Image
+          alt=""
+          src={post.featuredimage}
+          fill
+          priority={priority}
+          sizes={
+            secondary
+              ? "(max-width: 899px) 100vw, 300px"
+              : "(max-width: 899px) 100vw, 600px"
+          }
+          className="cover-img"
         />
-        <h2
-          style={{
-            fontSize: h1 ? h1 : secondary ? "1.1rem" : "1.6rem",
-            fontWeight: 700,
-            lineHeight: 1.25,
-            color: "#fff",
-            margin: 0,
-            letterSpacing: "-0.01em",
-          }}
-        >
-          {post.title}
-        </h2>
-      </Box>
-    </Box>
+      ) : null}
+      <div className="cover-overlay" />
+      <div className="cover-body">
+        <span className="chip">{post.categoria}</span>
+        <h3 className="cover-title">{post.title}</h3>
+      </div>
+    </Link>
   )
 }
 
