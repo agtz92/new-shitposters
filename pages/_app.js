@@ -1,7 +1,7 @@
 import Footer from "@/components/Footer"
 import Nav from "@/components/Nav"
 import "@/styles/globals.css"
-import { Inter } from "next/font/google"
+import { Barlow_Condensed, Inter } from "next/font/google"
 import Script from "next/script"
 
 const inter = Inter({
@@ -9,12 +9,20 @@ const inter = Inter({
   display: "swap",
 })
 
+// Display face for headlines and the numbered "datos".
+const barlow = Barlow_Condensed({
+  subsets: ["latin"],
+  weight: ["700", "800"],
+  display: "swap",
+  variable: "--font-display",
+})
+
 const GA_ID = process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS
 const ADSENSE_CLIENT = "ca-pub-7182528185795867"
 
 export default function App({ Component, pageProps }) {
   return (
-    <div className={inter.className}>
+    <div className={`${inter.className} ${barlow.variable} app`}>
       {GA_ID ? (
         <>
           <Script

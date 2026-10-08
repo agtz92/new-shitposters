@@ -1,6 +1,7 @@
 import Link from "next/link"
 import { sitename, motto } from "./siteData"
 import { navCategories } from "./categories"
+import Logo from "./Logo"
 
 const partners = [
   ["https://www.antesdelexamen.com/", "Bancos de preguntas UNAM"],
@@ -20,21 +21,18 @@ const Footer = () => {
   return (
     <footer className="footer">
       <div className="footer-inner">
-        <div>
-          <p className="footer-brand">{sitename}</p>
+        <div className="footer-brand">
+          <Logo small />
           <p>{motto}</p>
         </div>
         <div>
           <h2 className="footer-heading">Categorías</h2>
           <div className="footer-categories">
-            {navCategories.map(({ href, label }) => (
+            {navCategories.slice(1).map(({ href, label }) => (
               <Link key={href} href={href}>
                 {label}
               </Link>
             ))}
-          </div>
-          <div className="footer-privacy">
-            <Link href="/privacidad">Política de Privacidad</Link>
           </div>
         </div>
         <div>
@@ -49,8 +47,9 @@ const Footer = () => {
         </div>
         <div className="footer-bottom">
           <p>
-            {sitename} {new Date().getFullYear()}
+            © {new Date().getFullYear()} {sitename}
           </p>
+          <Link href="/privacidad">Política de Privacidad</Link>
         </div>
       </div>
     </footer>

@@ -1,19 +1,18 @@
 import Head from "next/head"
 import { sitename, motto, sitedomain } from "../components/siteData"
-import CoverCard from "@/components/CoverCard"
-import TextCard from "@/components/TextCard"
-import LargeCard from "@/components/LargeCard"
-import { getAllPosts, toCard } from "@/lib/posts"
+import HeroCard from "@/components/HeroCard"
+import RankList from "@/components/RankList"
+import PostCard from "@/components/PostCard"
+import WideCard from "@/components/WideCard"
+import CategoryTiles from "@/components/CategoryTiles"
+import SectionHeader from "@/components/SectionHeader"
+import { getAllPosts, getCategoryTiles, toCard } from "@/lib/posts"
 
-export default function Home({ blogs }) {
-  const [first, ...rest] = blogs
-  const nextTwo = rest.slice(0, 2)
-  const nextFour = rest.slice(2, 6)
-  const daRest = rest.slice(6, 14)
+export default function Home({ hero, latest, gaming, gamingCount, screen, tiles }) {
   const description = `${sitename} - ${motto}. Encuentra los mejores artículos y noticias.`
 
   return (
-    <main className="container">
+    <main className="container home">
       <Head>
         <title>{`${sitename} - ${motto}`}</title>
         <meta name="description" content={description} />
@@ -34,41 +33,67 @@ export default function Home({ blogs }) {
         {sitename} - {motto}
       </h1>
 
-      <div className="section-header section-header-first">
-        <h2>POSTS RECIENTES</h2>
-      </div>
+      <section className="home-top" aria-label="Destacado">
+        {hero ? <HeroCard post={hero} /> : null}
+        <RankList title="Lo más reciente" posts={latest} />
+      </section>
 
-      <div className="home-grid">
-        <div>{first ? <CoverCard post={first} priority /> : null}</div>
-        <div className="stack">
-          {nextTwo.map((blog) => (
-            <CoverCard key={blog.slug} post={blog} secondary />
-          ))}
-        </div>
-        <div className="stack stack-tight">
-          {nextFour.map((blog) => (
-            <TextCard key={blog.slug} post={blog} />
-          ))}
-        </div>
-      </div>
+      {gaming.length ? (
+        <section>
+          <SectionHeader
+            title="Gaming"
+            href="/categories/gaming"
+            linkLabel={`Ver los ${gamingCount.toLocaleString("es-MX")} artículos`}
+          />
+          <div className="card-grid card-grid-4">
+            {gaming.map((post) => (
+              <PostCard key={post.slug} post={post} />
+            ))}
+          </div>
+        </section>
+      ) : null}
 
-      <div className="section-header section-header-spaced">
-        <h2>OTROS POSTS</h2>
-      </div>
+      {screen.length ? (
+        <section>
+          <SectionHeader title="Cine y TV" href="/categories/cine" linkLabel="Ver cine" />
+          <div className="wide-grid">
+            {screen.map((post) => (
+              <WideCard key={post.slug} post={post} />
+            ))}
+          </div>
+        </section>
+      ) : null}
 
-      <div className="card-grid card-grid-4">
-        {daRest.map((blog) => (
-          <LargeCard key={blog.slug} post={blog} />
-        ))}
-      </div>
+      <section>
+        <SectionHeader title="Explora por categoría" />
+        <CategoryTiles tiles={tiles} />
+      </section>
     </main>
   )
 }
 
 export async function getStaticProps() {
+  const all = getAllPosts()
+  const shown = new Set()
+  const take = (posts, count) => {
+    const picked = posts.filter((post) => !shown.has(post.slug)).slice(0, count)
+    picked.forEach((post) => shown.add(post.slug))
+    return picked.map(toCard)
+  }
+  const inCategory = (...names) => all.filter((post) => names.includes(post.categoria.toLowerCase()))
+
+  const [hero = null] = take(all, 1)
+  const latest = take(all, 5)
+  const gamingPosts = inCategory("gaming")
+
   return {
     props: {
-      blogs: getAllPosts().slice(0, 15).map(toCard),
+      hero,
+      latest,
+      gaming: take(gamingPosts, 4),
+      gamingCount: gamingPosts.length,
+      screen: take(inCategory("cine", "television"), 2),
+      tiles: getCategoryTiles(),
     },
   }
 }

@@ -1,17 +1,18 @@
 import Head from "next/head"
-import LargeCard from "./LargeCard"
+import PostCard from "./PostCard"
 import Pagination from "./Pagination"
 import { sitename, sitedomain } from "./siteData"
+import { navCategories } from "./categories"
 
 // Shared layout for category and tag listings (props from getCategoryProps/getTagProps).
-const PostListPage = ({ kind, name, posts, page, totalPages, total }) => {
+const PostListPage = ({ kind, name, label: categoryLabel, posts, page, totalPages, total }) => {
   const isTag = kind === "tag"
-  const label = isTag ? `#${name}` : name
-  const heading = label.toUpperCase()
+  const navLabel = navCategories.find(({ href }) => href === `/categories/${name}`)?.label
+  const label = isTag ? `#${name}` : navLabel || categoryLabel || name
   const basePath = isTag ? `/tags/${name}` : `/categories/${name}`
   const description = isTag
     ? `Posts etiquetados con #${name} en ${sitename}. Explora contenido relacionado.`
-    : `Artículos sobre ${name} en ${sitename}. Encuentra los mejores posts y noticias.`
+    : `Artículos sobre ${label} en ${sitename}. Encuentra los mejores posts y noticias.`
   const canonical = `${sitedomain}${basePath}${page > 1 ? `/pagina/${page}` : ""}`
   const title = `${sitename} | ${label}${page > 1 ? ` - Página ${page}` : ""}`
 
@@ -31,14 +32,18 @@ const PostListPage = ({ kind, name, posts, page, totalPages, total }) => {
         <meta name="twitter:description" content={description} />
       </Head>
 
-      <div className="page-hero">
-        <h1>{heading}</h1>
-        <p className="subtitle">{total} artículos</p>
+      <div className="list-hero">
+        <p className="list-eyebrow">{isTag ? "Etiqueta" : "Categoría"}</p>
+        <h1 className="list-title">{label}</h1>
+        <p className="list-count">
+          {total.toLocaleString("es-MX")} artículos
+          {page > 1 ? ` · página ${page} de ${totalPages}` : ""}
+        </p>
       </div>
 
       <div className="card-grid card-grid-3">
         {posts.map((post, index) => (
-          <LargeCard key={post.slug} post={post} priority={index === 0} headingLevel={2} />
+          <PostCard key={post.slug} post={post} priority={index === 0} headingLevel={2} />
         ))}
       </div>
 
