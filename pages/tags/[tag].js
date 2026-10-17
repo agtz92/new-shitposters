@@ -4,28 +4,25 @@ import path from "path"
 import matter from "gray-matter"
 import Link from "next/link"
 import LargeCard from "@/components/LargeCard"
-import { Box, Grid, Pagination, Stack } from "@mui/material"
 import Head from "next/head"
 import { sitename, sitedomain } from "@/components/siteData"
 
 function removeSpecialCharactersAndLowerCase(str) {
-  // Remove special characters and spaces and convert to lowercase
   return str.replace(/[^a-zA-Z0-9]+/g, "").toLowerCase()
 }
 
-function TagPage({ matchingFiles, tag, isMobile }) {
-  // Sort the blogs by date in descending order
+function TagPage({ matchingFiles, tag }) {
   const sortedBlogs = matchingFiles?.sort(
     (a, b) => new Date(b.date) - new Date(a.date)
   )
 
-  //pagination
   const itemsPerPage = 6
   const [currentPage, setCurrentPage] = useState(1)
   const startIndex = (currentPage - 1) * itemsPerPage
   const endIndex = startIndex + itemsPerPage
   const blogsToDisplay = sortedBlogs?.slice(startIndex, endIndex)
-  //reset current page if tag changes
+  const totalPages = Math.ceil(sortedBlogs.length / itemsPerPage)
+
   useEffect(() => {
     setCurrentPage(1)
   }, [tag])
@@ -33,9 +30,7 @@ function TagPage({ matchingFiles, tag, isMobile }) {
   const title = sitename + " | #" + tag
 
   return (
-    <Box
-      className='margins5'
-    >
+    <div className="margins5">
       <Head>
         <title>{title}</title>
         <meta name="description" content={`Posts etiquetados con #${tag} en ${sitename}. Explora contenido relacionado.`} />
@@ -49,36 +44,45 @@ function TagPage({ matchingFiles, tag, isMobile }) {
         <meta name="twitter:title" content={title} />
         <meta name="twitter:description" content={`Posts etiquetados con #${tag} en ${sitename}.`} />
       </Head>
+
       <h1 style={{ textAlign: "center", fontWeight: 600 }}>
         #{tag.toUpperCase()}
       </h1>
 
-      <Grid container spacing={2}>
+      <div className="grid grid-3">
         {blogsToDisplay?.map((file, index) => (
-          <Grid key={index} item xs={12} md={4}>
-            <Link href={`/${file.slug}`}>
-              <LargeCard post={file} />
-            </Link>
-          </Grid>
+          <Link key={index} href={`/${file.slug}`}>
+            <LargeCard post={file} />
+          </Link>
         ))}
-      </Grid>
-      {/*Pagination*/}
-      <Stack
-        spacing={2}
-        display={"flex"}
-        flexDirection={"row"}
-        alignContent={"space-evenly"}
-        justifyContent={"space-evenly"}
-        sx={{ marginTop: 5 }}
-      >
-        <Pagination
-          count={Math.ceil(sortedBlogs.length / itemsPerPage)}
-          size="large"
-          page={currentPage}
-          onChange={(event, page) => setCurrentPage(page)}
-        />
-      </Stack>
-    </Box>
+      </div>
+
+      {totalPages > 1 && (
+        <div className="pagination">
+          <button
+            onClick={() => setCurrentPage((p) => Math.max(1, p - 1))}
+            disabled={currentPage === 1}
+          >
+            &laquo;
+          </button>
+          {Array.from({ length: totalPages }, (_, i) => i + 1).map((page) => (
+            <button
+              key={page}
+              className={currentPage === page ? "active" : ""}
+              onClick={() => setCurrentPage(page)}
+            >
+              {page}
+            </button>
+          ))}
+          <button
+            onClick={() => setCurrentPage((p) => Math.min(totalPages, p + 1))}
+            disabled={currentPage === totalPages}
+          >
+            &raquo;
+          </button>
+        </div>
+      )}
+    </div>
   )
 }
 
@@ -91,30 +95,23 @@ export async function getStaticPaths() {
       fs.readFileSync(path.join("./blog", file), "utf8")
     )
     const frontmatter = fileContent.data
-
     if (frontmatter.tags && frontmatter.tags.length > 0) {
       frontmatter.tags.forEach((tag) => {
-        // Check if the tag is not empty or null before adding it to the set
         if (tag) {
-          const tagSlug = removeSpecialCharactersAndLowerCase(tag)
-          tags.add(tagSlug)
+          tags.add(removeSpecialCharactersAndLowerCase(tag))
         }
       })
     }
   }
 
   const paths = Array.from(tags).map((tagSlug) => ({
-    params: { tag: tagSlug }, // Use the tagSlug as a string
+    params: { tag: tagSlug },
   }))
 
-  return {
-    paths,
-    fallback: "blocking",
-  }
+  return { paths, fallback: "blocking" }
 }
 
 export async function getStaticProps({ params: { tag } }) {
-  // Use the modified function to get the tag slug
   const tagSlug = removeSpecialCharactersAndLowerCase(tag)
   const files = fs.readdirSync("./blog")
   const matchingFiles = []
@@ -130,32 +127,24 @@ export async function getStaticProps({ params: { tag } }) {
       : ""
 
     if (frontmatter.tags) {
-      // Perform a case-insensitive search for the tag
       const matchingTag = frontmatter.tags.find(
         (t) => removeSpecialCharactersAndLowerCase(t) === tagSlug
       )
-
       if (matchingTag) {
         const slug = file.slice(0, file.indexOf("."))
         matchingFiles.push({
           slug,
           title: frontmatter.title,
           categoria: frontmatter.categoria,
-          shortDescription: shortDescription,
+          shortDescription,
           featuredimage: frontmatter.featuredimage,
           date: isoDate,
-          // ...
         })
       }
     }
   }
 
-  return {
-    props: {
-      matchingFiles,
-      tag: tagSlug, // Use the lowercase tag for display
-    },
-  }
+  return { props: { matchingFiles, tag: tagSlug } }
 }
 
 export default TagPage

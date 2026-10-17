@@ -1,10 +1,8 @@
-// components/Nav.js
-import { Box } from "@mui/material"
 import Link from "next/link"
 import { useState } from "react"
 import { sitename, motto } from "./siteData"
 
-const Nav = ({ isMobile, siteData }) => {
+const Nav = () => {
   const [isOpen, setIsOpen] = useState(false)
 
   const toggleMenu = () => {
@@ -13,18 +11,7 @@ const Nav = ({ isMobile, siteData }) => {
 
   return (
     <>
-      <Box
-        display={"flex"}
-        flexDirection={"column"}
-        justifyContent={"center"}
-        alignItems={"center"}
-        sx={{
-          borderBottom: "1px solid #d80032",
-          marginLeft: 20,
-          marginRight: 20,
-        }}
-        className="pc-only"
-      >
+      <div className="pc-only">
         <h1 style={{ fontSize: "4em", fontWeight: 600, margin: 0 }}>
           {sitename}
         </h1>
@@ -39,7 +26,7 @@ const Nav = ({ isMobile, siteData }) => {
         >
           {motto}
         </h3>
-      </Box>
+      </div>
 
       <nav className={`nav ${isOpen ? "open" : ""}`}>
         <div className="logo">
@@ -52,54 +39,34 @@ const Nav = ({ isMobile, siteData }) => {
         </div>
         <ul className={`menu ${isOpen ? "open" : ""}`}>
           <li>
-            <Link href="/" onClick={toggleMenu}>
-              NUEVO
-            </Link>
+            <Link href="/" onClick={toggleMenu}>NUEVO</Link>
           </li>
           <li>
-            <Link href="/categories/gaming" onClick={toggleMenu}>
-              GAMING
-            </Link>
+            <Link href="/categories/gaming" onClick={toggleMenu}>GAMING</Link>
           </li>
           <li>
-            <Link href="/categories/cine" onClick={toggleMenu}>
-              CINE
-            </Link>
+            <Link href="/categories/cine" onClick={toggleMenu}>CINE</Link>
           </li>
           <li>
-            <Link href="/categories/musica" onClick={toggleMenu}>
-              MUSICA
-            </Link>
+            <Link href="/categories/musica" onClick={toggleMenu}>MUSICA</Link>
           </li>
           <li>
-            <Link href="/categories/deportes" onClick={toggleMenu}>
-              DEPORTES
-            </Link>
+            <Link href="/categories/deportes" onClick={toggleMenu}>DEPORTES</Link>
           </li>
           <li>
-            <Link href="/categories/naturaleza" onClick={toggleMenu}>
-              NATURALEZA
-            </Link>
+            <Link href="/categories/naturaleza" onClick={toggleMenu}>NATURALEZA</Link>
           </li>
           <li>
-            <Link href="/categories/recomendaciones" onClick={toggleMenu}>
-              RECOMENDACIONES
-            </Link>
+            <Link href="/categories/recomendaciones" onClick={toggleMenu}>RECOMENDACIONES</Link>
           </li>
           <li>
-            <Link href="/categories/celebridades" onClick={toggleMenu}>
-              CELEBRIDADES
-            </Link>
+            <Link href="/categories/celebridades" onClick={toggleMenu}>CELEBRIDADES</Link>
           </li>
           <li>
-            <Link href="/categories/historia" onClick={toggleMenu}>
-              HISTORIA
-            </Link>
+            <Link href="/categories/historia" onClick={toggleMenu}>HISTORIA</Link>
           </li>
           <li>
-            <Link href="/categories/random" onClick={toggleMenu}>
-              RANDOM
-            </Link>
+            <Link href="/categories/random" onClick={toggleMenu}>RANDOM</Link>
           </li>
         </ul>
       </nav>

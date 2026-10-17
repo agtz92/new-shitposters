@@ -1,11 +1,9 @@
 import Footer from "@/components/Footer"
 import Nav from "@/components/Nav"
 import "@/styles/globals.css"
-import { useMediaQuery } from "@mui/material"
 import Script from "next/script"
 
 export default function App({ Component, pageProps }) {
-  const isMobile = useMediaQuery("(max-width:768px)")
   const GA_ID = process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS
 
   return (
@@ -27,8 +25,8 @@ export default function App({ Component, pageProps }) {
         </>
       ) : null}
 
-      <Nav isMobile={isMobile} />
-      <Component {...pageProps} isMobile={isMobile} />
+      <Nav />
+      <Component {...pageProps} />
       <Footer />
     </>
   )

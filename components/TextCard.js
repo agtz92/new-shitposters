@@ -1,16 +1,13 @@
 import React from "react"
-import {  Card, CardContent, Chip } from "@mui/material"
 
-const TextCard = ({ post, height }) => {
+const TextCard = ({ post }) => {
   return (
-    <Card>
-      <CardContent>
-        <h3 style={{fontSize:'1em', fontWeight:'600'}}>{post.title}</h3>
-        <Chip
-          label={post.categoria}
-        />
-      </CardContent>
-    </Card>
+    <div className="text-card">
+      <div className="card-content">
+        <h3>{post.title}</h3>
+        <span className="chip">{post.categoria}</span>
+      </div>
+    </div>
   )
 }
 

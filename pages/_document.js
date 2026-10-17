@@ -5,49 +5,27 @@ export default function Document() {
   return (
     <Html lang="es">
       <Head>
-        <script
-          async
-          src="https://identity.netlify.com/v1/netlify-identity-widget.js"
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+        <link
+          rel="preload"
+          as="style"
+          href="https://fonts.googleapis.com/css2?family=AR+One+Sans:wght@400;600&display=swap"
         />
-        <script
-          async
-          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7182528185795867"
-          crossOrigin="anonymous"
-        ></script>
-
-        <Script
-          async
-          src="https://www.googletagmanager.com/gtag/js?id=G-YRGDLQ7446"
+        <link
+          rel="stylesheet"
+          href="https://fonts.googleapis.com/css2?family=AR+One+Sans:wght@400;600&display=swap"
+          media="print"
+          onLoad="this.media='all'"
         />
-
-        <Script id="google-analytics">
-          {`
-              window.dataLayer = window.dataLayer || [];
-              function gtag(){dataLayer.push(arguments);}
-              gtag('js', new Date());
-            
-              gtag('config', ${'${process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS}'});
-          `}
-        </Script>
       </Head>
-
       <body>
         <Main />
         <NextScript />
-        <script
-          dangerouslySetInnerHTML={{
-            __html: `
-              if (window.netlifyIdentity) {
-                window.netlifyIdentity.on("init", user => {
-                  if (!user) {
-                    window.netlifyIdentity.on("login", () => {
-                      document.location.href = "/admin/";
-                    });
-                  }
-                });
-              }
-          `,
-          }}
+        <Script
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7182528185795867"
+          strategy="lazyOnload"
+          crossOrigin="anonymous"
         />
       </body>
     </Html>

@@ -2,24 +2,23 @@ import React, { useState, useEffect } from "react"
 import fs from "fs"
 import path from "path"
 import matter from "gray-matter"
-import { Box, Grid, Pagination, Stack } from "@mui/material"
 import Link from "next/link"
 import Head from "next/head"
 import LargeCard from "@/components/LargeCard"
 import { sitename, sitedomain } from "@/components/siteData"
 
-export default function CategoryPage({ matchingFiles, category, isMobile }) {
-  // Sort the blogs by date in descending order
+export default function CategoryPage({ matchingFiles, category }) {
   const sortedBlogs = matchingFiles?.sort(
     (a, b) => new Date(b.date) - new Date(a.date)
   )
-  //pagination
+
   const itemsPerPage = 6
   const [currentPage, setCurrentPage] = useState(1)
   const startIndex = (currentPage - 1) * itemsPerPage
   const endIndex = startIndex + itemsPerPage
   const blogsToDisplay = sortedBlogs?.slice(startIndex, endIndex)
-  //reset current page if category changes
+  const totalPages = Math.ceil(sortedBlogs.length / itemsPerPage)
+
   useEffect(() => {
     setCurrentPage(1)
   }, [category])
@@ -27,71 +26,61 @@ export default function CategoryPage({ matchingFiles, category, isMobile }) {
   const title = sitename + " | " + category
 
   return (
-    <Box
-      className='margins5'
-    >
+    <div className="margins5">
       <Head>
         <title>{title}</title>
-        <meta name="description" content={`Artículos sobre ${category} en ${sitename}. Encuentra los mejores posts y noticias.`} />
+        <meta name="description" content={`Articulos sobre ${category} en ${sitename}. Encuentra los mejores posts y noticias.`} />
         <link rel="canonical" href={`${sitedomain}/categories/${category.toLowerCase()}`} />
         <meta property="og:type" content="website" />
         <meta property="og:title" content={title} />
-        <meta property="og:description" content={`Artículos sobre ${category} en ${sitename}.`} />
+        <meta property="og:description" content={`Articulos sobre ${category} en ${sitename}.`} />
         <meta property="og:url" content={`${sitedomain}/categories/${category.toLowerCase()}`} />
         <meta property="og:site_name" content={sitename} />
         <meta name="twitter:card" content="summary" />
         <meta name="twitter:title" content={title} />
-        <meta name="twitter:description" content={`Artículos sobre ${category} en ${sitename}.`} />
+        <meta name="twitter:description" content={`Articulos sobre ${category} en ${sitename}.`} />
       </Head>
-      <Box
-        display={"flex"}
-        flexDirection={"column"}
-        justifyContent={"center"}
-        alignItems={"center"}
-        sx={{
-          borderBottom: "1px solid #d80032",
-          marginBottom: 5,
-        }}
-        className='margins'
-      >
-        <h1
-          style={{
-            fontSize: "1.5em",
-            fontWeight: 600,
-            textAlign: "center",
-            letterSpacing: "2px",
-          }}
-        >
+
+      <div className="section-header margins">
+        <h1 style={{ fontSize: "1.5em", fontWeight: 600, textAlign: "center", letterSpacing: "2px" }}>
           {category.toUpperCase()}
         </h1>
-      </Box>
+      </div>
 
-      <Grid container spacing={2}>
+      <div className="grid grid-3">
         {blogsToDisplay?.map((file, index) => (
-          <Grid key={index} item xs={12} md={4}>
-            <Link href={`/${file.slug}`}>
-              <LargeCard post={file} />
-            </Link>
-          </Grid>
+          <Link key={index} href={`/${file.slug}`}>
+            <LargeCard post={file} />
+          </Link>
         ))}
-      </Grid>
-      {/*Pagination*/}
-      <Stack
-        spacing={2}
-        display={"flex"}
-        flexDirection={"row"}
-        alignContent={"space-evenly"}
-        justifyContent={"space-evenly"}
-        sx={{ marginTop: 5 }}
-      >
-        <Pagination
-          count={Math.ceil(sortedBlogs.length / itemsPerPage)}
-          size="large"
-          page={currentPage}
-          onChange={(event, page) => setCurrentPage(page)}
-        />
-      </Stack>
-    </Box>
+      </div>
+
+      {totalPages > 1 && (
+        <div className="pagination">
+          <button
+            onClick={() => setCurrentPage((p) => Math.max(1, p - 1))}
+            disabled={currentPage === 1}
+          >
+            &laquo;
+          </button>
+          {Array.from({ length: totalPages }, (_, i) => i + 1).map((page) => (
+            <button
+              key={page}
+              className={currentPage === page ? "active" : ""}
+              onClick={() => setCurrentPage(page)}
+            >
+              {page}
+            </button>
+          ))}
+          <button
+            onClick={() => setCurrentPage((p) => Math.min(totalPages, p + 1))}
+            disabled={currentPage === totalPages}
+          >
+            &raquo;
+          </button>
+        </div>
+      )}
+    </div>
   )
 }
 
@@ -127,28 +116,23 @@ export async function getStaticProps({ params }) {
       }
     }
 
-    return {
-      props: { matchingFiles, category: category },
-    }
+    return { props: { matchingFiles, category } }
   } catch (error) {
     console.error("Error reading files or parsing frontmatter:", error)
-    return {
-      notFound: true,
-    }
+    return { notFound: true }
   }
 }
+
 export async function getStaticPaths() {
   const files = fs.readdirSync("./categories")
   const categories = new Set()
 
   for (const file of files) {
-    // Check if the file is not hidden (doesn't start with a dot)
     if (!file.startsWith(".")) {
       const fileContent = matter(
         fs.readFileSync(path.join("./categories", file), "utf8")
       )
       const frontmatter = fileContent.data
-
       if (frontmatter.categoria) {
         categories.add(frontmatter.categoria.toLowerCase())
       }
@@ -159,8 +143,5 @@ export async function getStaticPaths() {
     params: { category },
   }))
 
-  return {
-    paths,
-    fallback: "blocking", // Allow for custom handling of 404-like cases
-  }
+  return { paths, fallback: "blocking" }
 }

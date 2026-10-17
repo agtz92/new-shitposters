@@ -1,59 +1,35 @@
-import { Card, CardContent, Chip } from "@mui/material"
 import Image from "next/image"
-import Link from "next/link"
 import React from "react"
 
-const LargeCard = ({ post, height }) => {
+const LargeCard = ({ post }) => {
   function generateExcerpt(text, maxLength) {
-    if (text) {
-      if (text.length <= maxLength) {
-        return text
-      } else {
-        const trimmedText = text.substring(0, maxLength)
-        // Ensure the last word isn't cut off
-        const lastSpaceIndex = trimmedText.lastIndexOf(" ")
-        if (lastSpaceIndex !== -1) {
-          return trimmedText.substring(0, lastSpaceIndex) + "..."
-        } else {
-          return trimmedText + "..."
-        }
-      }
-    } else {
-      return ""
-    }
+    if (!text) return ""
+    if (text.length <= maxLength) return text
+    const trimmed = text.substring(0, maxLength)
+    const lastSpace = trimmed.lastIndexOf(" ")
+    return (lastSpace !== -1 ? trimmed.substring(0, lastSpace) : trimmed) + "..."
   }
 
   return (
-    <Card
-      sx={{
-        background: "#fff",
-        color: "#000",
-        minHeight: { height },
-        maxHeight: { height },
-        overflow: "hidden",
-      }}
-    >
-      <CardContent>
-        <h2 style={{ height: "6em", fontSize: "1.2em", fontWeight: "600" }}>
-          {post.title}
-        </h2>
-        <div className="featuredimage-wrapper ">
+    <div className="large-card">
+      <div className="card-content">
+        <h2>{post.title}</h2>
+        <div className="featuredimage-wrapper">
           <Image
             className="featuredimg"
             src={post.featuredimage}
             alt={post.title}
             fill
-            placeholder="blur"
-            blurDataURL="../public/assets/blur.jpg"
+            sizes="(max-width: 768px) 100vw, 25vw"
+            loading="lazy"
           />
         </div>
-        <Chip sx={{ marginTop: 1 }} label={post.categoria} />
-
-        <p style={{ fontWeight: 300, color: "#ddd" }}>
+        <span className="chip" style={{ marginTop: 8 }}>{post.categoria}</span>
+        <p className="card-excerpt">
           {generateExcerpt(post.shortDescription, 150)}
         </p>
-      </CardContent>
-    </Card>
+      </div>
+    </div>
   )
 }
 
