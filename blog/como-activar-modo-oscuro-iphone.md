@@ -1,6 +1,6 @@
 ---
 title: Cómo activar el modo oscuro en iPhone paso a paso
-date: '2026-10-17T14:06:17.525Z'
+date: '2026-10-17T14:06:21.722Z'
 featuredimage: /assets/evergreen/como-activar-modo-oscuro-iphone.jpg
 categoria: Recomendaciones
 tags:
