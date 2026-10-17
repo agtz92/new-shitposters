@@ -79,6 +79,14 @@ async function renderMarkdown(sections) {
     .join("\n")
     .replace(/<img(?![^>]*\sloading=)/g, '<img loading="lazy" decoding="async"')
     .replace(/<iframe(?![^>]*\sloading=)/g, '<iframe loading="lazy"')
+    .replace(/<img\s([^>]*)src="([^"]+)"([^>]*?)\/?\s*>/g, (match, before, src, after) => {
+      if (src.includes("/_next/image") || src.endsWith(".svg")) return match
+      if (!src.startsWith("/") && !src.startsWith("http")) return match
+      const optimized = `/_next/image?url=${encodeURIComponent(src)}&w=828&q=75`
+      const hasSize = /width=/.test(before + after)
+      const sizeAttrs = hasSize ? "" : ' width="828" height="466"'
+      return `<img ${before}src="${optimized}"${after}${sizeAttrs}>`
+    })
   return normalizeHeadings(html)
 }
 

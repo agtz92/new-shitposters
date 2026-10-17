@@ -330,9 +330,11 @@ a.chip:hover {
 .content iframe {
   margin: 0 auto;
   max-width: min(100%, 500px);
+  width: 100%;
   height: auto;
   display: block;
   border-radius: var(--radius-md);
+  background: var(--bg-secondary);
 }
 .content pre {
   width: 100%;
