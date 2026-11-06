@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "node scripts/extract-inline-images.js && next dev",
-    "build": "node scripts/extract-inline-images.js && next build",
+    "dev": "node scripts/extract-inline-images.js && node scripts/generate-sitemap.js && next dev",
+    "build": "node scripts/extract-inline-images.js && node scripts/generate-sitemap.js && next build",
     "start": "next start",
     "lint": "next lint"
   },
